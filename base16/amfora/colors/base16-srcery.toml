@@ -1,0 +1,42 @@
+# Base16 srcery - amfora color config
+# 
+
+[theme]
+bg = "#1C1B19"
+fg = "#BAA67F"
+
+bottombar_label = "#E02C6D"
+bottombar_text = "#BAA67F"
+bottombar_bg = "#98BC37"
+
+tab_num = "#FED06E"
+tab_divider = "#68A8E4"
+
+amfora_link = "#519F50"
+foreign_link = "#918175"
+link_number = "#918175"
+
+btn_bg = "#98BC37"
+btn_text = "#BAA67F"
+
+input_modal_bg = "#98BC37"
+input_modal_text = "#BAA67F"
+input_modal_field_bg = "#1C1B19"
+input_modal_field_text = "#BAA67F"
+info_modal_bg = "#98BC37"
+info_modal_text = "#BAA67F"
+error_modal_bg = "#98BC37"
+error_modal_text = "#2BE4D0"
+yesno_modal_bg = "#98BC37"
+yesno_modal_text = "#BAA67F"
+tofu_modal_bg = "#98BC37"
+tofu_modal_text = "#BAA67F"
+subscription_modal_bg = "#98BC37"
+subscription_modal_text = "#BAA67F"
+
+hdg_1 = "#FF5F00"
+hdg_2 = "#FBB829"
+hdg_3 = "#2C78BF"
+regular_text = "#BAA67F"
+preformatted_text = "#0AAEB3"
+list_text = "#BAA67F"

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 srcery
+; schema by 
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\srcery]
+
+; Default Foreground
+"Colour0"="186,166,127"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="186,166,127"
+
+; Default Background
+"Colour2"="28,27,25"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="28,27,25"
+
+; Cursor Text -- equals to default background
+"Colour4"="28,27,25"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="186,166,127"
+
+; ANSI Black
+"Colour6"="28,27,25"
+
+; ANSI Black Bold
+"Colour7"="145,129,117"
+
+; ANSI Red
+"Colour8"="239,47,39"
+
+; ANSI Red Bold
+"Colour9"="255,95,0"
+
+; ANSI Green
+"Colour10"="81,159,80"
+
+; ANSI Green Bold
+"Colour11"="152,188,55"
+
+; ANSI Yellow
+"Colour12"="251,184,41"
+
+; ANSI Yellow Bold
+"Colour13"="254,208,110"
+
+; ANSI Blue
+"Colour14"="44,120,191"
+
+; ANSI Blue Bold
+"Colour15"="104,168,228"
+
+; ANSI Magenta
+"Colour16"="224,44,109"
+
+; ANSI Magenta Bold
+"Colour17"="255,92,143"
+
+; ANSI Cyan
+"Colour18"="10,174,179"
+
+; ANSI Cyan Bold
+"Colour19"="43,228,208"
+
+; ANSI White
+"Colour20"="186,166,127"
+
+; ANSI White Bold
+"Colour21"="252,232,195"
+

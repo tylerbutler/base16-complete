@@ -1,0 +1,31 @@
+; base16-srcery
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: 
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #1C1B19
+base01 = #98BC37
+base02 = #FED06E
+base03 = #918175
+base04 = #68A8E4
+base05 = #BAA67F
+base06 = #FF5C8F
+base07 = #FCE8C3
+base08 = #EF2F27
+base09 = #FF5F00
+base0a = #FBB829
+base0b = #519F50
+base0c = #0AAEB3
+base0d = #2C78BF
+base0e = #E02C6D
+base0f = #2BE4D0
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

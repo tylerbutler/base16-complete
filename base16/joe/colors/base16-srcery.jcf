@@ -1,0 +1,61 @@
+
+# base16 srcery by 
+
+.colors *
+
+-text		$BAA67F/$1C1B19
+-status		$68A8E4/$FED06E
+-cursor		$1C1B19/$BAA67F
+-selection	/$FED06E
+-curlin		/$98BC37
+-linum		$918175/$98BC37
+-curlinum	$68A8E4/$98BC37
+-menusel	$98BC37/$68A8E4
+
+-term 0 	$1C1B19
+-term 1 	$2C78BF
+-term 2 	$519F50
+-term 3 	$0AAEB3
+-term 4 	$FF5F00
+-term 5 	$E02C6D
+-term 6 	$FBB829
+-term 7 	$68A8E4
+-term 8 	$918175
+-term 9 	$2C78BF
+-term 10	$519F50
+-term 11	$0AAEB3
+-term 12	$EF2F27
+-term 13	$2BE4D0
+-term 14	$FBB829
+-term 15	$FCE8C3
+
+=Constant	$FF5F00
+=String		$519F50
+=Escape		$0AAEB3
+
+=Comment	$918175
+=StorageClass	+Type
+=Keyword	$E02C6D
+=Conditional	$E02C6D
+=Operator	$BAA67F
+=Loop		$FBB829
+=Statement	$EF2F27
+=Type		$FBB829
+
+=DefinedIdent	$EF2F27
+=Label		$FBB829
+=DefinedType	$FBB829
+=Structure	$E02C6D
+
+=Preproc	$FBB829
+=Include	$2C78BF
+=Define		$E02C6D
+=TODO		$FBB829/$98BC37
+=Precond	$E02C6D
+
+=diff.AddLine	$519F50/$98BC37
+=diff.ChgLine	$918175/$98BC37
+=diff.DelLine	$EF2F27/$98BC37
+=diff.File	$EF2F27
+=diff.FileNew	$519F50
+=diff.Hunk	$2C78BF

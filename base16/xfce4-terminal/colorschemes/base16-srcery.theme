@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-srcery
+ColorForeground=#BAA67F
+ColorBackground=#1C1B19
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#1C1B19;#EF2F27;#519F50;#FBB829;#2C78BF;#E02C6D;#0AAEB3;#BAA67F;#918175;#EF2F27;#519F50;#FBB829;#2C78BF;#E02C6D;#0AAEB3;#FCE8C3

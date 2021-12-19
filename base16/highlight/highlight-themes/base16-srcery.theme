@@ -1,0 +1,26 @@
+-- Name: Base16 srcery
+-- Author: 
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#BAA67F" }
+Canvas = { Colour="#1C1B19" }
+Number = { Colour="#FF5F00" }
+Escape = { Colour="#FF5C8F" , Italic=true}
+String = { Colour="#519F50" }
+BlockComment = { Colour="#918175" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#BAA67F" }
+LineNum      = { Color="#918175" }
+PreProcessor      = { Colour="#2BE4D0" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#EF2F27", Bold=true},
+  { Colour="#FBB829"},
+  { Colour="#2C78BF"},
+  { Colour="#FBB829"},
+  { Colour="#FBB829" }
+}

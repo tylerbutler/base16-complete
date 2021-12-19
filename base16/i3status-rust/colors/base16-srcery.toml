@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# srcery by 
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1C1B19"
+idle_fg = "#BAA67F"
+info_bg = "#0AAEB3"
+info_fg = "#1C1B19"
+good_bg = "#519F50"
+good_fg = "#1C1B19"
+warning_bg = "#FBB829"
+warning_fg = "#1C1B19"
+critical_bg = "#EF2F27"
+critical_fg = "#1C1B19"
+# The rest of the theme settings are left at default.
