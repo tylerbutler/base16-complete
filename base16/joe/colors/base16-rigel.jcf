@@ -1,0 +1,61 @@
+
+# base16 Rigel by Alexander Keliris
+
+.colors *
+
+-text		$77929e/$00384d
+-status		$7eb2dd/$ffcc1b
+-cursor		$00384d/$77929e
+-selection	/$ffcc1b
+-curlin		/$9cf087
+-linum		$517f8d/$9cf087
+-curlinum	$7eb2dd/$9cf087
+-menusel	$9cf087/$7eb2dd
+
+-term 0 	$00384d
+-term 1 	$1c8db2
+-term 2 	$7fc06e
+-term 3 	$00cccc
+-term 4 	$ff5a67
+-term 5 	$c694ff
+-term 6 	$f08e48
+-term 7 	$7eb2dd
+-term 8 	$517f8d
+-term 9 	$1c8db2
+-term 10	$7fc06e
+-term 11	$00cccc
+-term 12	$c43061
+-term 13	$00ffff
+-term 14	$f08e48
+-term 15	$e6e6dc
+
+=Constant	$ff5a67
+=String		$7fc06e
+=Escape		$00cccc
+
+=Comment	$517f8d
+=StorageClass	+Type
+=Keyword	$c694ff
+=Conditional	$c694ff
+=Operator	$77929e
+=Loop		$f08e48
+=Statement	$c43061
+=Type		$f08e48
+
+=DefinedIdent	$c43061
+=Label		$f08e48
+=DefinedType	$f08e48
+=Structure	$c694ff
+
+=Preproc	$f08e48
+=Include	$1c8db2
+=Define		$c694ff
+=TODO		$f08e48/$9cf087
+=Precond	$c694ff
+
+=diff.AddLine	$7fc06e/$9cf087
+=diff.ChgLine	$517f8d/$9cf087
+=diff.DelLine	$c43061/$9cf087
+=diff.File	$c43061
+=diff.FileNew	$7fc06e
+=diff.Hunk	$1c8db2

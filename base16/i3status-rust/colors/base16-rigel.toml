@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Rigel by Alexander Keliris
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#00384d"
+idle_fg = "#77929e"
+info_bg = "#00cccc"
+info_fg = "#00384d"
+good_bg = "#7fc06e"
+good_fg = "#00384d"
+warning_bg = "#f08e48"
+warning_fg = "#00384d"
+critical_bg = "#c43061"
+critical_fg = "#00384d"
+# The rest of the theme settings are left at default.

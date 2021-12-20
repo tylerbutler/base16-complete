@@ -1,0 +1,165 @@
+/* base16-prism (https://github.com/atelierbram/base16-prism)
+ * by Bram de Haan (http://atelierbramdehaan.nl)
+ * Rigel scheme by Alexander Keliris
+*/
+
+code[class*="language-"],
+pre[class*="language-"] {
+  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  font-size: 14px;
+  line-height: 1.375;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  background: #00384d;
+  color: #77929e;
+}
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+  text-shadow: none;
+  background: #7eb2dd;
+}
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+  text-shadow: none;
+  background: #7eb2dd;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: 1em;
+  margin: .5em 0;
+  overflow: auto;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: #517f8d;
+}
+
+.token.punctuation {
+  color: #77929e;
+}
+
+.token.namespace {
+  opacity: .7;
+}
+
+.token.operator,
+.token.boolean,
+.token.number {
+  color: #ff5a67;
+}
+.token.property {
+  color: #f08e48;
+}
+.token.tag {
+  color: #1c8db2;
+}
+.token.string {
+  color: #00cccc;
+}
+.token.selector {
+  color: #c694ff;
+}
+.token.attr-name {
+  color: #ff5a67;
+}
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  color: #00cccc;
+}
+
+.token.attr-value,
+.token.keyword,
+.token.control,
+.token.directive,
+.token.unit {
+  color: #7fc06e;
+}
+
+.token.statement,
+.token.regex,
+.token.atrule {
+  color: #00cccc;
+}
+
+.token.placeholder,
+.token.variable {
+  color: #1c8db2;
+}
+
+.token.deleted {
+  text-decoration: line-through;
+}
+
+.token.inserted {
+  border-bottom: 1px dotted #e6e6dc;
+  text-decoration: none;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+
+.token.important {
+  color: #c43061;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+pre > code.highlight {
+  outline: .4em solid #c43061;
+  outline-offset: .4em;
+}
+
+/* overrides color-values for the Line Numbers plugin
+ * http://prismjs.com/plugins/line-numbers/
+ */
+.line-numbers .line-numbers-rows {
+  border-right-color: #9cf087;
+}
+
+.line-numbers-rows > span:before {
+  color: #ffcc1b;
+}
+
+/* overrides color-values for the Line Highlight plugin
+ * http://prismjs.com/plugins/line-highlight/
+ * alpha transparency in 8 digits hex notation coming to a browser near you soon:
+ * https://drafts.csswg.org/css-color/#hex-notation
+ */
+.line-highlight {
+  background: #77929e33;
+  background: linear-gradient(to right, #77929e33 70%, #77929e00);
+}

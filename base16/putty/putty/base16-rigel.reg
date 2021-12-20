@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Rigel
+; schema by Alexander Keliris
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rigel]
+
+; Default Foreground
+"Colour0"="119,146,158"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="119,146,158"
+
+; Default Background
+"Colour2"="0,56,77"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,56,77"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,56,77"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="119,146,158"
+
+; ANSI Black
+"Colour6"="0,56,77"
+
+; ANSI Black Bold
+"Colour7"="81,127,141"
+
+; ANSI Red
+"Colour8"="196,48,97"
+
+; ANSI Red Bold
+"Colour9"="255,90,103"
+
+; ANSI Green
+"Colour10"="127,192,110"
+
+; ANSI Green Bold
+"Colour11"="156,240,135"
+
+; ANSI Yellow
+"Colour12"="240,142,72"
+
+; ANSI Yellow Bold
+"Colour13"="255,204,27"
+
+; ANSI Blue
+"Colour14"="28,141,178"
+
+; ANSI Blue Bold
+"Colour15"="126,178,221"
+
+; ANSI Magenta
+"Colour16"="198,148,255"
+
+; ANSI Magenta Bold
+"Colour17"="251,148,255"
+
+; ANSI Cyan
+"Colour18"="0,204,204"
+
+; ANSI Cyan Bold
+"Colour19"="0,255,255"
+
+; ANSI White
+"Colour20"="119,146,158"
+
+; ANSI White Bold
+"Colour21"="230,230,220"
+

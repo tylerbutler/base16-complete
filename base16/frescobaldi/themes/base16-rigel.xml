@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Rigel">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Alexander Keliris
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#77929e" />
+    <background color="#00384d" />
+    <selectiontext color="#fb94ff" />
+    <selectionbackground color="#517f8d" />
+    <current color="#9cf087" />
+    <mark color="#ffcc1b" />
+    <error color="#9cf087" />
+    <search color="#" />
+    <match color="#7eb2dd" />
+    <paper color="#9cf087" />
+    <musichighlight color="#517f8d" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#c43061" />
+    <escape textColor="#ff5a67" />
+    <comment italic="True" textColor="#517f8d" />
+    <value textColor="#f08e48" />
+    <variable textColor="#7fc06e" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#1c8db2" />
+    <error textColor="#c694ff" underline="True" underlineColor="#c694ff" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ff5a67" />
+      <dynamic bold="True" textColor="#1c8db2" />
+      <articulation bold="True" textColor="#ff5a67" />
+      <fingering textColor="#7fc06e" />
+      <stringnumber textColor="#ff5a67" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f08e48" />
+      <lyricmode textColor="#1c8db2" />
+      <lyrictext textColor="#77929e" />
+      <context bold="True" />
+      <grob textColor="#77929e" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

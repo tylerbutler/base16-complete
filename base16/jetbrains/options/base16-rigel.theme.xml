@@ -1,0 +1,21 @@
+<!--    Base16 Rigel
+        Author: Alexander Keliris   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="00384d" />
+    <option name="treeSelectionColor" value="1c8db2" />
+    <option name="highlightColor" value="ffcc1b" />
+    <option name="secondBorderColor" value="00384d" />
+    <option name="tableSelectedColor" value="1c8db2" />
+    <option name="contrastColor" value="9cf087" />
+    <option name="disabledColor" value="7eb2dd" />
+    <option name="secondaryBackgroundColor" value="9cf087" />
+    <option name="buttonColor" value="00384d" />
+    <option name="selectionForegroundColor" value="fb94ff" />
+    <option name="selectionBackgroundColor" value="1c8db2" />
+    <option name="textColor" value="fb94ff" />
+    <option name="foregroundColor" value="77929e" />
+    <option name="backgroundColor" value="00384d" />
+  </component>
+</application> 

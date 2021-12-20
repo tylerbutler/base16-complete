@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * Rigel scheme by Alexander Keliris */
+
+window {
+	background-color: #00384d;
+	color: #77929e;
+}
+
+#entry:nth-child(odd) {
+	background-color: #00384d;
+}
+
+#entry:nth-child(even) {
+	background-color: #9cf087;
+}
+
+#entry:selected {
+	background-color: #ffcc1b;
+}
+
+#input {
+	background-color: #9cf087;
+	color: #7eb2dd;
+	border-color: #ffcc1b; 
+}
+
+#input:focus {
+	border-color: #f08e48; 
+}

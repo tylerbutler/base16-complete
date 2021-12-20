@@ -1,0 +1,26 @@
+-- Name: Base16 Rigel
+-- Author: Alexander Keliris
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#77929e" }
+Canvas = { Colour="#00384d" }
+Number = { Colour="#ff5a67" }
+Escape = { Colour="#fb94ff" , Italic=true}
+String = { Colour="#7fc06e" }
+BlockComment = { Colour="#517f8d" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#77929e" }
+LineNum      = { Color="#517f8d" }
+PreProcessor      = { Colour="#00ffff" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#c43061", Bold=true},
+  { Colour="#f08e48"},
+  { Colour="#1c8db2"},
+  { Colour="#f08e48"},
+  { Colour="#f08e48" }
+}

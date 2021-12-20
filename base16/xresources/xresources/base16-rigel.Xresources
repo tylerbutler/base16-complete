@@ -1,0 +1,45 @@
+! Base16 Rigel
+! Scheme: Alexander Keliris
+
+#define base00 #00384d
+#define base01 #9cf087
+#define base02 #ffcc1b
+#define base03 #517f8d
+#define base04 #7eb2dd
+#define base05 #77929e
+#define base06 #fb94ff
+#define base07 #e6e6dc
+#define base08 #c43061
+#define base09 #ff5a67
+#define base0A #f08e48
+#define base0B #7fc06e
+#define base0C #00cccc
+#define base0D #1c8db2
+#define base0E #c694ff
+#define base0F #00ffff
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07

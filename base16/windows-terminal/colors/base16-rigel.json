@@ -1,0 +1,22 @@
+{
+    "name": "base16-rigel",
+    "background": "#00384d",
+    "selectionBackground": "#ffcc1b",
+    "black": "#00384d",
+    "blue": "#1c8db2",
+    "brightBlack": "#517f8d",
+    "brightBlue": "#7eb2dd",
+    "brightCyan": "#00ffff",
+    "brightGreen": "#9cf087",
+    "brightPurple": "#fb94ff",
+    "brightRed": "#ff5a67",
+    "brightWhite": "#e6e6dc",
+    "brightYellow": "#ffcc1b",
+    "cyan": "#00cccc",
+    "foreground": "#77929e",
+    "green": "#7fc06e",
+    "purple": "#c694ff",
+    "red": "#c43061",
+    "white": "#77929e",
+    "yellow": "#f08e48"
+}

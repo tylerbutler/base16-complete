@@ -1,0 +1,42 @@
+# Base16 Rigel - amfora color config
+# Alexander Keliris
+
+[theme]
+bg = "#00384d"
+fg = "#77929e"
+
+bottombar_label = "#c694ff"
+bottombar_text = "#77929e"
+bottombar_bg = "#9cf087"
+
+tab_num = "#ffcc1b"
+tab_divider = "#7eb2dd"
+
+amfora_link = "#7fc06e"
+foreign_link = "#517f8d"
+link_number = "#517f8d"
+
+btn_bg = "#9cf087"
+btn_text = "#77929e"
+
+input_modal_bg = "#9cf087"
+input_modal_text = "#77929e"
+input_modal_field_bg = "#00384d"
+input_modal_field_text = "#77929e"
+info_modal_bg = "#9cf087"
+info_modal_text = "#77929e"
+error_modal_bg = "#9cf087"
+error_modal_text = "#00ffff"
+yesno_modal_bg = "#9cf087"
+yesno_modal_text = "#77929e"
+tofu_modal_bg = "#9cf087"
+tofu_modal_text = "#77929e"
+subscription_modal_bg = "#9cf087"
+subscription_modal_text = "#77929e"
+
+hdg_1 = "#ff5a67"
+hdg_2 = "#f08e48"
+hdg_3 = "#1c8db2"
+regular_text = "#77929e"
+preformatted_text = "#00cccc"
+list_text = "#77929e"
