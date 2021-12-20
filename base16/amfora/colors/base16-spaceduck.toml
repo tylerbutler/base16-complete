@@ -1,0 +1,42 @@
+# Base16 Spaceduck - amfora color config
+# Guillermo Rodriguez (pineapplegiant)
+
+[theme]
+bg = "#000000"
+fg = "#686f9a"
+
+bottombar_label = "#f2ce00"
+bottombar_text = "#686f9a"
+bottombar_bg = "#5ccc96"
+
+tab_num = "#b3a1e6"
+tab_divider = "#00a3cc"
+
+amfora_link = "#5ccc96"
+foreign_link = "#686f9a"
+link_number = "#686f9a"
+
+btn_bg = "#5ccc96"
+btn_text = "#686f9a"
+
+input_modal_bg = "#5ccc96"
+input_modal_text = "#686f9a"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#686f9a"
+info_modal_bg = "#5ccc96"
+info_modal_text = "#686f9a"
+error_modal_bg = "#5ccc96"
+error_modal_text = "#7a5ccc"
+yesno_modal_bg = "#5ccc96"
+yesno_modal_text = "#686f9a"
+tofu_modal_bg = "#5ccc96"
+tofu_modal_text = "#686f9a"
+subscription_modal_bg = "#5ccc96"
+subscription_modal_text = "#686f9a"
+
+hdg_1 = "#e33400"
+hdg_2 = "#b3a1e6"
+hdg_3 = "#00a3cc"
+regular_text = "#686f9a"
+preformatted_text = "#7a5ccc"
+list_text = "#686f9a"

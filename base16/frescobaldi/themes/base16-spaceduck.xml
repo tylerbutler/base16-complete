@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Spaceduck">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Guillermo Rodriguez (pineapplegiant)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#686f9a" />
+    <background color="#000000" />
+    <selectiontext color="#f2ce00" />
+    <selectionbackground color="#686f9a" />
+    <current color="#5ccc96" />
+    <mark color="#b3a1e6" />
+    <error color="#5ccc96" />
+    <search color="#" />
+    <match color="#00a3cc" />
+    <paper color="#5ccc96" />
+    <musichighlight color="#686f9a" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#e33400" />
+    <escape textColor="#e33400" />
+    <comment italic="True" textColor="#686f9a" />
+    <value textColor="#b3a1e6" />
+    <variable textColor="#5ccc96" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#00a3cc" />
+    <error textColor="#f2ce00" underline="True" underlineColor="#f2ce00" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#e33400" />
+      <dynamic bold="True" textColor="#00a3cc" />
+      <articulation bold="True" textColor="#e33400" />
+      <fingering textColor="#5ccc96" />
+      <stringnumber textColor="#e33400" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#b3a1e6" />
+      <lyricmode textColor="#00a3cc" />
+      <lyrictext textColor="#686f9a" />
+      <context bold="True" />
+      <grob textColor="#686f9a" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Spaceduck
+; schema by Guillermo Rodriguez (pineapplegiant)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\spaceduck]
+
+; Default Foreground
+"Colour0"="104,111,154"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="104,111,154"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="104,111,154"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="104,111,154"
+
+; ANSI Red
+"Colour8"="227,52,0"
+
+; ANSI Red Bold
+"Colour9"="227,52,0"
+
+; ANSI Green
+"Colour10"="92,204,150"
+
+; ANSI Green Bold
+"Colour11"="92,204,150"
+
+; ANSI Yellow
+"Colour12"="179,161,230"
+
+; ANSI Yellow Bold
+"Colour13"="179,161,230"
+
+; ANSI Blue
+"Colour14"="0,163,204"
+
+; ANSI Blue Bold
+"Colour15"="0,163,204"
+
+; ANSI Magenta
+"Colour16"="242,206,0"
+
+; ANSI Magenta Bold
+"Colour17"="242,206,0"
+
+; ANSI Cyan
+"Colour18"="122,92,204"
+
+; ANSI Cyan Bold
+"Colour19"="122,92,204"
+
+; ANSI White
+"Colour20"="104,111,154"
+
+; ANSI White Bold
+"Colour21"="240,241,206"
+

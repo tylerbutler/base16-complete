@@ -1,0 +1,8 @@
+<!--    Base16 Spaceduck
+        Author: Guillermo Rodriguez (pineapplegiant)   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Spaceduck" />
+  </component>
+</application>

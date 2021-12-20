@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * Spaceduck scheme by Guillermo Rodriguez (pineapplegiant) */
+
+window {
+	background-color: #000000;
+	color: #686f9a;
+}
+
+#entry:nth-child(odd) {
+	background-color: #000000;
+}
+
+#entry:nth-child(even) {
+	background-color: #5ccc96;
+}
+
+#entry:selected {
+	background-color: #b3a1e6;
+}
+
+#input {
+	background-color: #5ccc96;
+	color: #00a3cc;
+	border-color: #b3a1e6; 
+}
+
+#input:focus {
+	border-color: #b3a1e6; 
+}

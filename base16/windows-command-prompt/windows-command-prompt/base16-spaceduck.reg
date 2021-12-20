@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Spaceduck (https://github.com/chriskempson/base16)
+; Scheme: Guillermo Rodriguez (pineapplegiant)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00000000 ; base00
+"ColorTable01"=dword:00cca300 ; base0D
+"ColorTable02"=dword:0096cc5c ; base0B
+"ColorTable03"=dword:00cc5c7a ; base0C
+"ColorTable04"=dword:000034e3 ; base08
+"ColorTable05"=dword:0000cef2 ; base0E
+"ColorTable06"=dword:000034e3 ; base09
+"ColorTable07"=dword:009a6f68 ; base05
+"ColorTable08"=dword:009a6f68 ; base03
+"ColorTable09"=dword:0096cc5c ; base01
+"ColorTable10"=dword:00e6a1b3 ; base02
+"ColorTable11"=dword:009a6f68 ; base03
+"ColorTable12"=dword:00cca300 ; base04
+"ColorTable13"=dword:009a6f68 ; base05
+"ColorTable14"=dword:0000cef2 ; base06
+"ColorTable15"=dword:00cef1f0 ; base07

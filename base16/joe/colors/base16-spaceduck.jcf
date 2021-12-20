@@ -1,0 +1,61 @@
+
+# base16 Spaceduck by Guillermo Rodriguez (pineapplegiant)
+
+.colors *
+
+-text		$686f9a/$000000
+-status		$00a3cc/$b3a1e6
+-cursor		$000000/$686f9a
+-selection	/$b3a1e6
+-curlin		/$5ccc96
+-linum		$686f9a/$5ccc96
+-curlinum	$00a3cc/$5ccc96
+-menusel	$5ccc96/$00a3cc
+
+-term 0 	$000000
+-term 1 	$00a3cc
+-term 2 	$5ccc96
+-term 3 	$7a5ccc
+-term 4 	$e33400
+-term 5 	$f2ce00
+-term 6 	$b3a1e6
+-term 7 	$00a3cc
+-term 8 	$686f9a
+-term 9 	$00a3cc
+-term 10	$5ccc96
+-term 11	$7a5ccc
+-term 12	$e33400
+-term 13	$7a5ccc
+-term 14	$b3a1e6
+-term 15	$f0f1ce
+
+=Constant	$e33400
+=String		$5ccc96
+=Escape		$7a5ccc
+
+=Comment	$686f9a
+=StorageClass	+Type
+=Keyword	$f2ce00
+=Conditional	$f2ce00
+=Operator	$686f9a
+=Loop		$b3a1e6
+=Statement	$e33400
+=Type		$b3a1e6
+
+=DefinedIdent	$e33400
+=Label		$b3a1e6
+=DefinedType	$b3a1e6
+=Structure	$f2ce00
+
+=Preproc	$b3a1e6
+=Include	$00a3cc
+=Define		$f2ce00
+=TODO		$b3a1e6/$5ccc96
+=Precond	$f2ce00
+
+=diff.AddLine	$5ccc96/$5ccc96
+=diff.ChgLine	$686f9a/$5ccc96
+=diff.DelLine	$e33400/$5ccc96
+=diff.File	$e33400
+=diff.FileNew	$5ccc96
+=diff.Hunk	$00a3cc

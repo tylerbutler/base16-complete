@@ -1,0 +1,31 @@
+; base16-spaceduck
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: Guillermo Rodriguez (pineapplegiant)
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #000000
+base01 = #5ccc96
+base02 = #b3a1e6
+base03 = #686f9a
+base04 = #00a3cc
+base05 = #686f9a
+base06 = #f2ce00
+base07 = #f0f1ce
+base08 = #e33400
+base09 = #e33400
+base0a = #b3a1e6
+base0b = #5ccc96
+base0c = #7a5ccc
+base0d = #00a3cc
+base0e = #f2ce00
+base0f = #7a5ccc
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

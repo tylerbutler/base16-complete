@@ -1,0 +1,21 @@
+<!--    Base16 Spaceduck
+        Author: Guillermo Rodriguez (pineapplegiant)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="00a3cc" />
+    <option name="highlightColor" value="b3a1e6" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="00a3cc" />
+    <option name="contrastColor" value="5ccc96" />
+    <option name="disabledColor" value="00a3cc" />
+    <option name="secondaryBackgroundColor" value="5ccc96" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="f2ce00" />
+    <option name="selectionBackgroundColor" value="00a3cc" />
+    <option name="textColor" value="f2ce00" />
+    <option name="foregroundColor" value="686f9a" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 
