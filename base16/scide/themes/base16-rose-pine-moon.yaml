@@ -3,40 +3,40 @@ IDE:
     themes:
       base16-rose-pine-moon:
         built-in: !textFormat
-          color: "#c4a7e7"
-          background: "#232136"
-          italic: false
-        char: !textFormat
-          color: "#ea9a97"
-          background: "#232136"
-          italic: false
-        class: !textFormat
           color: "#f6c177"
           background: "#232136"
           italic: false
+        char: !textFormat
+          color: "#3e8fb0"
+          background: "#232136"
+          italic: false
+        class: !textFormat
+          color: "#ea9a97"
+          background: "#232136"
+          italic: false
         comment: !textFormat
-          color: "#59546d"
+          color: "#6e6a86"
           background: "#232136"
           italic: false
         currentLine: !textFormat
           color: "#e0def4"
-          background: "#59546d"
+          background: "#6e6a86"
           italic: false
         env-var: !textFormat
-          color: "#ecebf0"
+          color: "#eb6f92"
           background: "#232136"
           italic: false
         evaluatedCode: !textFormat
           color: "#e0def4"
-          background: "#59546d"
+          background: "#6e6a86"
           italic: false
         keyword: !textFormat
-          color: "#c4a7e7"
+          color: "#f6c177"
           background: "#232136"
           bold: true
           italic: false
         lineNumbers: !textFormat
-          color: "#59546d"
+          color: "#6e6a86"
           background: "#232136"
           italic: false
         matchingBrackets: !textFormat
@@ -46,10 +46,10 @@ IDE:
           italic: false
         mismatchedBrackets: !textFormat
           color: "#e0def4"
-          background: "#c4a7e7"
+          background: "#f6c177"
           italic: false
         number: !textFormat
-          color: "#eb6f92"
+          color: "#f6c177"
           background: "#232136"
           italic: false
         postwindowemphasis: !textFormat
@@ -58,11 +58,11 @@ IDE:
           bold: true
           italic: false
         postwindowerror: !textFormat
-          color: "#ecebf0"
+          color: "#eb6f92"
           background: "#232136"
           italic: false
         postwindowsuccess: !textFormat
-          color: "#ea9a97"
+          color: "#3e8fb0"
           background: "#232136"
           italic: false
         postwindowtext: !textFormat
@@ -70,11 +70,11 @@ IDE:
           background: "#232136"
           italic: false
         postwindowwarning: !textFormat
-          color: "#eb6f92"
+          color: "#f6c177"
           background: "#232136"
           italic: false
         primitive: !textFormat
-          color: "#f6c177"
+          color: "#ea9a97"
           background: "#232136"
           italic: false
         searchResult: !textFormat
@@ -86,11 +86,11 @@ IDE:
           background: "#393552"
           italic: false
         string: !textFormat
-          color: "#ea9a97"
+          color: "#3e8fb0"
           background: "#232136"
           italic: false
         symbol: !textFormat
-          color: "#9ccfd8"
+          color: "#c4a7e7"
           background: "#232136"
           italic: false
         text: !textFormat

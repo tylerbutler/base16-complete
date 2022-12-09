@@ -1,0 +1,42 @@
+# Base16 Vice Alt 256 - alacritty color config
+# Thomas Leon Highbaugh
+colors:
+  # Default colors
+  primary:
+    background: '0x1b1d24'
+    foreground: '0x555e70'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x1b1d24'
+    cursor: '0x555e70'
+
+  # Normal colors
+  normal:
+    black:   '0x1b1d24'
+    red:     '0xff3d81'
+    green:   '0x44ffdd'
+    yellow:  '0xffff73'
+    blue:    '0x2fb1d4'
+    magenta: '0x8265ff'
+    cyan:    '0x00caff'
+    white:   '0x555e70'
+
+  # Bright colors
+  bright:
+    black:   '0x323643'
+    red:     '0xff3d81'
+    green:   '0x44ffdd'
+    yellow:  '0xffff73'
+    blue:    '0x2fb1d4'
+    magenta: '0x8265ff'
+    cyan:    '0x00caff'
+    white:   '0xf4f4f7'
+
+  indexed_colors:
+    - { index: 16, color: '0xF67544' }
+    - { index: 17, color: '0xff00aa' }
+    - { index: 18, color: '0x282b36' }
+    - { index: 19, color: '0x2f303d' }
+    - { index: 20, color: '0x3f4859' }
+    - { index: 21, color: '0xb2bfd9' }

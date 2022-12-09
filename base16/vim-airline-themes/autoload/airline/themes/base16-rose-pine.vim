@@ -1,6 +1,6 @@
 " Base16 Rosé Pine vim-airline-theme (https://github.com/dawikur/base16-vim-airline-themes)
 " For vim-airline (https://github.com/vim-airline/vim-airline)
-" By Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+" By Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 let s:scheme_slug = substitute("rose-pine", "-", "_", "g")
 
@@ -10,19 +10,19 @@ let g:airline#themes#base16_{s:scheme_slug}#palette = {}
 let s:gui00 = '#191724'
 let s:gui01 = '#1f1d2e'
 let s:gui02 = '#26233a'
-let s:gui03 = '#555169'
-let s:gui04 = '#6e6a86'
+let s:gui03 = '#6e6a86'
+let s:gui04 = '#908caa'
 let s:gui05 = '#e0def4'
-let s:gui06 = '#f0f0f3'
-let s:gui07 = '#c5c3ce'
-let s:gui08 = '#e2e1e7'
-let s:gui09 = '#eb6f92'
-let s:gui0A = '#f6c177'
-let s:gui0B = '#ebbcba'
-let s:gui0C = '#31748f'
-let s:gui0D = '#9ccfd8'
-let s:gui0E = '#c4a7e7'
-let s:gui0F = '#e5e5e5'
+let s:gui06 = '#e0def4'
+let s:gui07 = '#524f67'
+let s:gui08 = '#eb6f92'
+let s:gui09 = '#f6c177'
+let s:gui0A = '#ebbcba'
+let s:gui0B = '#31748f'
+let s:gui0C = '#9ccfd8'
+let s:gui0D = '#c4a7e7'
+let s:gui0E = '#f6c177'
+let s:gui0F = '#524f67'
 
 " Terminal color definitions
 let s:cterm00        = "00"

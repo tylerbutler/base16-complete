@@ -1,5 +1,6 @@
 <!--    Base16 Apprentice
-        Author: romainl   -->
+        Scheme author: romainl
+	Template author: Tinted Theming (https://github.com/tinted-theming)   -->
 
 <scheme name="Base16 Apprentice" version="142" parent_scheme="Darcula">
     <colors>

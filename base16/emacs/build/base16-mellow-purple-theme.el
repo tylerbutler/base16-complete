@@ -1,7 +1,7 @@
 ;; base16-mellow-purple-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: gidsi
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-mellow-purple-colors
+(defvar base16-mellow-purple-theme-colors
   '(:base00 "#1e0528"
     :base01 "#1A092D"
     :base02 "#331354"
@@ -34,7 +34,7 @@
 (deftheme base16-mellow-purple)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-mellow-purple base16-mellow-purple-colors)
+(base16-theme-define 'base16-mellow-purple base16-mellow-purple-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-mellow-purple)

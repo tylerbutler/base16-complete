@@ -1,0 +1,33 @@
+# Base16 Sandcastle - wezterm color config
+# Scheme by George Essig (https://github.com/gessig)
+
+[colors]
+foreground    = "#a89984"
+background    = "#282c34"
+cursor_bg     = "#a89984"
+cursor_border = "#a89984"
+cursor        = "#a89984"
+selection_bg  = "#a89984"
+selection_fg  = "#282c34"
+
+ansi = [
+  "#282c34",
+  "#83a598",
+  "#528b8b",
+  "#a07e3b",
+  "#83a598",
+  "#d75f5f",
+  "#83a598",
+  "#a89984"
+]
+
+brights = [
+  "#665c54",
+  "#83a598",
+  "#528b8b",
+  "#a07e3b",
+  "#83a598",
+  "#d75f5f",
+  "#83a598",
+  "#fdf4c1"
+]

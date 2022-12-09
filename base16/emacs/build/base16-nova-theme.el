@@ -1,7 +1,7 @@
 ;; base16-nova-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-nova-colors
+(defvar base16-nova-theme-colors
   '(:base00 "#3C4C55"
     :base01 "#556873"
     :base02 "#6A7D89"
@@ -34,7 +34,7 @@
 (deftheme base16-nova)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-nova base16-nova-colors)
+(base16-theme-define 'base16-nova base16-nova-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-nova)

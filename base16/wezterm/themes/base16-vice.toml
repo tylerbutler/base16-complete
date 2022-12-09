@@ -1,0 +1,33 @@
+# Base16 Vice Dark - wezterm color config
+# Scheme by Thomas Leon Highbaugh
+
+[colors]
+foreground    = "#8b9cbe"
+background    = "#17191E"
+cursor_bg     = "#8b9cbe"
+cursor_border = "#8b9cbe"
+cursor        = "#8b9cbe"
+selection_bg  = "#8b9cbe"
+selection_fg  = "#17191E"
+
+ansi = [
+  "#17191E",
+  "#ff29a8",
+  "#0badff",
+  "#f0ffaa",
+  "#00eaff",
+  "#00f6d9",
+  "#8265ff",
+  "#8b9cbe"
+]
+
+brights = [
+  "#383a47",
+  "#ff29a8",
+  "#0badff",
+  "#f0ffaa",
+  "#00eaff",
+  "#00f6d9",
+  "#8265ff",
+  "#f4f4f7"
+]

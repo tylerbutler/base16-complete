@@ -1,7 +1,7 @@
 ;; base16-tender-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-tender-colors
+(defvar base16-tender-theme-colors
   '(:base00 "#282828"
     :base01 "#383838"
     :base02 "#484848"
@@ -34,7 +34,7 @@
 (deftheme base16-tender)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-tender base16-tender-colors)
+(base16-theme-define 'base16-tender base16-tender-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-tender)

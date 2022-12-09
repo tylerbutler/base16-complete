@@ -10,7 +10,7 @@ index 0e01717..c288227 100644
 +/*
 + * Terminal colors (16 first used in escape sequence)
 + * Base16 st template by Daniel Mulford
-+ * Rosé Pine Dawn scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
++ * Rosé Pine Dawn scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 + */
  static const char *colorname[] = {
 -	/* 8 normal colors */
@@ -24,12 +24,12 @@ index 0e01717..c288227 100644
 -	"gray90",
 +    /* 8 normal colors */
 +	[0] = "#faf4ed", /* black   */
-+	[1] = "#1f1d2e", /* red     */
-+	[2] = "#d7827e", /* green   */
-+	[3] = "#ea9d34", /* yellow  */
-+	[4] = "#56949f", /* blue    */
-+	[5] = "#907aa9", /* magenta */
-+	[6] = "#286983", /* cyan    */
++	[1] = "#b4637a", /* red     */
++	[2] = "#286983", /* green   */
++	[3] = "#d7827e", /* yellow  */
++	[4] = "#907aa9", /* blue    */
++	[5] = "#ea9d34", /* magenta */
++	[6] = "#56949f", /* cyan    */
 +	[7] = "#575279", /* white   */
  
  	/* 8 bright colors */
@@ -42,13 +42,13 @@ index 0e01717..c288227 100644
 -	"cyan",
 -	"white",
 +	[8]  = "#9893a5", /* black   */
-+	[9]  = "#1f1d2e", /* red     */
-+	[10] = "#d7827e", /* green   */
-+	[11] = "#ea9d34", /* yellow  */
-+	[12] = "#56949f", /* blue    */
-+	[13] = "#907aa9", /* magenta */
-+	[14] = "#286983", /* cyan    */
-+	[15] = "#26233a", /* white   */
++	[9]  = "#b4637a", /* red     */
++	[10] = "#286983", /* green   */
++	[11] = "#d7827e", /* yellow  */
++	[12] = "#907aa9", /* blue    */
++	[13] = "#ea9d34", /* magenta */
++	[14] = "#56949f", /* cyan    */
++	[15] = "#cecacd", /* white   */
  
  	[255] = 0,
  

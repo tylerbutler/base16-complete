@@ -1,0 +1,33 @@
+# Base16 Pop - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+[colors]
+foreground    = "#d0d0d0"
+background    = "#000000"
+cursor_bg     = "#d0d0d0"
+cursor_border = "#d0d0d0"
+cursor        = "#d0d0d0"
+selection_bg  = "#d0d0d0"
+selection_fg  = "#000000"
+
+ansi = [
+  "#000000",
+  "#eb008a",
+  "#37b349",
+  "#f8ca12",
+  "#0e5a94",
+  "#b31e8d",
+  "#00aabb",
+  "#d0d0d0"
+]
+
+brights = [
+  "#505050",
+  "#eb008a",
+  "#37b349",
+  "#f8ca12",
+  "#0e5a94",
+  "#b31e8d",
+  "#00aabb",
+  "#ffffff"
+]

@@ -1,0 +1,61 @@
+
+# base16 DanQing Light by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+
+.colors *
+
+-text		$5a605d/$fcfefd
+-status		$9da8a3/$e0f0eF
+-cursor		$fcfefd/$5a605d
+-selection	/$e0f0eF
+-curlin		/$ecf6f2
+-linum		$cad8d2/$ecf6f2
+-curlinum	$9da8a3/$ecf6f2
+-menusel	$ecf6f2/$9da8a3
+
+-term 0 	$fcfefd
+-term 1 	$B0A4E3
+-term 2 	$8AB361
+-term 3 	$30DFF3
+-term 4 	$B38A61
+-term 5 	$CCA4E3
+-term 6 	$F0C239
+-term 7 	$9da8a3
+-term 8 	$cad8d2
+-term 9 	$B0A4E3
+-term 10	$8AB361
+-term 11	$30DFF3
+-term 12	$F9906F
+-term 13	$CA6924
+-term 14	$F0C239
+-term 15	$2d302f
+
+=Constant	$B38A61
+=String		$8AB361
+=Escape		$30DFF3
+
+=Comment	$cad8d2
+=StorageClass	+Type
+=Keyword	$CCA4E3
+=Conditional	$CCA4E3
+=Operator	$5a605d
+=Loop		$F0C239
+=Statement	$F9906F
+=Type		$F0C239
+
+=DefinedIdent	$F9906F
+=Label		$F0C239
+=DefinedType	$F0C239
+=Structure	$CCA4E3
+
+=Preproc	$F0C239
+=Include	$B0A4E3
+=Define		$CCA4E3
+=TODO		$F0C239/$ecf6f2
+=Precond	$CCA4E3
+
+=diff.AddLine	$8AB361/$ecf6f2
+=diff.ChgLine	$cad8d2/$ecf6f2
+=diff.DelLine	$F9906F/$ecf6f2
+=diff.File	$F9906F
+=diff.FileNew	$8AB361
+=diff.Hunk	$B0A4E3

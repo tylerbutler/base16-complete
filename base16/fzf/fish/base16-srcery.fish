@@ -1,5 +1,6 @@
 # Base16 srcery
-# Author: 
+# Scheme author: 
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1C1B19'
 set -l color01 '#98BC37'

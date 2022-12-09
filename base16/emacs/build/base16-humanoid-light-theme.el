@@ -1,7 +1,7 @@
 ;; base16-humanoid-light-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Thomas (tasmo) Friese
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-humanoid-light-colors
+(defvar base16-humanoid-light-theme-colors
   '(:base00 "#f8f8f2"
     :base01 "#efefe9"
     :base02 "#deded8"
@@ -34,7 +34,7 @@
 (deftheme base16-humanoid-light)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-humanoid-light base16-humanoid-light-colors)
+(base16-theme-define 'base16-humanoid-light base16-humanoid-light-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-humanoid-light)

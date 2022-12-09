@@ -1,7 +1,7 @@
 ;; base16-pasque-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Gabriel Fontes (https://github.com/Misterio77)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-pasque-colors
+(defvar base16-pasque-theme-colors
   '(:base00 "#271C3A"
     :base01 "#100323"
     :base02 "#3E2D5C"
@@ -34,7 +34,7 @@
 (deftheme base16-pasque)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-pasque base16-pasque-colors)
+(base16-theme-define 'base16-pasque base16-pasque-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-pasque)

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Rigel scheme by Alexander Keliris
+# Scheme name: Rigel
+# Scheme author: Alexander Keliris
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#00384d"
 base01 = "#9cf087"

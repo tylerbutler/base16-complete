@@ -1,0 +1,42 @@
+# Base16 DanQing Light - amfora color config
+# Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+
+[theme]
+bg = "#fcfefd"
+fg = "#5a605d"
+
+bottombar_label = "#CCA4E3"
+bottombar_text = "#5a605d"
+bottombar_bg = "#ecf6f2"
+
+tab_num = "#e0f0eF"
+tab_divider = "#9da8a3"
+
+amfora_link = "#8AB361"
+foreign_link = "#cad8d2"
+link_number = "#cad8d2"
+
+btn_bg = "#ecf6f2"
+btn_text = "#5a605d"
+
+input_modal_bg = "#ecf6f2"
+input_modal_text = "#5a605d"
+input_modal_field_bg = "#fcfefd"
+input_modal_field_text = "#5a605d"
+info_modal_bg = "#ecf6f2"
+info_modal_text = "#5a605d"
+error_modal_bg = "#ecf6f2"
+error_modal_text = "#CA6924"
+yesno_modal_bg = "#ecf6f2"
+yesno_modal_text = "#5a605d"
+tofu_modal_bg = "#ecf6f2"
+tofu_modal_text = "#5a605d"
+subscription_modal_bg = "#ecf6f2"
+subscription_modal_text = "#5a605d"
+
+hdg_1 = "#B38A61"
+hdg_2 = "#F0C239"
+hdg_3 = "#B0A4E3"
+regular_text = "#5a605d"
+preformatted_text = "#30DFF3"
+list_text = "#5a605d"

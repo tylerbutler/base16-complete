@@ -1,7 +1,7 @@
 ;; base16-shades-of-purple-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-shades-of-purple-colors
+(defvar base16-shades-of-purple-theme-colors
   '(:base00 "#1e1e3f"
     :base01 "#43d426"
     :base02 "#f1d000"
@@ -34,7 +34,7 @@
 (deftheme base16-shades-of-purple)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-shades-of-purple base16-shades-of-purple-colors)
+(base16-theme-define 'base16-shades-of-purple base16-shades-of-purple-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-shades-of-purple)

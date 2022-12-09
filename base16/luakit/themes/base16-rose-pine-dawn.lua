@@ -1,6 +1,6 @@
 --
 -- Base16 Rosé Pine Dawn
--- Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+-- Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 --
 
 function hex2rgb(hex)
@@ -12,18 +12,18 @@ local base00 = "#faf4ed" -- ----
 local base01 = "#fffaf3" -- ---
 local base02 = "#f2e9de" -- --
 local base03 = "#9893a5" -- -
-local base04 = "#6e6a86" -- +
+local base04 = "#797593" -- +
 local base05 = "#575279" -- ++
-local base06 = "#555169" -- +++
-local base07 = "#26233a" -- ++++
-local base08 = "#1f1d2e" -- red
-local base09 = "#b4637a" -- orange
-local base0A = "#ea9d34" -- yellow
-local base0B = "#d7827e" -- green
-local base0C = "#286983" -- aqua/cyan
-local base0D = "#56949f" -- blue
-local base0E = "#907aa9" -- purple
-local base0F = "#c5c3ce" -- brown
+local base06 = "#575279" -- +++
+local base07 = "#cecacd" -- ++++
+local base08 = "#b4637a" -- red
+local base09 = "#ea9d34" -- orange
+local base0A = "#d7827e" -- yellow
+local base0B = "#286983" -- green
+local base0C = "#56949f" -- aqua/cyan
+local base0D = "#907aa9" -- blue
+local base0E = "#ea9d34" -- purple
+local base0F = "#cecacd" -- brown
 
 local theme = {}
 

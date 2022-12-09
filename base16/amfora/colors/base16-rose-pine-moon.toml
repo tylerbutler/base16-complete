@@ -1,20 +1,20 @@
 # Base16 Rosé Pine Moon - amfora color config
-# Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 [theme]
 bg = "#232136"
 fg = "#e0def4"
 
-bottombar_label = "#c4a7e7"
+bottombar_label = "#f6c177"
 bottombar_text = "#e0def4"
 bottombar_bg = "#2a273f"
 
 tab_num = "#393552"
-tab_divider = "#817c9c"
+tab_divider = "#908caa"
 
-amfora_link = "#ea9a97"
-foreign_link = "#59546d"
-link_number = "#59546d"
+amfora_link = "#3e8fb0"
+foreign_link = "#6e6a86"
+link_number = "#6e6a86"
 
 btn_bg = "#2a273f"
 btn_text = "#e0def4"
@@ -26,7 +26,7 @@ input_modal_field_text = "#e0def4"
 info_modal_bg = "#2a273f"
 info_modal_text = "#e0def4"
 error_modal_bg = "#2a273f"
-error_modal_text = "#b9b9bc"
+error_modal_text = "#56526e"
 yesno_modal_bg = "#2a273f"
 yesno_modal_text = "#e0def4"
 tofu_modal_bg = "#2a273f"
@@ -34,9 +34,9 @@ tofu_modal_text = "#e0def4"
 subscription_modal_bg = "#2a273f"
 subscription_modal_text = "#e0def4"
 
-hdg_1 = "#eb6f92"
-hdg_2 = "#f6c177"
-hdg_3 = "#9ccfd8"
+hdg_1 = "#f6c177"
+hdg_2 = "#ea9a97"
+hdg_3 = "#c4a7e7"
 regular_text = "#e0def4"
-preformatted_text = "#3e8fb0"
+preformatted_text = "#9ccfd8"
 list_text = "#e0def4"

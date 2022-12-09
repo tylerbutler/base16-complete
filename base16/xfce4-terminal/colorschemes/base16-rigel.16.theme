@@ -1,3 +1,6 @@
+# Scheme name: Rigel
+# Scheme author: Alexander Keliris
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Rigel.16
 ColorForeground=#77929e

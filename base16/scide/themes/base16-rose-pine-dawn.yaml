@@ -3,15 +3,15 @@ IDE:
     themes:
       base16-rose-pine-dawn:
         built-in: !textFormat
-          color: "#907aa9"
+          color: "#ea9d34"
           background: "#faf4ed"
           italic: false
         char: !textFormat
-          color: "#d7827e"
+          color: "#286983"
           background: "#faf4ed"
           italic: false
         class: !textFormat
-          color: "#ea9d34"
+          color: "#d7827e"
           background: "#faf4ed"
           italic: false
         comment: !textFormat
@@ -23,7 +23,7 @@ IDE:
           background: "#9893a5"
           italic: false
         env-var: !textFormat
-          color: "#1f1d2e"
+          color: "#b4637a"
           background: "#faf4ed"
           italic: false
         evaluatedCode: !textFormat
@@ -31,7 +31,7 @@ IDE:
           background: "#9893a5"
           italic: false
         keyword: !textFormat
-          color: "#907aa9"
+          color: "#ea9d34"
           background: "#faf4ed"
           bold: true
           italic: false
@@ -46,10 +46,10 @@ IDE:
           italic: false
         mismatchedBrackets: !textFormat
           color: "#575279"
-          background: "#907aa9"
+          background: "#ea9d34"
           italic: false
         number: !textFormat
-          color: "#b4637a"
+          color: "#ea9d34"
           background: "#faf4ed"
           italic: false
         postwindowemphasis: !textFormat
@@ -58,11 +58,11 @@ IDE:
           bold: true
           italic: false
         postwindowerror: !textFormat
-          color: "#1f1d2e"
+          color: "#b4637a"
           background: "#faf4ed"
           italic: false
         postwindowsuccess: !textFormat
-          color: "#d7827e"
+          color: "#286983"
           background: "#faf4ed"
           italic: false
         postwindowtext: !textFormat
@@ -70,11 +70,11 @@ IDE:
           background: "#faf4ed"
           italic: false
         postwindowwarning: !textFormat
-          color: "#b4637a"
+          color: "#ea9d34"
           background: "#faf4ed"
           italic: false
         primitive: !textFormat
-          color: "#ea9d34"
+          color: "#d7827e"
           background: "#faf4ed"
           italic: false
         searchResult: !textFormat
@@ -86,11 +86,11 @@ IDE:
           background: "#f2e9de"
           italic: false
         string: !textFormat
-          color: "#d7827e"
+          color: "#286983"
           background: "#faf4ed"
           italic: false
         symbol: !textFormat
-          color: "#56949f"
+          color: "#907aa9"
           background: "#faf4ed"
           italic: false
         text: !textFormat

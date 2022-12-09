@@ -1,5 +1,6 @@
 <!--    Base16 Mellow Purple
-        Author: gidsi   -->
+        Scheme author: gidsi
+	Template author: Tinted Theming (https://github.com/tinted-theming)   -->
 
 <scheme name="Base16 Mellow Purple" version="142" parent_scheme="Darcula">
     <colors>

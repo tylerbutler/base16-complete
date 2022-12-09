@@ -1,6 +1,6 @@
 -- base16-vis (https://github.com/pshevtsov/base16-vis)
 -- by Petr Shevtsov
--- Rosé Pine Dawn scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+-- Rosé Pine Dawn scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 local lexers = vis.lexers
 
@@ -9,18 +9,18 @@ local colors = {
 	['base01'] = '#fffaf3',
 	['base02'] = '#f2e9de',
 	['base03'] = '#9893a5',
-	['base04'] = '#6e6a86',
+	['base04'] = '#797593',
 	['base05'] = '#575279',
-	['base06'] = '#555169',
-	['base07'] = '#26233a',
-	['base08'] = '#1f1d2e',
-	['base09'] = '#b4637a',
-	['base0A'] = '#ea9d34',
-	['base0B'] = '#d7827e',
-	['base0C'] = '#286983',
-	['base0D'] = '#56949f',
-	['base0E'] = '#907aa9',
-	['base0F'] = '#c5c3ce',
+	['base06'] = '#575279',
+	['base07'] = '#cecacd',
+	['base08'] = '#b4637a',
+	['base09'] = '#ea9d34',
+	['base0A'] = '#d7827e',
+	['base0B'] = '#286983',
+	['base0C'] = '#56949f',
+	['base0D'] = '#907aa9',
+	['base0E'] = '#ea9d34',
+	['base0F'] = '#cecacd',
 }
 
 lexers.colors = colors

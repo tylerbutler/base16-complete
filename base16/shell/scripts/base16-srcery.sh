@@ -2,6 +2,7 @@
 # base16-shell (https://github.com/chriskempson/base16-shell)
 # Base16 Shell template by Chris Kempson (http://chriskempson.com)
 # srcery scheme by 
+export BASE16_THEME=srcery
 
 color00="1C/1B/19" # Base 00 - Black
 color01="EF/2F/27" # Base 08 - Red

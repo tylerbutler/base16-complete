@@ -1,7 +1,7 @@
 ;; base16-outrun-dark-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Hugo Delahousse (http://github.com/hugodelahousse/)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-outrun-dark-colors
+(defvar base16-outrun-dark-theme-colors
   '(:base00 "#00002A"
     :base01 "#20204A"
     :base02 "#30305A"
@@ -34,7 +34,7 @@
 (deftheme base16-outrun-dark)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-outrun-dark base16-outrun-dark-colors)
+(base16-theme-define 'base16-outrun-dark base16-outrun-dark-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-outrun-dark)

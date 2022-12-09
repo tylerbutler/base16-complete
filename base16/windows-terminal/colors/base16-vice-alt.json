@@ -1,0 +1,22 @@
+{
+    "name": "base16-vice-alt",
+    "background": "#1b1d24",
+    "selectionBackground": "#2f303d",
+    "black": "#1b1d24",
+    "blue": "#2fb1d4",
+    "brightBlack": "#323643",
+    "brightBlue": "#3f4859",
+    "brightCyan": "#ff00aa",
+    "brightGreen": "#282b36",
+    "brightPurple": "#b2bfd9",
+    "brightRed": "#F67544",
+    "brightWhite": "#f4f4f7",
+    "brightYellow": "#2f303d",
+    "cyan": "#00caff",
+    "foreground": "#555e70",
+    "green": "#44ffdd",
+    "purple": "#8265ff",
+    "red": "#ff3d81",
+    "white": "#555e70",
+    "yellow": "#ffff73"
+}

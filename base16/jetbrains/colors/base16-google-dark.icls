@@ -1,5 +1,6 @@
 <!--    Base16 Google Dark
-        Author: Seth Wright (http://sethawright.com)   -->
+        Scheme author: Seth Wright (http://sethawright.com)
+	Template author: Tinted Theming (https://github.com/tinted-theming)   -->
 
 <scheme name="Base16 Google Dark" version="142" parent_scheme="Darcula">
     <colors>

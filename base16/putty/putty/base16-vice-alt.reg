@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Vice Alt
+; schema by Thomas Leon Highbaugh
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\vice-alt]
+
+; Default Foreground
+"Colour0"="85,94,112"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="85,94,112"
+
+; Default Background
+"Colour2"="27,29,36"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="27,29,36"
+
+; Cursor Text -- equals to default background
+"Colour4"="27,29,36"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="85,94,112"
+
+; ANSI Black
+"Colour6"="27,29,36"
+
+; ANSI Black Bold
+"Colour7"="50,54,67"
+
+; ANSI Red
+"Colour8"="255,61,129"
+
+; ANSI Red Bold
+"Colour9"="246,117,68"
+
+; ANSI Green
+"Colour10"="68,255,221"
+
+; ANSI Green Bold
+"Colour11"="40,43,54"
+
+; ANSI Yellow
+"Colour12"="255,255,115"
+
+; ANSI Yellow Bold
+"Colour13"="47,48,61"
+
+; ANSI Blue
+"Colour14"="47,177,212"
+
+; ANSI Blue Bold
+"Colour15"="63,72,89"
+
+; ANSI Magenta
+"Colour16"="130,101,255"
+
+; ANSI Magenta Bold
+"Colour17"="178,191,217"
+
+; ANSI Cyan
+"Colour18"="0,202,255"
+
+; ANSI Cyan Bold
+"Colour19"="255,0,170"
+
+; ANSI White
+"Colour20"="85,94,112"
+
+; ANSI White Bold
+"Colour21"="244,244,247"
+

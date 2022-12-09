@@ -1,18 +1,18 @@
 # Base16 Rosé Pine Dawn - amfora color config
-# Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 [theme]
 bg = "#faf4ed"
 fg = "#575279"
 
-bottombar_label = "#907aa9"
+bottombar_label = "#ea9d34"
 bottombar_text = "#575279"
 bottombar_bg = "#fffaf3"
 
 tab_num = "#f2e9de"
-tab_divider = "#6e6a86"
+tab_divider = "#797593"
 
-amfora_link = "#d7827e"
+amfora_link = "#286983"
 foreign_link = "#9893a5"
 link_number = "#9893a5"
 
@@ -26,7 +26,7 @@ input_modal_field_text = "#575279"
 info_modal_bg = "#fffaf3"
 info_modal_text = "#575279"
 error_modal_bg = "#fffaf3"
-error_modal_text = "#c5c3ce"
+error_modal_text = "#cecacd"
 yesno_modal_bg = "#fffaf3"
 yesno_modal_text = "#575279"
 tofu_modal_bg = "#fffaf3"
@@ -34,9 +34,9 @@ tofu_modal_text = "#575279"
 subscription_modal_bg = "#fffaf3"
 subscription_modal_text = "#575279"
 
-hdg_1 = "#b4637a"
-hdg_2 = "#ea9d34"
-hdg_3 = "#56949f"
+hdg_1 = "#ea9d34"
+hdg_2 = "#d7827e"
+hdg_3 = "#907aa9"
 regular_text = "#575279"
-preformatted_text = "#286983"
+preformatted_text = "#56949f"
 list_text = "#575279"

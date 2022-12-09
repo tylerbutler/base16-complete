@@ -1,19 +1,19 @@
 # vi:syntax=toml
 
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
-# Rosé Pine Moon by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Rosé Pine Moon by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 [theme]
 name = "solarized-dark"
 [theme.overrides]
 idle_bg = "#232136"
 idle_fg = "#e0def4"
-info_bg = "#3e8fb0"
+info_bg = "#9ccfd8"
 info_fg = "#232136"
-good_bg = "#ea9a97"
+good_bg = "#3e8fb0"
 good_fg = "#232136"
-warning_bg = "#f6c177"
+warning_bg = "#ea9a97"
 warning_fg = "#232136"
-critical_bg = "#ecebf0"
+critical_bg = "#eb6f92"
 critical_fg = "#232136"
 # The rest of the theme settings are left at default.

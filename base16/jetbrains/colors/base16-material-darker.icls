@@ -1,5 +1,6 @@
 <!--    Base16 Material Darker
-        Author: Nate Peterson   -->
+        Scheme author: Nate Peterson
+	Template author: Tinted Theming (https://github.com/tinted-theming)   -->
 
 <scheme name="Base16 Material Darker" version="142" parent_scheme="Darcula">
     <colors>

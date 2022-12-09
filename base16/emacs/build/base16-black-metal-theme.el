@@ -1,7 +1,7 @@
 ;; base16-black-metal-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: metalelf0 (https://github.com/metalelf0)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-black-metal-colors
+(defvar base16-black-metal-theme-colors
   '(:base00 "#000000"
     :base01 "#121212"
     :base02 "#222222"
@@ -34,7 +34,7 @@
 (deftheme base16-black-metal)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-black-metal base16-black-metal-colors)
+(base16-theme-define 'base16-black-metal base16-black-metal-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-black-metal)

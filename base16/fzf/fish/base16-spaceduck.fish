@@ -1,5 +1,6 @@
 # Base16 Spaceduck
-# Author: Guillermo Rodriguez (pineapplegiant)
+# Scheme author: Guillermo Rodriguez (pineapplegiant)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#000000'
 set -l color01 '#5ccc96'

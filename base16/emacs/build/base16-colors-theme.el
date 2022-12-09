@@ -1,7 +1,7 @@
 ;; base16-colors-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: mrmrs (http://clrs.cc)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-colors-colors
+(defvar base16-colors-theme-colors
   '(:base00 "#111111"
     :base01 "#333333"
     :base02 "#555555"
@@ -34,7 +34,7 @@
 (deftheme base16-colors)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-colors base16-colors-colors)
+(base16-theme-define 'base16-colors base16-colors-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-colors)

@@ -1,0 +1,33 @@
+# Base16 srcery - wezterm color config
+# Scheme by 
+
+[colors]
+foreground    = "#BAA67F"
+background    = "#1C1B19"
+cursor_bg     = "#BAA67F"
+cursor_border = "#BAA67F"
+cursor        = "#BAA67F"
+selection_bg  = "#BAA67F"
+selection_fg  = "#1C1B19"
+
+ansi = [
+  "#1C1B19",
+  "#EF2F27",
+  "#519F50",
+  "#FBB829",
+  "#2C78BF",
+  "#E02C6D",
+  "#0AAEB3",
+  "#BAA67F"
+]
+
+brights = [
+  "#918175",
+  "#EF2F27",
+  "#519F50",
+  "#FBB829",
+  "#2C78BF",
+  "#E02C6D",
+  "#0AAEB3",
+  "#FCE8C3"
+]

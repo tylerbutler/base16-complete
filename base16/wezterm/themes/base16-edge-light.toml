@@ -1,0 +1,33 @@
+# Base16 Edge Light - wezterm color config
+# Scheme by cjayross (https://github.com/cjayross)
+
+[colors]
+foreground    = "#5e646f"
+background    = "#fafafa"
+cursor_bg     = "#5e646f"
+cursor_border = "#5e646f"
+cursor        = "#5e646f"
+selection_bg  = "#5e646f"
+selection_fg  = "#fafafa"
+
+ansi = [
+  "#fafafa",
+  "#db7070",
+  "#7c9f4b",
+  "#d69822",
+  "#6587bf",
+  "#b870ce",
+  "#509c93",
+  "#5e646f"
+]
+
+brights = [
+  "#5e646f",
+  "#db7070",
+  "#7c9f4b",
+  "#d69822",
+  "#6587bf",
+  "#b870ce",
+  "#509c93",
+  "#5e646f"
+]

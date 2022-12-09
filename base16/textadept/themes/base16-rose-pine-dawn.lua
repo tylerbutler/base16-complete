@@ -1,6 +1,6 @@
 -- Base16 Theme: Rosé Pine Dawn
 -- http://chriskempson.com/projects/base16/
--- Theme author: Emilia Dunfelt <sayhi@dunfelt.se>
+-- Theme author: Emilia Dunfelt <edun@dunfelt.se>
 -- Template Repository: https://github.com/rgieseke/base16-textadept
 -- Template adapted from Textadept's default templates
 -- Copyright 2007-2020 Mitchell mitchell.att.foicica.com. MIT licensed.
@@ -12,18 +12,18 @@ colors.base00 = 0xedf4fa
 colors.base01 = 0xf3faff
 colors.base02 = 0xdee9f2
 colors.base03 = 0xa59398
-colors.base04 = 0x866a6e
+colors.base04 = 0x937579
 colors.base05 = 0x795257
-colors.base06 = 0x695155
-colors.base07 = 0x3a2326
-colors.base08 = 0x2e1d1f
-colors.base09 = 0x7a63b4
-colors.base0A = 0x349dea
-colors.base0B = 0x7e82d7
-colors.base0C = 0x836928
-colors.base0D = 0x9f9456
-colors.base0E = 0xa97a90
-colors.base0F = 0xcec3c5
+colors.base06 = 0x795257
+colors.base07 = 0xcdcace
+colors.base08 = 0x7a63b4
+colors.base09 = 0x349dea
+colors.base0A = 0x7e82d7
+colors.base0B = 0x836928
+colors.base0C = 0x9f9456
+colors.base0D = 0xa97a90
+colors.base0E = 0x349dea
+colors.base0F = 0xcdcace
 
 -- Default font.
 if not font then

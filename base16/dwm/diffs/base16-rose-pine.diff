@@ -14,14 +14,14 @@ index 1c0b587..efdbcc4 100644
 +
 +/*
 + * Base16 dwm template by Daniel Mulford
-+ * Rosé Pine scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
++ * Rosé Pine scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 + */
 +static const char col_base00[]      = "#191724";
 +static const char col_base01[]      = "#1f1d2e";
 +static const char col_base02[]      = "#26233a";
-+static const char col_base04[]      = "#6e6a86";
-+static const char col_base0C[]      = "#31748f";
-+static const char col_base0D[]      = "#9ccfd8";
++static const char col_base04[]      = "#908caa";
++static const char col_base0C[]      = "#9ccfd8";
++static const char col_base0D[]      = "#c4a7e7";
  static const char *colors[][3]      = {
 -	/*               fg         bg         border   */
 -	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },

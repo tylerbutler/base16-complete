@@ -1,0 +1,33 @@
+# Base16 Pasque - wezterm color config
+# Scheme by Gabriel Fontes (https://github.com/Misterio77)
+
+[colors]
+foreground    = "#DEDCDF"
+background    = "#271C3A"
+cursor_bg     = "#DEDCDF"
+cursor_border = "#DEDCDF"
+cursor        = "#DEDCDF"
+selection_bg  = "#DEDCDF"
+selection_fg  = "#271C3A"
+
+ansi = [
+  "#271C3A",
+  "#A92258",
+  "#C6914B",
+  "#804ead",
+  "#8E7DC6",
+  "#953B9D",
+  "#7263AA",
+  "#DEDCDF"
+]
+
+brights = [
+  "#5D5766",
+  "#A92258",
+  "#C6914B",
+  "#804ead",
+  "#8E7DC6",
+  "#953B9D",
+  "#7263AA",
+  "#BBAADD"
+]

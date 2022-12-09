@@ -1,0 +1,33 @@
+# Base16 Material Vivid - wezterm color config
+# Scheme by joshyrobot
+
+[colors]
+foreground    = "#80868b"
+background    = "#202124"
+cursor_bg     = "#80868b"
+cursor_border = "#80868b"
+cursor        = "#80868b"
+selection_bg  = "#80868b"
+selection_fg  = "#202124"
+
+ansi = [
+  "#202124",
+  "#f44336",
+  "#00e676",
+  "#ffeb3b",
+  "#2196f3",
+  "#673ab7",
+  "#00bcd4",
+  "#80868b"
+]
+
+brights = [
+  "#44464d",
+  "#f44336",
+  "#00e676",
+  "#ffeb3b",
+  "#2196f3",
+  "#673ab7",
+  "#00bcd4",
+  "#ffffff"
+]

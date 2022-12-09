@@ -1,0 +1,33 @@
+# Base16 Eighties - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+[colors]
+foreground    = "#d3d0c8"
+background    = "#2d2d2d"
+cursor_bg     = "#d3d0c8"
+cursor_border = "#d3d0c8"
+cursor        = "#d3d0c8"
+selection_bg  = "#d3d0c8"
+selection_fg  = "#2d2d2d"
+
+ansi = [
+  "#2d2d2d",
+  "#f2777a",
+  "#99cc99",
+  "#ffcc66",
+  "#6699cc",
+  "#cc99cc",
+  "#66cccc",
+  "#d3d0c8"
+]
+
+brights = [
+  "#747369",
+  "#f2777a",
+  "#99cc99",
+  "#ffcc66",
+  "#6699cc",
+  "#cc99cc",
+  "#66cccc",
+  "#f2f0ec"
+]

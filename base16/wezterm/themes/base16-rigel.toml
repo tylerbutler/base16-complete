@@ -1,0 +1,33 @@
+# Base16 Rigel - wezterm color config
+# Scheme by Alexander Keliris
+
+[colors]
+foreground    = "#77929e"
+background    = "#00384d"
+cursor_bg     = "#77929e"
+cursor_border = "#77929e"
+cursor        = "#77929e"
+selection_bg  = "#77929e"
+selection_fg  = "#00384d"
+
+ansi = [
+  "#00384d",
+  "#c43061",
+  "#7fc06e",
+  "#f08e48",
+  "#1c8db2",
+  "#c694ff",
+  "#00cccc",
+  "#77929e"
+]
+
+brights = [
+  "#517f8d",
+  "#c43061",
+  "#7fc06e",
+  "#f08e48",
+  "#1c8db2",
+  "#c694ff",
+  "#00cccc",
+  "#e6e6dc"
+]

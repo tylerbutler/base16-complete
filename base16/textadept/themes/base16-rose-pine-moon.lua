@@ -1,6 +1,6 @@
 -- Base16 Theme: Rosé Pine Moon
 -- http://chriskempson.com/projects/base16/
--- Theme author: Emilia Dunfelt <sayhi@dunfelt.se>
+-- Theme author: Emilia Dunfelt <edun@dunfelt.se>
 -- Template Repository: https://github.com/rgieseke/base16-textadept
 -- Template adapted from Textadept's default templates
 -- Copyright 2007-2020 Mitchell mitchell.att.foicica.com. MIT licensed.
@@ -11,19 +11,19 @@ local view, colors, styles = view, lexer.colors, lexer.styles
 colors.base00 = 0x362123
 colors.base01 = 0x3f272a
 colors.base02 = 0x523539
-colors.base03 = 0x6d5459
-colors.base04 = 0x9c7c81
+colors.base03 = 0x866a6e
+colors.base04 = 0xaa8c90
 colors.base05 = 0xf4dee0
-colors.base06 = 0xf7f5f5
-colors.base07 = 0xe1d7d9
-colors.base08 = 0xf0ebec
-colors.base09 = 0x926feb
-colors.base0A = 0x77c1f6
-colors.base0B = 0x979aea
-colors.base0C = 0xb08f3e
-colors.base0D = 0xd8cf9c
-colors.base0E = 0xe7a7c4
-colors.base0F = 0xbcb9b9
+colors.base06 = 0xf4dee0
+colors.base07 = 0x6e5256
+colors.base08 = 0x926feb
+colors.base09 = 0x77c1f6
+colors.base0A = 0x979aea
+colors.base0B = 0xb08f3e
+colors.base0C = 0xd8cf9c
+colors.base0D = 0xe7a7c4
+colors.base0E = 0x77c1f6
+colors.base0F = 0x6e5256
 
 -- Default font.
 if not font then

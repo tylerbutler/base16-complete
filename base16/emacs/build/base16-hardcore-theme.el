@@ -1,7 +1,7 @@
 ;; base16-hardcore-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Chris Caller
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-hardcore-colors
+(defvar base16-hardcore-theme-colors
   '(:base00 "#212121"
     :base01 "#303030"
     :base02 "#353535"
@@ -34,7 +34,7 @@
 (deftheme base16-hardcore)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-hardcore base16-hardcore-colors)
+(base16-theme-define 'base16-hardcore base16-hardcore-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-hardcore)

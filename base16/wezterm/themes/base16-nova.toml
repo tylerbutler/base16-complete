@@ -1,0 +1,33 @@
+# Base16 Nova - wezterm color config
+# Scheme by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
+[colors]
+foreground    = "#C5D4DD"
+background    = "#3C4C55"
+cursor_bg     = "#C5D4DD"
+cursor_border = "#C5D4DD"
+cursor        = "#C5D4DD"
+selection_bg  = "#C5D4DD"
+selection_fg  = "#3C4C55"
+
+ansi = [
+  "#3C4C55",
+  "#83AFE5",
+  "#7FC1CA",
+  "#A8CE93",
+  "#83AFE5",
+  "#9A93E1",
+  "#F2C38F",
+  "#C5D4DD"
+]
+
+brights = [
+  "#899BA6",
+  "#83AFE5",
+  "#7FC1CA",
+  "#A8CE93",
+  "#83AFE5",
+  "#9A93E1",
+  "#F2C38F",
+  "#556873"
+]

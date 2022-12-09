@@ -1,7 +1,7 @@
 ;; base16-atelier-lakeside-light-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Bram de Haan (http://atelierbramdehaan.nl)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-atelier-lakeside-light-colors
+(defvar base16-atelier-lakeside-light-theme-colors
   '(:base00 "#ebf8ff"
     :base01 "#c1e4f6"
     :base02 "#7ea2b4"
@@ -34,7 +34,7 @@
 (deftheme base16-atelier-lakeside-light)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-atelier-lakeside-light base16-atelier-lakeside-light-colors)
+(base16-theme-define 'base16-atelier-lakeside-light base16-atelier-lakeside-light-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-atelier-lakeside-light)

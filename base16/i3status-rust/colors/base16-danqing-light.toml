@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# DanQing Light by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fcfefd"
+idle_fg = "#5a605d"
+info_bg = "#30DFF3"
+info_fg = "#fcfefd"
+good_bg = "#8AB361"
+good_fg = "#fcfefd"
+warning_bg = "#F0C239"
+warning_fg = "#fcfefd"
+critical_bg = "#F9906F"
+critical_fg = "#fcfefd"
+# The rest of the theme settings are left at default.

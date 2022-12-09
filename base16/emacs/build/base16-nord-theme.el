@@ -1,7 +1,7 @@
 ;; base16-nord-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: arcticicestudio
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-nord-colors
+(defvar base16-nord-theme-colors
   '(:base00 "#2E3440"
     :base01 "#3B4252"
     :base02 "#434C5E"
@@ -34,7 +34,7 @@
 (deftheme base16-nord)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-nord base16-nord-colors)
+(base16-theme-define 'base16-nord base16-nord-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-nord)

@@ -1,5 +1,6 @@
 # Base16 XCode Dusk
-# Author: Elsa Gonsiorowski (https://github.com/gonsie)
+# Scheme author: Elsa Gonsiorowski (https://github.com/gonsie)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#282B35'
 set -l color01 '#3D4048'

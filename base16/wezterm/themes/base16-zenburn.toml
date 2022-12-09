@@ -1,0 +1,33 @@
+# Base16 Zenburn - wezterm color config
+# Scheme by elnawe
+
+[colors]
+foreground    = "#dcdccc"
+background    = "#383838"
+cursor_bg     = "#dcdccc"
+cursor_border = "#dcdccc"
+cursor        = "#dcdccc"
+selection_bg  = "#dcdccc"
+selection_fg  = "#383838"
+
+ansi = [
+  "#383838",
+  "#dca3a3",
+  "#5f7f5f",
+  "#e0cf9f",
+  "#7cb8bb",
+  "#dc8cc3",
+  "#93e0e3",
+  "#dcdccc"
+]
+
+brights = [
+  "#6f6f6f",
+  "#dca3a3",
+  "#5f7f5f",
+  "#e0cf9f",
+  "#7cb8bb",
+  "#dc8cc3",
+  "#93e0e3",
+  "#ffffff"
+]

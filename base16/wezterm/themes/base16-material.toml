@@ -1,0 +1,33 @@
+# Base16 Material - wezterm color config
+# Scheme by Nate Peterson
+
+[colors]
+foreground    = "#EEFFFF"
+background    = "#263238"
+cursor_bg     = "#EEFFFF"
+cursor_border = "#EEFFFF"
+cursor        = "#EEFFFF"
+selection_bg  = "#EEFFFF"
+selection_fg  = "#263238"
+
+ansi = [
+  "#263238",
+  "#F07178",
+  "#C3E88D",
+  "#FFCB6B",
+  "#82AAFF",
+  "#C792EA",
+  "#89DDFF",
+  "#EEFFFF"
+]
+
+brights = [
+  "#546E7A",
+  "#F07178",
+  "#C3E88D",
+  "#FFCB6B",
+  "#82AAFF",
+  "#C792EA",
+  "#89DDFF",
+  "#FFFFFF"
+]

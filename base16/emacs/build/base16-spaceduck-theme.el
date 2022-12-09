@@ -1,7 +1,7 @@
 ;; base16-spaceduck-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Guillermo Rodriguez (pineapplegiant)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-spaceduck-colors
+(defvar base16-spaceduck-theme-colors
   '(:base00 "#000000"
     :base01 "#5ccc96"
     :base02 "#b3a1e6"
@@ -34,7 +34,7 @@
 (deftheme base16-spaceduck)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-spaceduck base16-spaceduck-colors)
+(base16-theme-define 'base16-spaceduck base16-spaceduck-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-spaceduck)

@@ -1,0 +1,33 @@
+# Base16 Bright - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+[colors]
+foreground    = "#e0e0e0"
+background    = "#000000"
+cursor_bg     = "#e0e0e0"
+cursor_border = "#e0e0e0"
+cursor        = "#e0e0e0"
+selection_bg  = "#e0e0e0"
+selection_fg  = "#000000"
+
+ansi = [
+  "#000000",
+  "#fb0120",
+  "#a1c659",
+  "#fda331",
+  "#6fb3d2",
+  "#d381c3",
+  "#76c7b7",
+  "#e0e0e0"
+]
+
+brights = [
+  "#b0b0b0",
+  "#fb0120",
+  "#a1c659",
+  "#fda331",
+  "#6fb3d2",
+  "#d381c3",
+  "#76c7b7",
+  "#ffffff"
+]

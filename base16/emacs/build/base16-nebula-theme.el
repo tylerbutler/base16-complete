@@ -1,7 +1,7 @@
 ;; base16-nebula-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Gabriel Fontes (https://github.com/Misterio77)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-nebula-colors
+(defvar base16-nebula-theme-colors
   '(:base00 "#22273b"
     :base01 "#414f60"
     :base02 "#5a8380"
@@ -34,7 +34,7 @@
 (deftheme base16-nebula)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-nebula base16-nebula-colors)
+(base16-theme-define 'base16-nebula base16-nebula-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-nebula)

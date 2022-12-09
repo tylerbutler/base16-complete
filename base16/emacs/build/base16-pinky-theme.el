@@ -1,7 +1,7 @@
 ;; base16-pinky-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Benjamin (https://github.com/b3nj5m1n)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-pinky-colors
+(defvar base16-pinky-theme-colors
   '(:base00 "#171517"
     :base01 "#1b181b"
     :base02 "#1d1b1d"
@@ -34,7 +34,7 @@
 (deftheme base16-pinky)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-pinky base16-pinky-colors)
+(base16-theme-define 'base16-pinky base16-pinky-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-pinky)

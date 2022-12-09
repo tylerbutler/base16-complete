@@ -1,7 +1,7 @@
 ;; base16-equilibrium-gray-dark-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Carlo Abelli
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-equilibrium-gray-dark-colors
+(defvar base16-equilibrium-gray-dark-theme-colors
   '(:base00 "#111111"
     :base01 "#1b1b1b"
     :base02 "#262626"
@@ -34,7 +34,7 @@
 (deftheme base16-equilibrium-gray-dark)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-equilibrium-gray-dark base16-equilibrium-gray-dark-colors)
+(base16-theme-define 'base16-equilibrium-gray-dark base16-equilibrium-gray-dark-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-equilibrium-gray-dark)

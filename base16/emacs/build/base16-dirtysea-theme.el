@@ -1,7 +1,7 @@
 ;; base16-dirtysea-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Kahlil (Kal) Hodgson
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-dirtysea-colors
+(defvar base16-dirtysea-theme-colors
   '(:base00 "#e0e0e0"
     :base01 "#d0dad0"
     :base02 "#d0d0d0"
@@ -34,7 +34,7 @@
 (deftheme base16-dirtysea)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-dirtysea base16-dirtysea-colors)
+(base16-theme-define 'base16-dirtysea base16-dirtysea-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-dirtysea)

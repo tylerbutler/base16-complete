@@ -1,5 +1,6 @@
 # Base16 Rigel
-# Author: Alexander Keliris
+# Scheme author: Alexander Keliris
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#00384d'
 set -l color01 '#9cf087'

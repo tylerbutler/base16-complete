@@ -1,0 +1,33 @@
+# Base16 Hardcore - wezterm color config
+# Scheme by Chris Caller
+
+[colors]
+foreground    = "#cdcdcd"
+background    = "#212121"
+cursor_bg     = "#cdcdcd"
+cursor_border = "#cdcdcd"
+cursor        = "#cdcdcd"
+selection_bg  = "#cdcdcd"
+selection_fg  = "#212121"
+
+ansi = [
+  "#212121",
+  "#f92672",
+  "#a6e22e",
+  "#e6db74",
+  "#66d9ef",
+  "#9e6ffe",
+  "#708387",
+  "#cdcdcd"
+]
+
+brights = [
+  "#4A4A4A",
+  "#f92672",
+  "#a6e22e",
+  "#e6db74",
+  "#66d9ef",
+  "#9e6ffe",
+  "#708387",
+  "#ffffff"
+]

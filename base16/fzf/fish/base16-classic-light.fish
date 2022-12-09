@@ -1,5 +1,6 @@
 # Base16 Classic Light
-# Author: Jason Heeris (http://heeris.id.au)
+# Scheme author: Jason Heeris (http://heeris.id.au)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#F5F5F5'
 set -l color01 '#E0E0E0'

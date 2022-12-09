@@ -1,7 +1,7 @@
 ;; base16-seti-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: 
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-seti-colors
+(defvar base16-seti-theme-colors
   '(:base00 "#151718"
     :base01 "#282a2b"
     :base02 "#3B758C"
@@ -34,7 +34,7 @@
 (deftheme base16-seti)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-seti base16-seti-colors)
+(base16-theme-define 'base16-seti base16-seti-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-seti)

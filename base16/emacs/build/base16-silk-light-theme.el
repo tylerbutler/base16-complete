@@ -1,7 +1,7 @@
 ;; base16-silk-light-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Gabriel Fontes (https://github.com/Misterio77)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-silk-light-colors
+(defvar base16-silk-light-theme-colors
   '(:base00 "#E9F1EF"
     :base01 "#CCD4D3"
     :base02 "#90B7B6"
@@ -34,7 +34,7 @@
 (deftheme base16-silk-light)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-silk-light base16-silk-light-colors)
+(base16-theme-define 'base16-silk-light base16-silk-light-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-silk-light)

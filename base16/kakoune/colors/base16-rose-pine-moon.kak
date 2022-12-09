@@ -1,24 +1,24 @@
 ## base16-kakoune (https://github.com/leira/base16-kakoune)
 ## by Leira Hua
-## Rosé Pine Moon scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+## Rosé Pine Moon scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 evaluate-commands %sh{
     base00='rgb:232136'
     base01='rgb:2a273f'
     base02='rgb:393552'
-    base03='rgb:59546d'
-    base04='rgb:817c9c'
+    base03='rgb:6e6a86'
+    base04='rgb:908caa'
     base05='rgb:e0def4'
-    base06='rgb:f5f5f7'
-    base07='rgb:d9d7e1'
-    base08='rgb:ecebf0'
-    base09='rgb:eb6f92'
-    base0A='rgb:f6c177'
-    base0B='rgb:ea9a97'
-    base0C='rgb:3e8fb0'
-    base0D='rgb:9ccfd8'
-    base0E='rgb:c4a7e7'
-    base0F='rgb:b9b9bc'
+    base06='rgb:e0def4'
+    base07='rgb:56526e'
+    base08='rgb:eb6f92'
+    base09='rgb:f6c177'
+    base0A='rgb:ea9a97'
+    base0B='rgb:3e8fb0'
+    base0C='rgb:9ccfd8'
+    base0D='rgb:c4a7e7'
+    base0E='rgb:f6c177'
+    base0F='rgb:56526e'
 
     ## code
     echo "

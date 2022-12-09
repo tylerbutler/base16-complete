@@ -1,7 +1,7 @@
 ;; base16-summercamp-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: zoe firi (zoefiri.github.io)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-summercamp-colors
+(defvar base16-summercamp-theme-colors
   '(:base00 "#1c1810"
     :base01 "#2a261c"
     :base02 "#3a3527"
@@ -34,7 +34,7 @@
 (deftheme base16-summercamp)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-summercamp base16-summercamp-colors)
+(base16-theme-define 'base16-summercamp base16-summercamp-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-summercamp)

@@ -1,0 +1,33 @@
+# Base16 Vice Alt - wezterm color config
+# Scheme by Thomas Leon Highbaugh
+
+[colors]
+foreground    = "#555e70"
+background    = "#1b1d24"
+cursor_bg     = "#555e70"
+cursor_border = "#555e70"
+cursor        = "#555e70"
+selection_bg  = "#555e70"
+selection_fg  = "#1b1d24"
+
+ansi = [
+  "#1b1d24",
+  "#ff3d81",
+  "#44ffdd",
+  "#ffff73",
+  "#2fb1d4",
+  "#8265ff",
+  "#00caff",
+  "#555e70"
+]
+
+brights = [
+  "#323643",
+  "#ff3d81",
+  "#44ffdd",
+  "#ffff73",
+  "#2fb1d4",
+  "#8265ff",
+  "#00caff",
+  "#f4f4f7"
+]

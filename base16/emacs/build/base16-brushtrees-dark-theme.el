@@ -1,7 +1,7 @@
 ;; base16-brushtrees-dark-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Abraham White &lt;abelincoln.white@gmail.com&gt;
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-brushtrees-dark-colors
+(defvar base16-brushtrees-dark-theme-colors
   '(:base00 "#485867"
     :base01 "#5A6D7A"
     :base02 "#6D828E"
@@ -34,7 +34,7 @@
 (deftheme base16-brushtrees-dark)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-brushtrees-dark base16-brushtrees-dark-colors)
+(base16-theme-define 'base16-brushtrees-dark base16-brushtrees-dark-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-brushtrees-dark)

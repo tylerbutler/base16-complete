@@ -1,0 +1,42 @@
+# Base16 Vice Dark - amfora color config
+# Thomas Leon Highbaugh
+
+[theme]
+bg = "#17191E"
+fg = "#8b9cbe"
+
+bottombar_label = "#00f6d9"
+bottombar_text = "#8b9cbe"
+bottombar_bg = "#22262d"
+
+tab_num = "#3c3f4c"
+tab_divider = "#555e70"
+
+amfora_link = "#0badff"
+foreign_link = "#383a47"
+link_number = "#383a47"
+
+btn_bg = "#22262d"
+btn_text = "#8b9cbe"
+
+input_modal_bg = "#22262d"
+input_modal_text = "#8b9cbe"
+input_modal_field_bg = "#17191E"
+input_modal_field_text = "#8b9cbe"
+info_modal_bg = "#22262d"
+info_modal_text = "#8b9cbe"
+error_modal_bg = "#22262d"
+error_modal_text = "#ff3d81"
+yesno_modal_bg = "#22262d"
+yesno_modal_text = "#8b9cbe"
+tofu_modal_bg = "#22262d"
+tofu_modal_text = "#8b9cbe"
+subscription_modal_bg = "#22262d"
+subscription_modal_text = "#8b9cbe"
+
+hdg_1 = "#85ffe0"
+hdg_2 = "#f0ffaa"
+hdg_3 = "#00eaff"
+regular_text = "#8b9cbe"
+preformatted_text = "#8265ff"
+list_text = "#8b9cbe"

@@ -1,0 +1,33 @@
+# Base16 Atelier Heath - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+[colors]
+foreground    = "#ab9bab"
+background    = "#1b181b"
+cursor_bg     = "#ab9bab"
+cursor_border = "#ab9bab"
+cursor        = "#ab9bab"
+selection_bg  = "#ab9bab"
+selection_fg  = "#1b181b"
+
+ansi = [
+  "#1b181b",
+  "#ca402b",
+  "#918b3b",
+  "#bb8a35",
+  "#516aec",
+  "#7b59c0",
+  "#159393",
+  "#ab9bab"
+]
+
+brights = [
+  "#776977",
+  "#ca402b",
+  "#918b3b",
+  "#bb8a35",
+  "#516aec",
+  "#7b59c0",
+  "#159393",
+  "#f7f3f7"
+]

@@ -1,6 +1,6 @@
 --
 -- Base16 Rosé Pine Moon
--- Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+-- Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 --
 
 function hex2rgb(hex)
@@ -11,19 +11,19 @@ end
 local base00 = "#232136" -- ----
 local base01 = "#2a273f" -- ---
 local base02 = "#393552" -- --
-local base03 = "#59546d" -- -
-local base04 = "#817c9c" -- +
+local base03 = "#6e6a86" -- -
+local base04 = "#908caa" -- +
 local base05 = "#e0def4" -- ++
-local base06 = "#f5f5f7" -- +++
-local base07 = "#d9d7e1" -- ++++
-local base08 = "#ecebf0" -- red
-local base09 = "#eb6f92" -- orange
-local base0A = "#f6c177" -- yellow
-local base0B = "#ea9a97" -- green
-local base0C = "#3e8fb0" -- aqua/cyan
-local base0D = "#9ccfd8" -- blue
-local base0E = "#c4a7e7" -- purple
-local base0F = "#b9b9bc" -- brown
+local base06 = "#e0def4" -- +++
+local base07 = "#56526e" -- ++++
+local base08 = "#eb6f92" -- red
+local base09 = "#f6c177" -- orange
+local base0A = "#ea9a97" -- yellow
+local base0B = "#3e8fb0" -- green
+local base0C = "#9ccfd8" -- aqua/cyan
+local base0D = "#c4a7e7" -- blue
+local base0E = "#f6c177" -- purple
+local base0F = "#56526e" -- brown
 
 local theme = {}
 

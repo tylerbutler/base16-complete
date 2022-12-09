@@ -2,6 +2,7 @@
 # base16-shell (https://github.com/chriskempson/base16-shell)
 # Base16 Shell template by Chris Kempson (http://chriskempson.com)
 # Apprentice scheme by romainl
+export BASE16_THEME=apprentice
 
 color00="26/26/26" # Base 00 - Black
 color01="5F/87/87" # Base 08 - Red

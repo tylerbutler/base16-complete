@@ -1,7 +1,7 @@
 ;; base16-srcery-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: 
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-srcery-colors
+(defvar base16-srcery-theme-colors
   '(:base00 "#1C1B19"
     :base01 "#98BC37"
     :base02 "#FED06E"
@@ -34,7 +34,7 @@
 (deftheme base16-srcery)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-srcery base16-srcery-colors)
+(base16-theme-define 'base16-srcery base16-srcery-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-srcery)

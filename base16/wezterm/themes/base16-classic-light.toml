@@ -1,0 +1,33 @@
+# Base16 Classic Light - wezterm color config
+# Scheme by Jason Heeris (http://heeris.id.au)
+
+[colors]
+foreground    = "#303030"
+background    = "#F5F5F5"
+cursor_bg     = "#303030"
+cursor_border = "#303030"
+cursor        = "#303030"
+selection_bg  = "#303030"
+selection_fg  = "#F5F5F5"
+
+ansi = [
+  "#F5F5F5",
+  "#AC4142",
+  "#90A959",
+  "#F4BF75",
+  "#6A9FB5",
+  "#AA759F",
+  "#75B5AA",
+  "#303030"
+]
+
+brights = [
+  "#B0B0B0",
+  "#AC4142",
+  "#90A959",
+  "#F4BF75",
+  "#6A9FB5",
+  "#AA759F",
+  "#75B5AA",
+  "#151515"
+]

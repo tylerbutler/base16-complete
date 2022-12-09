@@ -1,5 +1,6 @@
 <!--    Base16 Spaceduck
-        Author: Guillermo Rodriguez (pineapplegiant)   -->
+        Scheme author: Guillermo Rodriguez (pineapplegiant)
+	Template author: Tinted Theming (https://github.com/tinted-theming)   -->
 
 <scheme name="Base16 Spaceduck" version="142" parent_scheme="Darcula">
     <colors>

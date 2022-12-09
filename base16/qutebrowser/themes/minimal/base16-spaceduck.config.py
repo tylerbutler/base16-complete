@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Spaceduck scheme by Guillermo Rodriguez (pineapplegiant)
+# Scheme name: Spaceduck
+# Scheme author: Guillermo Rodriguez (pineapplegiant)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#000000"
 base01 = "#5ccc96"

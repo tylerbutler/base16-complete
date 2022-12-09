@@ -1,7 +1,7 @@
 ;; base16-sakura-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Misterio77 (http://github.com/Misterio77)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-sakura-colors
+(defvar base16-sakura-theme-colors
   '(:base00 "#feedf3"
     :base01 "#f8e2e7"
     :base02 "#e0ccd1"
@@ -34,7 +34,7 @@
 (deftheme base16-sakura)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-sakura base16-sakura-colors)
+(base16-theme-define 'base16-sakura base16-sakura-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-sakura)

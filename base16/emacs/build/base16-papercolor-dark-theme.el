@@ -1,7 +1,7 @@
 ;; base16-papercolor-dark-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-papercolor-dark-colors
+(defvar base16-papercolor-dark-theme-colors
   '(:base00 "#1c1c1c"
     :base01 "#af005f"
     :base02 "#5faf00"
@@ -34,7 +34,7 @@
 (deftheme base16-papercolor-dark)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-papercolor-dark base16-papercolor-dark-colors)
+(base16-theme-define 'base16-papercolor-dark base16-papercolor-dark-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-papercolor-dark)

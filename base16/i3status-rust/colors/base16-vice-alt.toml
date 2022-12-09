@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Vice Alt by Thomas Leon Highbaugh
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1b1d24"
+idle_fg = "#555e70"
+info_bg = "#00caff"
+info_fg = "#1b1d24"
+good_bg = "#44ffdd"
+good_fg = "#1b1d24"
+warning_bg = "#ffff73"
+warning_fg = "#1b1d24"
+critical_bg = "#ff3d81"
+critical_fg = "#1b1d24"
+# The rest of the theme settings are left at default.

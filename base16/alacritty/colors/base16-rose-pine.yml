@@ -1,5 +1,5 @@
 # Base16 Rosé Pine - alacritty color config
-# Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 colors:
   # Default colors
   primary:
@@ -14,23 +14,23 @@ colors:
   # Normal colors
   normal:
     black:   '0x191724'
-    red:     '0xe2e1e7'
-    green:   '0xebbcba'
-    yellow:  '0xf6c177'
-    blue:    '0x9ccfd8'
-    magenta: '0xc4a7e7'
-    cyan:    '0x31748f'
+    red:     '0xeb6f92'
+    green:   '0x31748f'
+    yellow:  '0xebbcba'
+    blue:    '0xc4a7e7'
+    magenta: '0xf6c177'
+    cyan:    '0x9ccfd8'
     white:   '0xe0def4'
 
   # Bright colors
   bright:
-    black:   '0x555169'
-    red:     '0xeb6f92'
+    black:   '0x6e6a86'
+    red:     '0xf6c177'
     green:   '0x1f1d2e'
     yellow:  '0x26233a'
-    blue:    '0x6e6a86'
-    magenta: '0xf0f0f3'
-    cyan:    '0xe5e5e5'
-    white:   '0xc5c3ce'
+    blue:    '0x908caa'
+    magenta: '0xe0def4'
+    cyan:    '0x524f67'
+    white:   '0x524f67'
 
 draw_bold_text_with_bright_colors: false

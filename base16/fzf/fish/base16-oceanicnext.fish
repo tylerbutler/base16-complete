@@ -1,5 +1,6 @@
 # Base16 OceanicNext
-# Author: https://github.com/voronianski/oceanic-next-color-scheme
+# Scheme author: https://github.com/voronianski/oceanic-next-color-scheme
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1B2B34'
 set -l color01 '#343D46'

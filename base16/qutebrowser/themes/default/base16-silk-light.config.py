@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Silk Light scheme by Gabriel Fontes (https://github.com/Misterio77)
+# Scheme name: Silk Light
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#E9F1EF"
 base01 = "#CCD4D3"

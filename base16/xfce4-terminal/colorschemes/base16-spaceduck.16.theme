@@ -1,3 +1,6 @@
+# Scheme name: Spaceduck
+# Scheme author: Guillermo Rodriguez (pineapplegiant)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Spaceduck.16
 ColorForeground=#686f9a

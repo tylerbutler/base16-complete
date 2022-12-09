@@ -2,7 +2,7 @@
   HighlightColor = "#26233a";
   HighlightTextColor = "#e0def4";
   ClipTitleColor = "#e0def4";
-  CClipTitleColor = "#555169";
+  CClipTitleColor = "#6e6a86";
   FTitleColor = "#e0def4";
   PTitleColor = "#e0def4";
   UTitleColor = "#e0def4";
@@ -12,7 +12,7 @@
   ResizebarBack = (solid, "#191724");
   MenuTitleColor = "#e0def4";
   MenuTextColor = "#e0def4";
-  MenuDisabledColor = "#555169";
+  MenuDisabledColor = "#6e6a86";
   MenuTitleBack = (solid, "#1f1d2e");
   MenuTextBack = (solid, "#191724");
   IconBack = (solid, "#1f1d2e");

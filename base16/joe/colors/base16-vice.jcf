@@ -1,0 +1,61 @@
+
+# base16 Vice Dark by Thomas Leon Highbaugh
+
+.colors *
+
+-text		$8b9cbe/$17191E
+-status		$555e70/$3c3f4c
+-cursor		$17191E/$8b9cbe
+-selection	/$3c3f4c
+-curlin		/$22262d
+-linum		$383a47/$22262d
+-curlinum	$555e70/$22262d
+-menusel	$22262d/$555e70
+
+-term 0 	$17191E
+-term 1 	$00eaff
+-term 2 	$0badff
+-term 3 	$8265ff
+-term 4 	$85ffe0
+-term 5 	$00f6d9
+-term 6 	$f0ffaa
+-term 7 	$555e70
+-term 8 	$383a47
+-term 9 	$00eaff
+-term 10	$0badff
+-term 11	$8265ff
+-term 12	$ff29a8
+-term 13	$ff3d81
+-term 14	$f0ffaa
+-term 15	$f4f4f7
+
+=Constant	$85ffe0
+=String		$0badff
+=Escape		$8265ff
+
+=Comment	$383a47
+=StorageClass	+Type
+=Keyword	$00f6d9
+=Conditional	$00f6d9
+=Operator	$8b9cbe
+=Loop		$f0ffaa
+=Statement	$ff29a8
+=Type		$f0ffaa
+
+=DefinedIdent	$ff29a8
+=Label		$f0ffaa
+=DefinedType	$f0ffaa
+=Structure	$00f6d9
+
+=Preproc	$f0ffaa
+=Include	$00eaff
+=Define		$00f6d9
+=TODO		$f0ffaa/$22262d
+=Precond	$00f6d9
+
+=diff.AddLine	$0badff/$22262d
+=diff.ChgLine	$383a47/$22262d
+=diff.DelLine	$ff29a8/$22262d
+=diff.File	$ff29a8
+=diff.FileNew	$0badff
+=diff.Hunk	$00eaff

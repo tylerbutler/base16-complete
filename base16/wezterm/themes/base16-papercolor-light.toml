@@ -1,0 +1,33 @@
+# Base16 PaperColor Light - wezterm color config
+# Scheme by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+[colors]
+foreground    = "#444444"
+background    = "#eeeeee"
+cursor_bg     = "#444444"
+cursor_border = "#444444"
+cursor        = "#444444"
+selection_bg  = "#444444"
+selection_fg  = "#eeeeee"
+
+ansi = [
+  "#eeeeee",
+  "#bcbcbc",
+  "#8700af",
+  "#d70087",
+  "#d75f00",
+  "#005faf",
+  "#d75f00",
+  "#444444"
+]
+
+brights = [
+  "#5f8700",
+  "#bcbcbc",
+  "#8700af",
+  "#d70087",
+  "#d75f00",
+  "#005faf",
+  "#d75f00",
+  "#878787"
+]

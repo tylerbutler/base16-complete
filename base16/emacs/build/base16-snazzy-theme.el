@@ -1,7 +1,7 @@
 ;; base16-snazzy-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-snazzy-colors
+(defvar base16-snazzy-theme-colors
   '(:base00 "#282a36"
     :base01 "#34353e"
     :base02 "#43454f"
@@ -34,7 +34,7 @@
 (deftheme base16-snazzy)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-snazzy base16-snazzy-colors)
+(base16-theme-define 'base16-snazzy base16-snazzy-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-snazzy)

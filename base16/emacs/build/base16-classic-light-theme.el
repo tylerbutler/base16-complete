@@ -1,7 +1,7 @@
 ;; base16-classic-light-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Jason Heeris (http://heeris.id.au)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-classic-light-colors
+(defvar base16-classic-light-theme-colors
   '(:base00 "#F5F5F5"
     :base01 "#E0E0E0"
     :base02 "#D0D0D0"
@@ -34,7 +34,7 @@
 (deftheme base16-classic-light)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-classic-light base16-classic-light-colors)
+(base16-theme-define 'base16-classic-light base16-classic-light-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-classic-light)

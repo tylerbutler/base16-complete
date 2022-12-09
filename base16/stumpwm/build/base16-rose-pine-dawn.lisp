@@ -1,14 +1,14 @@
 (progn
   ;; Base16 Rosé Pine Dawn
-  ;; Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+  ;; Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
-  (stumpwm:set-fg-color "#6e6a86")
+  (stumpwm:set-fg-color "#797593")
   (stumpwm:set-bg-color "#faf4ed")
   (stumpwm:set-border-color "#9893a5")
-  (stumpwm:set-focus-color "#6e6a86")
+  (stumpwm:set-focus-color "#797593")
   (stumpwm:set-unfocus-color "#faf4ed")
 
-  (setf stumpwm:*mode-line-foreground-color* "#907aa9"
+  (setf stumpwm:*mode-line-foreground-color* "#ea9d34"
 	stumpwm:*mode-line-background-color* "#fffaf3"
 	stumpwm:*mode-line-border-color* "#9893a5")
 

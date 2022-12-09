@@ -2,7 +2,7 @@
 
 " base16-vim (https://github.com/chriskempson/base16-vim)
 " by Chris Kempson (http://chriskempson.com)
-" Rosé Pine Moon scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+" Rosé Pine Moon scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 " This enables the coresponding base16-shell script to run so that
 " :colorscheme works in terminals supported by base16-shell scripts
@@ -21,32 +21,32 @@ let s:gui01        = "2a273f"
 let g:base16_gui01 = "2a273f"
 let s:gui02        = "393552"
 let g:base16_gui02 = "393552"
-let s:gui03        = "59546d"
-let g:base16_gui03 = "59546d"
-let s:gui04        = "817c9c"
-let g:base16_gui04 = "817c9c"
+let s:gui03        = "6e6a86"
+let g:base16_gui03 = "6e6a86"
+let s:gui04        = "908caa"
+let g:base16_gui04 = "908caa"
 let s:gui05        = "e0def4"
 let g:base16_gui05 = "e0def4"
-let s:gui06        = "f5f5f7"
-let g:base16_gui06 = "f5f5f7"
-let s:gui07        = "d9d7e1"
-let g:base16_gui07 = "d9d7e1"
-let s:gui08        = "ecebf0"
-let g:base16_gui08 = "ecebf0"
-let s:gui09        = "eb6f92"
-let g:base16_gui09 = "eb6f92"
-let s:gui0A        = "f6c177"
-let g:base16_gui0A = "f6c177"
-let s:gui0B        = "ea9a97"
-let g:base16_gui0B = "ea9a97"
-let s:gui0C        = "3e8fb0"
-let g:base16_gui0C = "3e8fb0"
-let s:gui0D        = "9ccfd8"
-let g:base16_gui0D = "9ccfd8"
-let s:gui0E        = "c4a7e7"
-let g:base16_gui0E = "c4a7e7"
-let s:gui0F        = "b9b9bc"
-let g:base16_gui0F = "b9b9bc"
+let s:gui06        = "e0def4"
+let g:base16_gui06 = "e0def4"
+let s:gui07        = "56526e"
+let g:base16_gui07 = "56526e"
+let s:gui08        = "eb6f92"
+let g:base16_gui08 = "eb6f92"
+let s:gui09        = "f6c177"
+let g:base16_gui09 = "f6c177"
+let s:gui0A        = "ea9a97"
+let g:base16_gui0A = "ea9a97"
+let s:gui0B        = "3e8fb0"
+let g:base16_gui0B = "3e8fb0"
+let s:gui0C        = "9ccfd8"
+let g:base16_gui0C = "9ccfd8"
+let s:gui0D        = "c4a7e7"
+let g:base16_gui0D = "c4a7e7"
+let s:gui0E        = "f6c177"
+let g:base16_gui0E = "f6c177"
+let s:gui0F        = "56526e"
+let g:base16_gui0F = "56526e"
 
 " Terminal color definitions
 let s:cterm00        = "00"
@@ -100,21 +100,21 @@ endif
 " Neovim terminal colours
 if has("nvim")
   let g:terminal_color_0 =  "#232136"
-  let g:terminal_color_1 =  "#ecebf0"
-  let g:terminal_color_2 =  "#ea9a97"
-  let g:terminal_color_3 =  "#f6c177"
-  let g:terminal_color_4 =  "#9ccfd8"
-  let g:terminal_color_5 =  "#c4a7e7"
-  let g:terminal_color_6 =  "#3e8fb0"
+  let g:terminal_color_1 =  "#eb6f92"
+  let g:terminal_color_2 =  "#3e8fb0"
+  let g:terminal_color_3 =  "#ea9a97"
+  let g:terminal_color_4 =  "#c4a7e7"
+  let g:terminal_color_5 =  "#f6c177"
+  let g:terminal_color_6 =  "#9ccfd8"
   let g:terminal_color_7 =  "#e0def4"
-  let g:terminal_color_8 =  "#59546d"
-  let g:terminal_color_9 =  "#ecebf0"
-  let g:terminal_color_10 = "#ea9a97"
-  let g:terminal_color_11 = "#f6c177"
-  let g:terminal_color_12 = "#9ccfd8"
-  let g:terminal_color_13 = "#c4a7e7"
-  let g:terminal_color_14 = "#3e8fb0"
-  let g:terminal_color_15 = "#d9d7e1"
+  let g:terminal_color_8 =  "#6e6a86"
+  let g:terminal_color_9 =  "#eb6f92"
+  let g:terminal_color_10 = "#3e8fb0"
+  let g:terminal_color_11 = "#ea9a97"
+  let g:terminal_color_12 = "#c4a7e7"
+  let g:terminal_color_13 = "#f6c177"
+  let g:terminal_color_14 = "#9ccfd8"
+  let g:terminal_color_15 = "#56526e"
   let g:terminal_color_background = g:terminal_color_0
   let g:terminal_color_foreground = g:terminal_color_5
   if &background == "light"
@@ -124,21 +124,21 @@ if has("nvim")
 elseif has("terminal")
   let g:terminal_ansi_colors = [
         \ "#232136",
-        \ "#ecebf0",
+        \ "#eb6f92",
+        \ "#3e8fb0",
         \ "#ea9a97",
+        \ "#c4a7e7",
         \ "#f6c177",
         \ "#9ccfd8",
-        \ "#c4a7e7",
-        \ "#3e8fb0",
         \ "#e0def4",
-        \ "#59546d",
-        \ "#ecebf0",
+        \ "#6e6a86",
+        \ "#eb6f92",
+        \ "#3e8fb0",
         \ "#ea9a97",
+        \ "#c4a7e7",
         \ "#f6c177",
         \ "#9ccfd8",
-        \ "#c4a7e7",
-        \ "#3e8fb0",
-        \ "#d9d7e1",
+        \ "#56526e",
         \ ]
 endif
 
@@ -153,11 +153,22 @@ function! g:Base16hi(group, guifg, guibg, ctermfg, ctermbg, ...)
   let l:attr = get(a:, 1, "")
   let l:guisp = get(a:, 2, "")
 
+  " See :help highlight-guifg
+  let l:gui_special_names = ["NONE", "bg", "background", "fg", "foreground"]
+
   if a:guifg != ""
-    exec "hi " . a:group . " guifg=#" . a:guifg
+    if index(l:gui_special_names, a:guifg) >= 0
+      exec "hi " . a:group . " guifg=" . a:guifg
+    else
+      exec "hi " . a:group . " guifg=#" . a:guifg
+    endif
   endif
   if a:guibg != ""
-    exec "hi " . a:group . " guibg=#" . a:guibg
+    if index(l:gui_special_names, a:guibg) >= 0
+      exec "hi " . a:group . " guibg=" . a:guibg
+    else
+      exec "hi " . a:group . " guibg=#" . a:guibg
+    endif
   endif
   if a:ctermfg != ""
     exec "hi " . a:group . " ctermfg=" . a:ctermfg
@@ -169,7 +180,11 @@ function! g:Base16hi(group, guifg, guibg, ctermfg, ctermbg, ...)
     exec "hi " . a:group . " gui=" . l:attr . " cterm=" . l:attr
   endif
   if l:guisp != ""
-    exec "hi " . a:group . " guisp=#" . l:guisp
+    if index(l:gui_special_names, l:guisp) >= 0
+      exec "hi " . a:group . " guisp=" . l:guisp
+    else
+      exec "hi " . a:group . " guisp=#" . l:guisp
+    endif
   endif
 endfunction
 
@@ -331,6 +346,12 @@ call <sid>hi("jsGlobalObjects",     s:gui0A, "", s:cterm0A, "", "", "")
 call <sid>hi("jsGlobalNodeObjects", s:gui0A, "", s:cterm0A, "", "", "")
 call <sid>hi("jsExceptions",        s:gui0A, "", s:cterm0A, "", "", "")
 call <sid>hi("jsBuiltins",          s:gui0A, "", s:cterm0A, "", "", "")
+
+" LSP highlighting
+call <sid>hi("LspDiagnosticsDefaultError", s:gui08, "", s:cterm08, "", "", "")
+call <sid>hi("LspDiagnosticsDefaultWarning", s:gui09, "", s:cterm09, "", "", "")
+call <sid>hi("LspDiagnosticsDefaultHnformation", s:gui05, "", s:cterm05, "", "", "")
+call <sid>hi("LspDiagnosticsDefaultHint", s:gui03, "", s:cterm03, "", "", "")
 
 " Mail highlighting
 call <sid>hi("mailQuoted1",  s:gui0A, "", s:cterm0A, "", "", "")

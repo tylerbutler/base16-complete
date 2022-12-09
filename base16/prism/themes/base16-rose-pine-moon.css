@@ -1,6 +1,6 @@
 /* base16-prism (https://github.com/atelierbram/base16-prism)
  * by Bram de Haan (http://atelierbramdehaan.nl)
- * Rosé Pine Moon scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+ * Rosé Pine Moon scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 */
 
 code[class*="language-"],
@@ -29,13 +29,13 @@ pre[class*="language-"] {
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
 code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
   text-shadow: none;
-  background: #817c9c;
+  background: #908caa;
 }
 
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
   text-shadow: none;
-  background: #817c9c;
+  background: #908caa;
 }
 
 /* Code blocks */
@@ -55,7 +55,7 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #59546d;
+  color: #6e6a86;
 }
 
 .token.punctuation {
@@ -69,28 +69,28 @@ pre[class*="language-"] {
 .token.operator,
 .token.boolean,
 .token.number {
-  color: #eb6f92;
-}
-.token.property {
   color: #f6c177;
 }
+.token.property {
+  color: #ea9a97;
+}
 .token.tag {
-  color: #9ccfd8;
-}
-.token.string {
-  color: #3e8fb0;
-}
-.token.selector {
   color: #c4a7e7;
 }
+.token.string {
+  color: #9ccfd8;
+}
+.token.selector {
+  color: #f6c177;
+}
 .token.attr-name {
-  color: #eb6f92;
+  color: #f6c177;
 }
 .token.entity,
 .token.url,
 .language-css .token.string,
 .style .token.string {
-  color: #3e8fb0;
+  color: #9ccfd8;
 }
 
 .token.attr-value,
@@ -98,18 +98,18 @@ pre[class*="language-"] {
 .token.control,
 .token.directive,
 .token.unit {
-  color: #ea9a97;
+  color: #3e8fb0;
 }
 
 .token.statement,
 .token.regex,
 .token.atrule {
-  color: #3e8fb0;
+  color: #9ccfd8;
 }
 
 .token.placeholder,
 .token.variable {
-  color: #9ccfd8;
+  color: #c4a7e7;
 }
 
 .token.deleted {
@@ -117,7 +117,7 @@ pre[class*="language-"] {
 }
 
 .token.inserted {
-  border-bottom: 1px dotted #d9d7e1;
+  border-bottom: 1px dotted #56526e;
   text-decoration: none;
 }
 
@@ -131,7 +131,7 @@ pre[class*="language-"] {
 }
 
 .token.important {
-  color: #ecebf0;
+  color: #eb6f92;
 }
 
 .token.entity {
@@ -139,7 +139,7 @@ pre[class*="language-"] {
 }
 
 pre > code.highlight {
-  outline: .4em solid #ecebf0;
+  outline: .4em solid #eb6f92;
   outline-offset: .4em;
 }
 

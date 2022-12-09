@@ -1,7 +1,7 @@
 ;; base16-heetch-light-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Geoffrey Teale (tealeg@gmail.com)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-heetch-light-colors
+(defvar base16-heetch-light-theme-colors
   '(:base00 "#feffff"
     :base01 "#392551"
     :base02 "#7b6d8b"
@@ -34,7 +34,7 @@
 (deftheme base16-heetch-light)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-heetch-light base16-heetch-light-colors)
+(base16-theme-define 'base16-heetch-light base16-heetch-light-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-heetch-light)

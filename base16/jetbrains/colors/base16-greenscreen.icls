@@ -1,5 +1,6 @@
 <!--    Base16 Green Screen
-        Author: Chris Kempson (http://chriskempson.com)   -->
+        Scheme author: Chris Kempson (http://chriskempson.com)
+	Template author: Tinted Theming (https://github.com/tinted-theming)   -->
 
 <scheme name="Base16 Green Screen" version="142" parent_scheme="Darcula">
     <colors>

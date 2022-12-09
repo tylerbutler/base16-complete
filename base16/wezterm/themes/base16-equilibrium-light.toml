@@ -1,0 +1,33 @@
+# Base16 Equilibrium Light - wezterm color config
+# Scheme by Carlo Abelli
+
+[colors]
+foreground    = "#43474e"
+background    = "#f5f0e7"
+cursor_bg     = "#43474e"
+cursor_border = "#43474e"
+cursor        = "#43474e"
+selection_bg  = "#43474e"
+selection_fg  = "#f5f0e7"
+
+ansi = [
+  "#f5f0e7",
+  "#d02023",
+  "#637200",
+  "#9d6f00",
+  "#0073b5",
+  "#4e66b6",
+  "#007a72",
+  "#43474e"
+]
+
+brights = [
+  "#73777f",
+  "#d02023",
+  "#637200",
+  "#9d6f00",
+  "#0073b5",
+  "#4e66b6",
+  "#007a72",
+  "#181c22"
+]

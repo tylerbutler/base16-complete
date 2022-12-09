@@ -1,7 +1,7 @@
 ;; base16-rigel-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Alexander Keliris
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-rigel-colors
+(defvar base16-rigel-theme-colors
   '(:base00 "#00384d"
     :base01 "#9cf087"
     :base02 "#ffcc1b"
@@ -34,7 +34,7 @@
 (deftheme base16-rigel)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-rigel base16-rigel-colors)
+(base16-theme-define 'base16-rigel base16-rigel-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-rigel)

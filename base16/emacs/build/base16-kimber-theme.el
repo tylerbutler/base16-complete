@@ -1,7 +1,7 @@
 ;; base16-kimber-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Mishka Nguyen (https://github.com/akhsiM)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-kimber-colors
+(defvar base16-kimber-theme-colors
   '(:base00 "#222222"
     :base01 "#313131"
     :base02 "#555D55"
@@ -34,7 +34,7 @@
 (deftheme base16-kimber)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-kimber base16-kimber-colors)
+(base16-theme-define 'base16-kimber base16-kimber-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-kimber)

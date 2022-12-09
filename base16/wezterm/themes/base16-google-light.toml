@@ -1,0 +1,33 @@
+# Base16 Google Light - wezterm color config
+# Scheme by Seth Wright (http://sethawright.com)
+
+[colors]
+foreground    = "#373b41"
+background    = "#ffffff"
+cursor_bg     = "#373b41"
+cursor_border = "#373b41"
+cursor        = "#373b41"
+selection_bg  = "#373b41"
+selection_fg  = "#ffffff"
+
+ansi = [
+  "#ffffff",
+  "#CC342B",
+  "#198844",
+  "#FBA922",
+  "#3971ED",
+  "#A36AC7",
+  "#3971ED",
+  "#373b41"
+]
+
+brights = [
+  "#b4b7b4",
+  "#CC342B",
+  "#198844",
+  "#FBA922",
+  "#3971ED",
+  "#A36AC7",
+  "#3971ED",
+  "#1d1f21"
+]

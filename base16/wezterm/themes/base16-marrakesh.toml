@@ -1,0 +1,33 @@
+# Base16 Marrakesh - wezterm color config
+# Scheme by Alexandre Gavioli (http://github.com/Alexx2/)
+
+[colors]
+foreground    = "#948e48"
+background    = "#201602"
+cursor_bg     = "#948e48"
+cursor_border = "#948e48"
+cursor        = "#948e48"
+selection_bg  = "#948e48"
+selection_fg  = "#201602"
+
+ansi = [
+  "#201602",
+  "#c35359",
+  "#18974e",
+  "#a88339",
+  "#477ca1",
+  "#8868b3",
+  "#75a738",
+  "#948e48"
+]
+
+brights = [
+  "#6c6823",
+  "#c35359",
+  "#18974e",
+  "#a88339",
+  "#477ca1",
+  "#8868b3",
+  "#75a738",
+  "#faf0a5"
+]

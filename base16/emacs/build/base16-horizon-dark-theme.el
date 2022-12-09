@@ -1,7 +1,7 @@
 ;; base16-horizon-dark-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Michaël Ball (http://github.com/michael-ball/)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-horizon-dark-colors
+(defvar base16-horizon-dark-theme-colors
   '(:base00 "#1C1E26"
     :base01 "#232530"
     :base02 "#2E303E"
@@ -34,7 +34,7 @@
 (deftheme base16-horizon-dark)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-horizon-dark base16-horizon-dark-colors)
+(base16-theme-define 'base16-horizon-dark base16-horizon-dark-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-horizon-dark)

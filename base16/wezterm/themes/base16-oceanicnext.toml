@@ -1,0 +1,33 @@
+# Base16 OceanicNext - wezterm color config
+# Scheme by https://github.com/voronianski/oceanic-next-color-scheme
+
+[colors]
+foreground    = "#C0C5CE"
+background    = "#1B2B34"
+cursor_bg     = "#C0C5CE"
+cursor_border = "#C0C5CE"
+cursor        = "#C0C5CE"
+selection_bg  = "#C0C5CE"
+selection_fg  = "#1B2B34"
+
+ansi = [
+  "#1B2B34",
+  "#EC5f67",
+  "#99C794",
+  "#FAC863",
+  "#6699CC",
+  "#C594C5",
+  "#5FB3B3",
+  "#C0C5CE"
+]
+
+brights = [
+  "#65737E",
+  "#EC5f67",
+  "#99C794",
+  "#FAC863",
+  "#6699CC",
+  "#C594C5",
+  "#5FB3B3",
+  "#D8DEE9"
+]

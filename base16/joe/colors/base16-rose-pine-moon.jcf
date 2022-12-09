@@ -1,61 +1,61 @@
 
-# base16 Rosé Pine Moon by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# base16 Rosé Pine Moon by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 .colors *
 
 -text		$e0def4/$232136
--status		$817c9c/$393552
+-status		$908caa/$393552
 -cursor		$232136/$e0def4
 -selection	/$393552
 -curlin		/$2a273f
--linum		$59546d/$2a273f
--curlinum	$817c9c/$2a273f
--menusel	$2a273f/$817c9c
+-linum		$6e6a86/$2a273f
+-curlinum	$908caa/$2a273f
+-menusel	$2a273f/$908caa
 
 -term 0 	$232136
--term 1 	$9ccfd8
--term 2 	$ea9a97
--term 3 	$3e8fb0
--term 4 	$eb6f92
--term 5 	$c4a7e7
--term 6 	$f6c177
--term 7 	$817c9c
--term 8 	$59546d
--term 9 	$9ccfd8
--term 10	$ea9a97
--term 11	$3e8fb0
--term 12	$ecebf0
--term 13	$b9b9bc
--term 14	$f6c177
--term 15	$d9d7e1
+-term 1 	$c4a7e7
+-term 2 	$3e8fb0
+-term 3 	$9ccfd8
+-term 4 	$f6c177
+-term 5 	$f6c177
+-term 6 	$ea9a97
+-term 7 	$908caa
+-term 8 	$6e6a86
+-term 9 	$c4a7e7
+-term 10	$3e8fb0
+-term 11	$9ccfd8
+-term 12	$eb6f92
+-term 13	$56526e
+-term 14	$ea9a97
+-term 15	$56526e
 
-=Constant	$eb6f92
-=String		$ea9a97
-=Escape		$3e8fb0
+=Constant	$f6c177
+=String		$3e8fb0
+=Escape		$9ccfd8
 
-=Comment	$59546d
+=Comment	$6e6a86
 =StorageClass	+Type
-=Keyword	$c4a7e7
-=Conditional	$c4a7e7
+=Keyword	$f6c177
+=Conditional	$f6c177
 =Operator	$e0def4
-=Loop		$f6c177
-=Statement	$ecebf0
-=Type		$f6c177
+=Loop		$ea9a97
+=Statement	$eb6f92
+=Type		$ea9a97
 
-=DefinedIdent	$ecebf0
-=Label		$f6c177
-=DefinedType	$f6c177
-=Structure	$c4a7e7
+=DefinedIdent	$eb6f92
+=Label		$ea9a97
+=DefinedType	$ea9a97
+=Structure	$f6c177
 
-=Preproc	$f6c177
-=Include	$9ccfd8
-=Define		$c4a7e7
-=TODO		$f6c177/$2a273f
-=Precond	$c4a7e7
+=Preproc	$ea9a97
+=Include	$c4a7e7
+=Define		$f6c177
+=TODO		$ea9a97/$2a273f
+=Precond	$f6c177
 
-=diff.AddLine	$ea9a97/$2a273f
-=diff.ChgLine	$59546d/$2a273f
-=diff.DelLine	$ecebf0/$2a273f
-=diff.File	$ecebf0
-=diff.FileNew	$ea9a97
-=diff.Hunk	$9ccfd8
+=diff.AddLine	$3e8fb0/$2a273f
+=diff.ChgLine	$6e6a86/$2a273f
+=diff.DelLine	$eb6f92/$2a273f
+=diff.File	$eb6f92
+=diff.FileNew	$3e8fb0
+=diff.Hunk	$c4a7e7

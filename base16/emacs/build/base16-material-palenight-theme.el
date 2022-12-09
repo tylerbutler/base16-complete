@@ -1,7 +1,7 @@
 ;; base16-material-palenight-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Nate Peterson
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-material-palenight-colors
+(defvar base16-material-palenight-theme-colors
   '(:base00 "#292D3E"
     :base01 "#444267"
     :base02 "#32374D"
@@ -34,7 +34,7 @@
 (deftheme base16-material-palenight)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-material-palenight base16-material-palenight-colors)
+(base16-theme-define 'base16-material-palenight base16-material-palenight-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-material-palenight)

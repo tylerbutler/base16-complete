@@ -1,7 +1,7 @@
 ;; base16-edge-light-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: cjayross (https://github.com/cjayross)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-edge-light-colors
+(defvar base16-edge-light-theme-colors
   '(:base00 "#fafafa"
     :base01 "#7c9f4b"
     :base02 "#d69822"
@@ -34,7 +34,7 @@
 (deftheme base16-edge-light)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-edge-light base16-edge-light-colors)
+(base16-theme-define 'base16-edge-light base16-edge-light-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-edge-light)

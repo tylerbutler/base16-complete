@@ -1,7 +1,7 @@
 ;; base16-material-lighter-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Nate Peterson
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-material-lighter-colors
+(defvar base16-material-lighter-theme-colors
   '(:base00 "#FAFAFA"
     :base01 "#E7EAEC"
     :base02 "#CCEAE7"
@@ -34,7 +34,7 @@
 (deftheme base16-material-lighter)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-material-lighter base16-material-lighter-colors)
+(base16-theme-define 'base16-material-lighter base16-material-lighter-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-material-lighter)

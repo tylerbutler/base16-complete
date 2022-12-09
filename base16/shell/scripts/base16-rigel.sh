@@ -2,6 +2,7 @@
 # base16-shell (https://github.com/chriskempson/base16-shell)
 # Base16 Shell template by Chris Kempson (http://chriskempson.com)
 # Rigel scheme by Alexander Keliris
+export BASE16_THEME=rigel
 
 color00="00/38/4d" # Base 00 - Black
 color01="c4/30/61" # Base 08 - Red

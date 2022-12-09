@@ -1,0 +1,33 @@
+# Base16 XCode Dusk - wezterm color config
+# Scheme by Elsa Gonsiorowski (https://github.com/gonsie)
+
+[colors]
+foreground    = "#939599"
+background    = "#282B35"
+cursor_bg     = "#939599"
+cursor_border = "#939599"
+cursor        = "#939599"
+selection_bg  = "#939599"
+selection_fg  = "#282B35"
+
+ansi = [
+  "#282B35",
+  "#B21889",
+  "#DF0002",
+  "#438288",
+  "#790EAD",
+  "#B21889",
+  "#00A0BE",
+  "#939599"
+]
+
+brights = [
+  "#686A71",
+  "#B21889",
+  "#DF0002",
+  "#438288",
+  "#790EAD",
+  "#B21889",
+  "#00A0BE",
+  "#BEBFC2"
+]

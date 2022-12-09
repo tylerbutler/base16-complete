@@ -1,7 +1,7 @@
 ;; base16-zenburn-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: elnawe
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-zenburn-colors
+(defvar base16-zenburn-theme-colors
   '(:base00 "#383838"
     :base01 "#404040"
     :base02 "#606060"
@@ -34,7 +34,7 @@
 (deftheme base16-zenburn)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-zenburn base16-zenburn-colors)
+(base16-theme-define 'base16-zenburn base16-zenburn-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-zenburn)

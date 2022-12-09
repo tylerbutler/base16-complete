@@ -1,0 +1,33 @@
+# Base16 Horizon Light - wezterm color config
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+
+[colors]
+foreground    = "#403C3D"
+background    = "#FDF0ED"
+cursor_bg     = "#403C3D"
+cursor_border = "#403C3D"
+cursor        = "#403C3D"
+selection_bg  = "#403C3D"
+selection_fg  = "#FDF0ED"
+
+ansi = [
+  "#FDF0ED",
+  "#F7939B",
+  "#94E1B0",
+  "#FBE0D9",
+  "#DA103F",
+  "#1D8991",
+  "#DC3318",
+  "#403C3D"
+]
+
+brights = [
+  "#BDB3B1",
+  "#F7939B",
+  "#94E1B0",
+  "#FBE0D9",
+  "#DA103F",
+  "#1D8991",
+  "#DC3318",
+  "#201C1D"
+]

@@ -1,0 +1,33 @@
+# Base16 OneDark - wezterm color config
+# Scheme by Lalit Magant (http://github.com/tilal6991)
+
+[colors]
+foreground    = "#abb2bf"
+background    = "#282c34"
+cursor_bg     = "#abb2bf"
+cursor_border = "#abb2bf"
+cursor        = "#abb2bf"
+selection_bg  = "#abb2bf"
+selection_fg  = "#282c34"
+
+ansi = [
+  "#282c34",
+  "#e06c75",
+  "#98c379",
+  "#e5c07b",
+  "#61afef",
+  "#c678dd",
+  "#56b6c2",
+  "#abb2bf"
+]
+
+brights = [
+  "#545862",
+  "#e06c75",
+  "#98c379",
+  "#e5c07b",
+  "#61afef",
+  "#c678dd",
+  "#56b6c2",
+  "#c8ccd4"
+]

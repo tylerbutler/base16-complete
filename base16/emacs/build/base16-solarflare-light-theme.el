@@ -1,7 +1,7 @@
 ;; base16-solarflare-light-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: Chuck Harmston (https://chuck.harmston.ch)
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-solarflare-light-colors
+(defvar base16-solarflare-light-theme-colors
   '(:base00 "#F5F7FA"
     :base01 "#E8E9ED"
     :base02 "#A6AFB8"
@@ -34,7 +34,7 @@
 (deftheme base16-solarflare-light)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-solarflare-light base16-solarflare-light-colors)
+(base16-theme-define 'base16-solarflare-light base16-solarflare-light-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-solarflare-light)

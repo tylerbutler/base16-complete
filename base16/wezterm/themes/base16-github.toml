@@ -1,0 +1,33 @@
+# Base16 Github - wezterm color config
+# Scheme by Defman21
+
+[colors]
+foreground    = "#333333"
+background    = "#ffffff"
+cursor_bg     = "#333333"
+cursor_border = "#333333"
+cursor        = "#333333"
+selection_bg  = "#333333"
+selection_fg  = "#ffffff"
+
+ansi = [
+  "#ffffff",
+  "#ed6a43",
+  "#183691",
+  "#795da3",
+  "#795da3",
+  "#a71d5d",
+  "#183691",
+  "#333333"
+]
+
+brights = [
+  "#969896",
+  "#ed6a43",
+  "#183691",
+  "#795da3",
+  "#795da3",
+  "#a71d5d",
+  "#183691",
+  "#ffffff"
+]

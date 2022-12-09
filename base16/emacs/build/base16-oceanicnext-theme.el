@@ -1,7 +1,7 @@
 ;; base16-oceanicnext-theme.el -- A base16 colorscheme
 
 ;;; Commentary:
-;; Base16: (https://github.com/chriskempson/base16)
+;; Base16: (https://github.com/tinted-theming/home)
 
 ;;; Authors:
 ;; Scheme: https://github.com/voronianski/oceanic-next-color-scheme
@@ -11,7 +11,7 @@
 
 (require 'base16-theme)
 
-(defvar base16-oceanicnext-colors
+(defvar base16-oceanicnext-theme-colors
   '(:base00 "#1B2B34"
     :base01 "#343D46"
     :base02 "#4F5B66"
@@ -34,7 +34,7 @@
 (deftheme base16-oceanicnext)
 
 ;; Add all the faces to the theme
-(base16-theme-define 'base16-oceanicnext base16-oceanicnext-colors)
+(base16-theme-define 'base16-oceanicnext base16-oceanicnext-theme-colors)
 
 ;; Mark the theme as provided
 (provide-theme 'base16-oceanicnext)
