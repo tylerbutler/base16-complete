@@ -4,7 +4,7 @@
 
 window {
 	background-color: #262626;
-	color: #BCBCBC;
+	color: #5F5F87;
 }
 
 #entry:nth-child(odd) {
@@ -12,19 +12,19 @@ window {
 }
 
 #entry:nth-child(even) {
-	background-color: #303030;
+	background-color: #AF5F5F;
 }
 
 #entry:selected {
-	background-color: #333333;
+	background-color: #5F875F;
 }
 
 #input {
-	background-color: #303030;
-	color: #787878;
-	border-color: #333333; 
+	background-color: #AF5F5F;
+	color: #5F87AF;
+	border-color: #5F875F; 
 }
 
 #input:focus {
-	border-color: #5F8787; 
+	border-color: #87AF87; 
 }

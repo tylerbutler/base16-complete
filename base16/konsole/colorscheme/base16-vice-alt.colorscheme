@@ -1,14 +1,14 @@
 [Background]
-Color=27,29,36
+Color=28,28,28
 
 [BackgroundIntense]
-Color=50,54,67
+Color=50,50,50
 
 [Color0]
-Color=27,29,36
+Color=28,28,28
 
 [Color0Intense]
-Color=50,54,67
+Color=50,50,50
 
 [Color1]
 Color=255,61,129
@@ -47,16 +47,16 @@ Color=0,202,255
 Color=0,202,255
 
 [Color7]
-Color=85,94,112
+Color=85,85,85
 
 [Color7Intense]
-Color=244,244,247
+Color=209,209,209
 
 [Foreground]
-Color=85,94,112
+Color=85,85,85
 
 [ForegroundIntense]
-Color=244,244,247
+Color=209,209,209
 
 [General]
 Description=Base16 Vice Alt

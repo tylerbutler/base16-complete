@@ -2,14 +2,14 @@
 ! Scheme author: Thomas Leon Highbaugh
 ! Template author: Tinted Theming (https://github.com/tinted-theming)
 
-#define base00 #1b1d24
-#define base01 #282b36
-#define base02 #2f303d
-#define base03 #323643
-#define base04 #3f4859
-#define base05 #555e70
-#define base06 #b2bfd9
-#define base07 #f4f4f7
+#define base00 #1c1c1c
+#define base01 #282828
+#define base02 #2c2c2c
+#define base03 #323232
+#define base04 #3c3c3c
+#define base05 #555555
+#define base06 #b6b6b6
+#define base07 #d1d1d1
 #define base08 #ff3d81
 #define base09 #F67544
 #define base0A #ffff73
@@ -17,7 +17,7 @@
 #define base0C #00caff
 #define base0D #2fb1d4
 #define base0E #8265ff
-#define base0F #ff00aa
+#define base0F #F83D80
 
 *foreground:   base05
 #ifdef background_opacity

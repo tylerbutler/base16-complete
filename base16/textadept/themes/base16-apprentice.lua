@@ -9,21 +9,21 @@ local view, colors, styles = view, lexer.colors, lexer.styles
 
 -- Base16 colors
 colors.base00 = 0x262626
-colors.base01 = 0x303030
-colors.base02 = 0x333333
-colors.base03 = 0x6C6C6C
-colors.base04 = 0x787878
-colors.base05 = 0xBCBCBC
-colors.base06 = 0xC9C9C9
-colors.base07 = 0xFFFFFF
-colors.base08 = 0x87875F
+colors.base01 = 0x5F5FAF
+colors.base02 = 0x5F875F
+colors.base03 = 0x5F8787
+colors.base04 = 0xAF875F
+colors.base05 = 0x875F5F
+colors.base06 = 0x87875F
+colors.base07 = 0x6C6C6C
+colors.base08 = 0x444444
 colors.base09 = 0x0087FF
-colors.base0A = 0x87875F
-colors.base0B = 0x87AF87
-colors.base0C = 0x5F875F
-colors.base0D = 0xAFFFFF
-colors.base0E = 0xD7AF87
-colors.base0F = 0xAF875F
+colors.base0A = 0x87AF87
+colors.base0B = 0xAFFFFF
+colors.base0C = 0xD7AF87
+colors.base0D = 0xAF8787
+colors.base0E = 0xAFAF5F
+colors.base0F = 0xBCBCBC
 
 -- Default font.
 if not font then

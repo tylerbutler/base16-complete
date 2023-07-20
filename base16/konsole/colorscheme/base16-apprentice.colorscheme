@@ -2,61 +2,61 @@
 Color=38,38,38
 
 [BackgroundIntense]
-Color=108,108,108
+Color=135,135,95
 
 [Color0]
 Color=38,38,38
 
 [Color0Intense]
-Color=108,108,108
+Color=135,135,95
 
 [Color1]
-Color=95,135,135
+Color=68,68,68
 
 [Color1Intense]
-Color=95,135,135
+Color=68,68,68
 
 [Color2]
-Color=135,175,135
+Color=255,255,175
 
 [Color2Intense]
-Color=135,175,135
+Color=255,255,175
 
 [Color3]
-Color=95,135,135
+Color=135,175,135
 
 [Color3Intense]
-Color=95,135,135
+Color=135,175,135
 
 [Color4]
-Color=255,255,175
+Color=135,135,175
 
 [Color4Intense]
-Color=255,255,175
+Color=135,135,175
 
 [Color5]
-Color=135,175,215
+Color=95,175,175
 
 [Color5Intense]
-Color=135,175,215
+Color=95,175,175
 
 [Color6]
-Color=95,135,95
+Color=135,175,215
 
 [Color6Intense]
-Color=95,135,95
+Color=135,175,215
 
 [Color7]
-Color=188,188,188
+Color=95,95,135
 
 [Color7Intense]
-Color=255,255,255
+Color=108,108,108
 
 [Foreground]
-Color=188,188,188
+Color=95,95,135
 
 [ForegroundIntense]
-Color=255,255,255
+Color=108,108,108
 
 [General]
 Description=Base16 Apprentice

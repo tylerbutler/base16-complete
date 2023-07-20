@@ -17,11 +17,11 @@ index 1c0b587..efdbcc4 100644
 + * Apprentice scheme by romainl
 + */
 +static const char col_base00[]      = "#262626";
-+static const char col_base01[]      = "#303030";
-+static const char col_base02[]      = "#333333";
-+static const char col_base04[]      = "#787878";
-+static const char col_base0C[]      = "#5F875F";
-+static const char col_base0D[]      = "#FFFFAF";
++static const char col_base01[]      = "#AF5F5F";
++static const char col_base02[]      = "#5F875F";
++static const char col_base04[]      = "#5F87AF";
++static const char col_base0C[]      = "#87AFD7";
++static const char col_base0D[]      = "#8787AF";
  static const char *colors[][3]      = {
 -	/*               fg         bg         border   */
 -	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },

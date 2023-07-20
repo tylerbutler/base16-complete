@@ -3,14 +3,14 @@
 ## Vice Alt scheme by Thomas Leon Highbaugh
 
 evaluate-commands %sh{
-    base00='rgb:1b1d24'
-    base01='rgb:282b36'
-    base02='rgb:2f303d'
-    base03='rgb:323643'
-    base04='rgb:3f4859'
-    base05='rgb:555e70'
-    base06='rgb:b2bfd9'
-    base07='rgb:f4f4f7'
+    base00='rgb:1c1c1c'
+    base01='rgb:282828'
+    base02='rgb:2c2c2c'
+    base03='rgb:323232'
+    base04='rgb:3c3c3c'
+    base05='rgb:555555'
+    base06='rgb:b6b6b6'
+    base07='rgb:d1d1d1'
     base08='rgb:ff3d81'
     base09='rgb:F67544'
     base0A='rgb:ffff73'
@@ -18,7 +18,7 @@ evaluate-commands %sh{
     base0C='rgb:00caff'
     base0D='rgb:2fb1d4'
     base0E='rgb:8265ff'
-    base0F='rgb:ff00aa'
+    base0F='rgb:F83D80'
 
     ## code
     echo "

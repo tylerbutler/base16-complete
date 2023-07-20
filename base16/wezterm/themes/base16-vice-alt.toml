@@ -2,32 +2,32 @@
 # Scheme by Thomas Leon Highbaugh
 
 [colors]
-foreground    = "#555e70"
-background    = "#1b1d24"
-cursor_bg     = "#555e70"
-cursor_border = "#555e70"
-cursor        = "#555e70"
-selection_bg  = "#555e70"
-selection_fg  = "#1b1d24"
+foreground    = "#555555"
+background    = "#1c1c1c"
+cursor_bg     = "#555555"
+cursor_border = "#555555"
+cursor        = "#555555"
+selection_bg  = "#555555"
+selection_fg  = "#1c1c1c"
 
 ansi = [
-  "#1b1d24",
+  "#1c1c1c",
   "#ff3d81",
   "#44ffdd",
   "#ffff73",
   "#2fb1d4",
   "#8265ff",
   "#00caff",
-  "#555e70"
+  "#555555"
 ]
 
 brights = [
-  "#323643",
+  "#323232",
   "#ff3d81",
   "#44ffdd",
   "#ffff73",
   "#2fb1d4",
   "#8265ff",
   "#00caff",
-  "#f4f4f7"
+  "#d1d1d1"
 ]

@@ -23,19 +23,19 @@ pre[class*="language-"] {
   -ms-hyphens: none;
   hyphens: none;
   background: #262626;
-  color: #BCBCBC;
+  color: #5F5F87;
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
 code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
   text-shadow: none;
-  background: #787878;
+  background: #5F87AF;
 }
 
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
   text-shadow: none;
-  background: #787878;
+  background: #5F87AF;
 }
 
 /* Code blocks */
@@ -55,11 +55,11 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #6C6C6C;
+  color: #87875F;
 }
 
 .token.punctuation {
-  color: #BCBCBC;
+  color: #5F5F87;
 }
 
 .token.namespace {
@@ -72,16 +72,16 @@ pre[class*="language-"] {
   color: #FF8700;
 }
 .token.property {
-  color: #5F8787;
+  color: #87AF87;
 }
 .token.tag {
-  color: #FFFFAF;
+  color: #8787AF;
 }
 .token.string {
-  color: #5F875F;
+  color: #87AFD7;
 }
 .token.selector {
-  color: #87AFD7;
+  color: #5FAFAF;
 }
 .token.attr-name {
   color: #FF8700;
@@ -90,7 +90,7 @@ pre[class*="language-"] {
 .token.url,
 .language-css .token.string,
 .style .token.string {
-  color: #5F875F;
+  color: #87AFD7;
 }
 
 .token.attr-value,
@@ -98,18 +98,18 @@ pre[class*="language-"] {
 .token.control,
 .token.directive,
 .token.unit {
-  color: #87AF87;
+  color: #FFFFAF;
 }
 
 .token.statement,
 .token.regex,
 .token.atrule {
-  color: #5F875F;
+  color: #87AFD7;
 }
 
 .token.placeholder,
 .token.variable {
-  color: #FFFFAF;
+  color: #8787AF;
 }
 
 .token.deleted {
@@ -117,7 +117,7 @@ pre[class*="language-"] {
 }
 
 .token.inserted {
-  border-bottom: 1px dotted #FFFFFF;
+  border-bottom: 1px dotted #6C6C6C;
   text-decoration: none;
 }
 
@@ -131,7 +131,7 @@ pre[class*="language-"] {
 }
 
 .token.important {
-  color: #5F8787;
+  color: #444444;
 }
 
 .token.entity {
@@ -139,7 +139,7 @@ pre[class*="language-"] {
 }
 
 pre > code.highlight {
-  outline: .4em solid #5F8787;
+  outline: .4em solid #444444;
   outline-offset: .4em;
 }
 
@@ -147,11 +147,11 @@ pre > code.highlight {
  * http://prismjs.com/plugins/line-numbers/
  */
 .line-numbers .line-numbers-rows {
-  border-right-color: #303030;
+  border-right-color: #AF5F5F;
 }
 
 .line-numbers-rows > span:before {
-  color: #333333;
+  color: #5F875F;
 }
 
 /* overrides color-values for the Line Highlight plugin
@@ -160,6 +160,6 @@ pre > code.highlight {
  * https://drafts.csswg.org/css-color/#hex-notation
  */
 .line-highlight {
-  background: #BCBCBC33;
-  background: linear-gradient(to right, #BCBCBC33 70%, #BCBCBC00);
+  background: #5F5F8733;
+  background: linear-gradient(to right, #5F5F8733 70%, #5F5F8700);
 }

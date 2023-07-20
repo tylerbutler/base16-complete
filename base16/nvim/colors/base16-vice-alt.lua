@@ -5,14 +5,14 @@
 -- by Chris Kempson (https://github.com/chriskempson)
 -- Vice Alt scheme by Thomas Leon Highbaugh
 
-local gui00 = "#1b1d24"
-local gui01 = "#282b36"
-local gui02 = "#2f303d"
-local gui03 = "#323643"
-local gui04 = "#3f4859"
-local gui05 = "#555e70"
-local gui06 = "#b2bfd9"
-local gui07 = "#f4f4f7"
+local gui00 = "#1c1c1c"
+local gui01 = "#282828"
+local gui02 = "#2c2c2c"
+local gui03 = "#323232"
+local gui04 = "#3c3c3c"
+local gui05 = "#555555"
+local gui06 = "#b6b6b6"
+local gui07 = "#d1d1d1"
 local gui08 = "#ff3d81"
 local gui09 = "#F67544"
 local gui0A = "#ffff73"
@@ -20,7 +20,7 @@ local gui0B = "#44ffdd"
 local gui0C = "#00caff"
 local gui0D = "#2fb1d4"
 local gui0E = "#8265ff"
-local gui0F = "#ff00aa"
+local gui0F = "#F83D80"
 
 local cterm00 = 0
 local cterm03 = 8

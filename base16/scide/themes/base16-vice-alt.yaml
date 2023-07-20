@@ -4,100 +4,100 @@ IDE:
       base16-vice-alt:
         built-in: !textFormat
           color: "#8265ff"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         char: !textFormat
           color: "#44ffdd"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         class: !textFormat
           color: "#ffff73"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         comment: !textFormat
-          color: "#323643"
-          background: "#1b1d24"
+          color: "#323232"
+          background: "#1c1c1c"
           italic: false
         currentLine: !textFormat
-          color: "#555e70"
-          background: "#323643"
+          color: "#555555"
+          background: "#323232"
           italic: false
         env-var: !textFormat
           color: "#ff3d81"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         evaluatedCode: !textFormat
-          color: "#555e70"
-          background: "#323643"
+          color: "#555555"
+          background: "#323232"
           italic: false
         keyword: !textFormat
           color: "#8265ff"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           bold: true
           italic: false
         lineNumbers: !textFormat
-          color: "#323643"
-          background: "#1b1d24"
+          color: "#323232"
+          background: "#1c1c1c"
           italic: false
         matchingBrackets: !textFormat
-          color: "#555e70"
-          background: "#2f303d"
+          color: "#555555"
+          background: "#2c2c2c"
           bold: true
           italic: false
         mismatchedBrackets: !textFormat
-          color: "#555e70"
+          color: "#555555"
           background: "#8265ff"
           italic: false
         number: !textFormat
           color: "#F67544"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         postwindowemphasis: !textFormat
-          color: "#555e70"
-          background: "#1b1d24"
+          color: "#555555"
+          background: "#1c1c1c"
           bold: true
           italic: false
         postwindowerror: !textFormat
           color: "#ff3d81"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         postwindowsuccess: !textFormat
           color: "#44ffdd"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         postwindowtext: !textFormat
-          color: "#555e70"
-          background: "#1b1d24"
+          color: "#555555"
+          background: "#1c1c1c"
           italic: false
         postwindowwarning: !textFormat
           color: "#F67544"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         primitive: !textFormat
           color: "#ffff73"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         searchResult: !textFormat
-          color: "#555e70"
-          background: "#282b36"
+          color: "#555555"
+          background: "#282828"
           italic: false
         selection: !textFormat
-          color: "#555e70"
-          background: "#2f303d"
+          color: "#555555"
+          background: "#2c2c2c"
           italic: false
         string: !textFormat
           color: "#44ffdd"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         symbol: !textFormat
           color: "#2fb1d4"
-          background: "#1b1d24"
+          background: "#1c1c1c"
           italic: false
         text: !textFormat
-          color: "#555e70"
-          background: "#1b1d24"
+          color: "#555555"
+          background: "#1c1c1c"
           italic: false
         whitespace: !textFormat
-          color: "#2f303d"
-          background: "#1b1d24"
+          color: "#2c2c2c"
+          background: "#1c1c1c"
           italic: false

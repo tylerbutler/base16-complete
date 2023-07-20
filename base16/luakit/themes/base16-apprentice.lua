@@ -9,21 +9,21 @@ function hex2rgb(hex)
 end
 
 local base00 = "#262626" -- ----
-local base01 = "#303030" -- ---
-local base02 = "#333333" -- --
-local base03 = "#6C6C6C" -- -
-local base04 = "#787878" -- +
-local base05 = "#BCBCBC" -- ++
-local base06 = "#C9C9C9" -- +++
-local base07 = "#FFFFFF" -- ++++
-local base08 = "#5F8787" -- red
+local base01 = "#AF5F5F" -- ---
+local base02 = "#5F875F" -- --
+local base03 = "#87875F" -- -
+local base04 = "#5F87AF" -- +
+local base05 = "#5F5F87" -- ++
+local base06 = "#5F8787" -- +++
+local base07 = "#6C6C6C" -- ++++
+local base08 = "#444444" -- red
 local base09 = "#FF8700" -- orange
-local base0A = "#5F8787" -- yellow
-local base0B = "#87AF87" -- green
-local base0C = "#5F875F" -- aqua/cyan
-local base0D = "#FFFFAF" -- blue
-local base0E = "#87AFD7" -- purple
-local base0F = "#5F87AF" -- brown
+local base0A = "#87AF87" -- yellow
+local base0B = "#FFFFAF" -- green
+local base0C = "#87AFD7" -- aqua/cyan
+local base0D = "#8787AF" -- blue
+local base0E = "#5FAFAF" -- purple
+local base0F = "#BCBCBC" -- brown
 
 local theme = {}
 

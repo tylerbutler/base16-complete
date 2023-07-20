@@ -3,41 +3,41 @@
 
 .colors *
 
--text		$555e70/$1b1d24
--status		$3f4859/$2f303d
--cursor		$1b1d24/$555e70
--selection	/$2f303d
--curlin		/$282b36
--linum		$323643/$282b36
--curlinum	$3f4859/$282b36
--menusel	$282b36/$3f4859
+-text		$555555/$1c1c1c
+-status		$3c3c3c/$2c2c2c
+-cursor		$1c1c1c/$555555
+-selection	/$2c2c2c
+-curlin		/$282828
+-linum		$323232/$282828
+-curlinum	$3c3c3c/$282828
+-menusel	$282828/$3c3c3c
 
--term 0 	$1b1d24
+-term 0 	$1c1c1c
 -term 1 	$2fb1d4
 -term 2 	$44ffdd
 -term 3 	$00caff
 -term 4 	$F67544
 -term 5 	$8265ff
 -term 6 	$ffff73
--term 7 	$3f4859
--term 8 	$323643
+-term 7 	$3c3c3c
+-term 8 	$323232
 -term 9 	$2fb1d4
 -term 10	$44ffdd
 -term 11	$00caff
 -term 12	$ff3d81
--term 13	$ff00aa
+-term 13	$F83D80
 -term 14	$ffff73
--term 15	$f4f4f7
+-term 15	$d1d1d1
 
 =Constant	$F67544
 =String		$44ffdd
 =Escape		$00caff
 
-=Comment	$323643
+=Comment	$323232
 =StorageClass	+Type
 =Keyword	$8265ff
 =Conditional	$8265ff
-=Operator	$555e70
+=Operator	$555555
 =Loop		$ffff73
 =Statement	$ff3d81
 =Type		$ffff73
@@ -50,12 +50,12 @@
 =Preproc	$ffff73
 =Include	$2fb1d4
 =Define		$8265ff
-=TODO		$ffff73/$282b36
+=TODO		$ffff73/$282828
 =Precond	$8265ff
 
-=diff.AddLine	$44ffdd/$282b36
-=diff.ChgLine	$323643/$282b36
-=diff.DelLine	$ff3d81/$282b36
+=diff.AddLine	$44ffdd/$282828
+=diff.ChgLine	$323232/$282828
+=diff.DelLine	$ff3d81/$282828
 =diff.File	$ff3d81
 =diff.FileNew	$44ffdd
 =diff.Hunk	$2fb1d4

@@ -2,14 +2,14 @@
 # Scheme author: Thomas Leon Highbaugh
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#1b1d24'
-set -l color01 '#282b36'
-set -l color02 '#2f303d'
-set -l color03 '#323643'
-set -l color04 '#3f4859'
-set -l color05 '#555e70'
-set -l color06 '#b2bfd9'
-set -l color07 '#f4f4f7'
+set -l color00 '#1c1c1c'
+set -l color01 '#282828'
+set -l color02 '#2c2c2c'
+set -l color03 '#323232'
+set -l color04 '#3c3c3c'
+set -l color05 '#555555'
+set -l color06 '#b6b6b6'
+set -l color07 '#d1d1d1'
 set -l color08 '#ff3d81'
 set -l color09 '#F67544'
 set -l color0A '#ffff73'
@@ -17,7 +17,7 @@ set -l color0B '#44ffdd'
 set -l color0C '#00caff'
 set -l color0D '#2fb1d4'
 set -l color0E '#8265ff'
-set -l color0F '#ff00aa'
+set -l color0F '#F83D80'
 
 set -l FZF_NON_COLOR_OPTS
 

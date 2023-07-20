@@ -6,20 +6,20 @@
 local M = {}
 
 M.base00 = "#262626" -- ----
-M.base01 = "#303030" -- ---
-M.base02 = "#333333" -- --
-M.base03 = "#6C6C6C" -- -
-M.base04 = "#787878" -- +
-M.base05 = "#BCBCBC" -- ++
-M.base06 = "#C9C9C9" -- +++
-M.base07 = "#FFFFFF" -- ++++
-M.base08 = "#5F8787" -- red
+M.base01 = "#AF5F5F" -- ---
+M.base02 = "#5F875F" -- --
+M.base03 = "#87875F" -- -
+M.base04 = "#5F87AF" -- +
+M.base05 = "#5F5F87" -- ++
+M.base06 = "#5F8787" -- +++
+M.base07 = "#6C6C6C" -- ++++
+M.base08 = "#444444" -- red
 M.base09 = "#FF8700" -- orange
-M.base0A = "#5F8787" -- yellow
-M.base0B = "#87AF87" -- green
-M.base0C = "#5F875F" -- aqua/cyan
-M.base0D = "#FFFFAF" -- blue
-M.base0E = "#87AFD7" -- purple
-M.base0F = "#5F87AF" -- brown
+M.base0A = "#87AF87" -- yellow
+M.base0B = "#FFFFAF" -- green
+M.base0C = "#87AFD7" -- aqua/cyan
+M.base0D = "#8787AF" -- blue
+M.base0E = "#5FAFAF" -- purple
+M.base0F = "#BCBCBC" -- brown
 
 return M

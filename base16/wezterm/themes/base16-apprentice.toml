@@ -2,32 +2,32 @@
 # Scheme by romainl
 
 [colors]
-foreground    = "#BCBCBC"
+foreground    = "#5F5F87"
 background    = "#262626"
-cursor_bg     = "#BCBCBC"
-cursor_border = "#BCBCBC"
-cursor        = "#BCBCBC"
-selection_bg  = "#BCBCBC"
+cursor_bg     = "#5F5F87"
+cursor_border = "#5F5F87"
+cursor        = "#5F5F87"
+selection_bg  = "#5F5F87"
 selection_fg  = "#262626"
 
 ansi = [
   "#262626",
-  "#5F8787",
-  "#87AF87",
-  "#5F8787",
+  "#444444",
   "#FFFFAF",
+  "#87AF87",
+  "#8787AF",
+  "#5FAFAF",
   "#87AFD7",
-  "#5F875F",
-  "#BCBCBC"
+  "#5F5F87"
 ]
 
 brights = [
-  "#6C6C6C",
-  "#5F8787",
-  "#87AF87",
-  "#5F8787",
+  "#87875F",
+  "#444444",
   "#FFFFAF",
+  "#87AF87",
+  "#8787AF",
+  "#5FAFAF",
   "#87AFD7",
-  "#5F875F",
-  "#FFFFFF"
+  "#6C6C6C"
 ]

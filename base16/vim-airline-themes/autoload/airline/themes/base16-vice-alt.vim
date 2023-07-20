@@ -7,14 +7,14 @@ let s:scheme_slug = substitute("vice-alt", "-", "_", "g")
 let g:airline#themes#base16_{s:scheme_slug}#palette = {}
 
 " GUI color definitions
-let s:gui00 = '#1b1d24'
-let s:gui01 = '#282b36'
-let s:gui02 = '#2f303d'
-let s:gui03 = '#323643'
-let s:gui04 = '#3f4859'
-let s:gui05 = '#555e70'
-let s:gui06 = '#b2bfd9'
-let s:gui07 = '#f4f4f7'
+let s:gui00 = '#1c1c1c'
+let s:gui01 = '#282828'
+let s:gui02 = '#2c2c2c'
+let s:gui03 = '#323232'
+let s:gui04 = '#3c3c3c'
+let s:gui05 = '#555555'
+let s:gui06 = '#b6b6b6'
+let s:gui07 = '#d1d1d1'
 let s:gui08 = '#ff3d81'
 let s:gui09 = '#F67544'
 let s:gui0A = '#ffff73'
@@ -22,7 +22,7 @@ let s:gui0B = '#44ffdd'
 let s:gui0C = '#00caff'
 let s:gui0D = '#2fb1d4'
 let s:gui0E = '#8265ff'
-let s:gui0F = '#ff00aa'
+let s:gui0F = '#F83D80'
 
 " Terminal color definitions
 let s:cterm00        = "00"

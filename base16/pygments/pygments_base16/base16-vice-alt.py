@@ -5,14 +5,14 @@ from pygments.token import (
 
 
 class Base16Style(Style):
-    base00 = '#1b1d24'
-    base01 = '#282b36'
-    base02 = '#2f303d'
-    base03 = '#323643'
-    base04 = '#3f4859'
-    base05 = '#555e70'
-    base06 = '#b2bfd9'
-    base07 = '#f4f4f7'
+    base00 = '#1c1c1c'
+    base01 = '#282828'
+    base02 = '#2c2c2c'
+    base03 = '#323232'
+    base04 = '#3c3c3c'
+    base05 = '#555555'
+    base06 = '#b6b6b6'
+    base07 = '#d1d1d1'
     base08 = '#ff3d81'
     base09 = '#F67544'
     base0a = '#ffff73'
@@ -20,7 +20,7 @@ class Base16Style(Style):
     base0c = '#00caff'
     base0d = '#2fb1d4'
     base0e = '#8265ff'
-    base0f = '#ff00aa'
+    base0f = '#F83D80'
 
     default_style = ''
 

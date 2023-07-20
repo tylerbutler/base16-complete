@@ -4,17 +4,17 @@
 
 Description = "Base16 "
 
-Default = { Colour = "#555e70" }
-Canvas = { Colour="#1b1d24" }
+Default = { Colour = "#555555" }
+Canvas = { Colour="#1c1c1c" }
 Number = { Colour="#F67544" }
-Escape = { Colour="#b2bfd9" , Italic=true}
+Escape = { Colour="#b6b6b6" , Italic=true}
 String = { Colour="#44ffdd" }
-BlockComment = { Colour="#323643" }
+BlockComment = { Colour="#323232" }
 StringPreProc = String
 LineComment   = BlockComment
-Operator      = { Colour="#555e70" }
-LineNum      = { Color="#323643" }
-PreProcessor      = { Colour="#ff00aa" }
+Operator      = { Colour="#555555" }
+LineNum      = { Color="#323232" }
+PreProcessor      = { Colour="#F83D80" }
 Interpolation  = Escape
 
 Keywords = {

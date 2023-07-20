@@ -3,26 +3,26 @@
  * Vice Alt scheme by Thomas Leon Highbaugh */
 
 window {
-	background-color: #1b1d24;
-	color: #555e70;
+	background-color: #1c1c1c;
+	color: #555555;
 }
 
 #entry:nth-child(odd) {
-	background-color: #1b1d24;
+	background-color: #1c1c1c;
 }
 
 #entry:nth-child(even) {
-	background-color: #282b36;
+	background-color: #282828;
 }
 
 #entry:selected {
-	background-color: #2f303d;
+	background-color: #2c2c2c;
 }
 
 #input {
-	background-color: #282b36;
-	color: #3f4859;
-	border-color: #2f303d; 
+	background-color: #282828;
+	color: #3c3c3c;
+	border-color: #2c2c2c; 
 }
 
 #input:focus {

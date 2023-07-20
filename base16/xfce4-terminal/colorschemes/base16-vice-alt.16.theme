@@ -3,8 +3,8 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Vice Alt.16
-ColorForeground=#555e70
-ColorBackground=#1b1d24
+ColorForeground=#555555
+ColorBackground=#1c1c1c
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#282b36;#ff3d81;#44ffdd;#ffff73;#2fb1d4;#ff00aa;#00caff;#b2bfd9;#1b1d24;#F67544;#2f303d;#323643;#3f4859;#8265ff;#555e70;#f4f4f7
+ColorPalette=#282828;#ff3d81;#44ffdd;#ffff73;#2fb1d4;#F83D80;#00caff;#b6b6b6;#1c1c1c;#F67544;#2c2c2c;#323232;#3c3c3c;#8265ff;#555555;#d1d1d1

@@ -2,21 +2,21 @@
 // Scheme: romainl
 
 base00 = '#262626';
-base01 = '#303030';
-base02 = '#333333';
-base03 = '#6C6C6C';
-base04 = '#787878';
-base05 = '#BCBCBC';
-base06 = '#C9C9C9';
-base07 = '#FFFFFF';
-base08 = '#5F8787';
+base01 = '#AF5F5F';
+base02 = '#5F875F';
+base03 = '#87875F';
+base04 = '#5F87AF';
+base05 = '#5F5F87';
+base06 = '#5F8787';
+base07 = '#6C6C6C';
+base08 = '#444444';
 base09 = '#FF8700';
-base0A = '#5F8787';
-base0B = '#87AF87';
-base0C = '#5F875F';
-base0D = '#FFFFAF';
-base0E = '#87AFD7';
-base0F = '#5F87AF';
+base0A = '#87AF87';
+base0B = '#FFFFAF';
+base0C = '#87AFD7';
+base0D = '#8787AF';
+base0E = '#5FAFAF';
+base0F = '#BCBCBC';
 
 t.prefs_.set('color-palette-overrides', 
                         [base00,
@@ -42,6 +42,6 @@ t.prefs_.set('color-palette-overrides',
                         base04,
                         base06]);
 
-t.prefs_.set('cursor-color', "rgba(188, 188, 188, 0.5)");
+t.prefs_.set('cursor-color', "rgba(95, 95, 135, 0.5)");
 t.prefs_.set('foreground-color', base05);
 t.prefs_.set('background-color', base00);

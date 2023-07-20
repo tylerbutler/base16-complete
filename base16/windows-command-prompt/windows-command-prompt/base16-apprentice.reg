@@ -5,18 +5,18 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Console]
 "ColorTable00"=dword:00262626 ; base00
-"ColorTable01"=dword:00AFFFFF ; base0D
-"ColorTable02"=dword:0087AF87 ; base0B
-"ColorTable03"=dword:005F875F ; base0C
-"ColorTable04"=dword:0087875F ; base08
-"ColorTable05"=dword:00D7AF87 ; base0E
+"ColorTable01"=dword:00AF8787 ; base0D
+"ColorTable02"=dword:00AFFFFF ; base0B
+"ColorTable03"=dword:00D7AF87 ; base0C
+"ColorTable04"=dword:00444444 ; base08
+"ColorTable05"=dword:00AFAF5F ; base0E
 "ColorTable06"=dword:000087FF ; base09
-"ColorTable07"=dword:00BCBCBC ; base05
-"ColorTable08"=dword:006C6C6C ; base03
-"ColorTable09"=dword:00303030 ; base01
-"ColorTable10"=dword:00333333 ; base02
-"ColorTable11"=dword:006C6C6C ; base03
-"ColorTable12"=dword:00787878 ; base04
-"ColorTable13"=dword:00BCBCBC ; base05
-"ColorTable14"=dword:00C9C9C9 ; base06
-"ColorTable15"=dword:00FFFFFF ; base07
+"ColorTable07"=dword:00875F5F ; base05
+"ColorTable08"=dword:005F8787 ; base03
+"ColorTable09"=dword:005F5FAF ; base01
+"ColorTable10"=dword:005F875F ; base02
+"ColorTable11"=dword:005F8787 ; base03
+"ColorTable12"=dword:00AF875F ; base04
+"ColorTable13"=dword:00875F5F ; base05
+"ColorTable14"=dword:0087875F ; base06
+"ColorTable15"=dword:006C6C6C ; base07
