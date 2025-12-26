@@ -1,10 +1,17 @@
 # Development Guide
 
-## Setup
+## Prerequisites
+
+This project uses [uv](https://docs.astral.sh/uv/) for Python package management.
+
+Install uv:
 
 ```bash
-./install.sh
-# Or: pip3 install pybase16-builder
+# macOS/Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Or with Homebrew
+brew install uv
 ```
 
 ## Building
@@ -14,8 +21,10 @@
 ```
 
 This runs:
-1. `pybase16 update -cv` - Downloads/updates scheme and template sources
-2. `pybase16 build -v -o base16` - Generates all color scheme files
+1. `uv run pybase16 update -cv` - Downloads/updates scheme and template sources
+2. `uv run pybase16 build -v -o base16` - Generates all color scheme files
+
+uv automatically creates a virtual environment and installs the `pybase16-builder` dependency on first run.
 
 ## Build Artifacts
 
@@ -25,6 +34,7 @@ The following directories are created during build and are gitignored:
 - `schemes/` - Downloaded scheme definitions
 - `templates/` - Downloaded template definitions
 - `output/` - Intermediate build output
+- `.venv/` - Python virtual environment (managed by uv)
 
 ## Source Configuration
 
@@ -61,8 +71,8 @@ Files in `base16/` are auto-generated and will be overwritten on the next build.
 
 ## Troubleshooting
 
-**"pybase16: command not found"** - Run `./install.sh`
+**"uv: command not found"** - Install uv following the instructions above
 
 **Network errors** - The build requires internet access to fetch sources
 
-**Missing schemes or templates** - Run `pybase16 update -cv` to refresh sources
+**Missing schemes or templates** - Run `uv run pybase16 update -cv` to refresh sources

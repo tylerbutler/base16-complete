@@ -66,7 +66,7 @@ base16-complete/
 │   ├── vscode/themes/         # VS Code themes
 │   └── ...                    # 84 application directories
 ├── build.sh                   # Build script
-├── install.sh                 # Dependency installation
+├── pyproject.toml             # Python project config (uv)
 ├── sources.yaml               # Source configuration
 └── CLAUDE.md                  # AI assistant documentation
 ```

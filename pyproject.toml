@@ -1,0 +1,13 @@
+[project]
+name = "base16-complete"
+version = "1.0.0"
+description = "Comprehensive Base16 color scheme distribution for 84+ applications"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+dependencies = [
+    "pybase16-builder",
+]
+
+[tool.uv]
+dev-dependencies = []
