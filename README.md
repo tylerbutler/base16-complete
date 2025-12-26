@@ -96,7 +96,7 @@ Each scheme defines 16 colors following the [Base16 specification](https://githu
 
 ## Contributing
 
-See [dev.md](dev.md) for information on building the repository and contributing.
+See [DEV.md](DEV.md) for information on building the repository and contributing.
 
 ## Related Projects
 
