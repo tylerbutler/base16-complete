@@ -28,7 +28,11 @@ base16-complete/
 │   ├── vscode/themes/         # VS Code (JSON)
 │   ├── windows-terminal/      # Windows Terminal (JSON)
 │   └── ... (84 template directories total)
+├── .devcontainer/             # VS Code / Codespaces dev container config
+│   └── devcontainer.json
 ├── build.sh                   # Main build script
+├── docker-build.sh            # Build using Docker (no local deps needed)
+├── Dockerfile                 # Docker dev environment definition
 ├── pyproject.toml             # Python project config (uv)
 ├── sources.yaml               # External source configuration
 ├── LICENSE                    # MIT License
@@ -53,6 +57,28 @@ This runs:
 2. `uv run pybase16 build -v -o base16` - Generates all color scheme files
 
 uv automatically creates a virtual environment and installs dependencies on first run.
+
+### Docker Development
+
+The project includes Docker support for development without installing dependencies locally.
+
+#### Using Docker directly
+
+```bash
+# Build using Docker (recommended for one-off builds)
+./docker-build.sh
+```
+
+This builds the Docker image and runs the build process, outputting files to `base16/`.
+
+#### VS Code Dev Containers / GitHub Codespaces
+
+The project includes a `.devcontainer/` configuration for seamless development:
+
+1. **VS Code**: Install the "Dev Containers" extension, then use "Reopen in Container"
+2. **GitHub Codespaces**: Click "Code" > "Codespaces" > "Create codespace"
+
+Once inside the container, run `./build.sh` to generate color schemes.
 
 ### External Sources (sources.yaml)
 
