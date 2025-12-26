@@ -2,7 +2,7 @@
 -- Author: kjakapat (https://github.com/kjakapat)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Eva Dim"
 
 Default = { Colour = "#9fa2a6" }
 Canvas = { Colour="#2a3b4d" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#55799c" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#9fa2a6" }
-LineNum      = { Color="#55799c" }
+LineNum      = { Colour="#55799c" }
 PreProcessor      = { Colour="#bb64a9" }
 Interpolation  = Escape
 

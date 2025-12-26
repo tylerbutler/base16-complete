@@ -2,7 +2,7 @@
 -- Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 DanQing Light"
 
 Default = { Colour = "#5a605d" }
 Canvas = { Colour="#fcfefd" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#cad8d2" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#5a605d" }
-LineNum      = { Color="#cad8d2" }
+LineNum      = { Colour="#cad8d2" }
 PreProcessor      = { Colour="#CA6924" }
 Interpolation  = Escape
 

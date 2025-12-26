@@ -2,7 +2,7 @@
 -- Author: Mishka Nguyen (https://github.com/akhsiM)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Kimber"
 
 Default = { Colour = "#DEDEE7" }
 Canvas = { Colour="#222222" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#644646" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#DEDEE7" }
-LineNum      = { Color="#644646" }
+LineNum      = { Colour="#644646" }
 PreProcessor      = { Colour="#704F4F" }
 Interpolation  = Escape
 

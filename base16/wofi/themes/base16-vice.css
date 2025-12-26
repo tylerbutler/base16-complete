@@ -3,26 +3,26 @@
  * Vice Dark scheme by Thomas Leon Highbaugh */
 
 window {
-	background-color: #17191E;
-	color: #8b9cbe;
+	background-color: #181818;
+	color: #818181;
 }
 
 #entry:nth-child(odd) {
-	background-color: #17191E;
+	background-color: #181818;
 }
 
 #entry:nth-child(even) {
-	background-color: #22262d;
+	background-color: #222222;
 }
 
 #entry:selected {
-	background-color: #3c3f4c;
+	background-color: #323232;
 }
 
 #input {
-	background-color: #22262d;
-	color: #555e70;
-	border-color: #3c3f4c; 
+	background-color: #222222;
+	color: #666666;
+	border-color: #323232; 
 }
 
 #input:focus {

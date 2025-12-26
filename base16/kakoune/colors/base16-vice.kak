@@ -3,14 +3,14 @@
 ## Vice Dark scheme by Thomas Leon Highbaugh
 
 evaluate-commands %sh{
-    base00='rgb:17191E'
-    base01='rgb:22262d'
-    base02='rgb:3c3f4c'
-    base03='rgb:383a47'
-    base04='rgb:555e70'
-    base05='rgb:8b9cbe'
-    base06='rgb:B2BFD9'
-    base07='rgb:f4f4f7'
+    base00='rgb:181818'
+    base01='rgb:222222'
+    base02='rgb:323232'
+    base03='rgb:3f3f3f'
+    base04='rgb:666666'
+    base05='rgb:818181'
+    base06='rgb:c6c6c6'
+    base07='rgb:e9e9e9'
     base08='rgb:ff29a8'
     base09='rgb:85ffe0'
     base0A='rgb:f0ffaa'

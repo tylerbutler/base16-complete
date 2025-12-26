@@ -1,0 +1,23 @@
+{
+    "name": "Base16 srcery 256",
+    "foreground": "#BAA67F",
+    "background": "#1C1B19",
+    "cursorColor": "#BAA67F",
+    "selectionBackground": "#FED06E",
+    "black": "#1C1B19",
+    "red": "#EF2F27",
+    "green": "#519F50",
+    "yellow": "#FBB829",
+    "blue": "#2C78BF",
+    "purple": "#E02C6D",
+    "cyan": "#0AAEB3",
+    "white": "#BAA67F",
+    "brightBlack": "#918175",
+    "brightRed": "#EF2F27",
+    "brightGreen": "#519F50",
+    "brightYellow": "#FBB829",
+    "brightBlue": "#2C78BF",
+    "brightPurple": "#E02C6D",
+    "brightCyan": "#0AAEB3",
+    "brightWhite": "#FCE8C3"
+}

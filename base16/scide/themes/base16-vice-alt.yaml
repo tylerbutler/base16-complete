@@ -3,101 +3,101 @@ IDE:
     themes:
       base16-vice-alt:
         built-in: !textFormat
-          color: "#8265ff"
-          background: "#1c1c1c"
+          color: "#d7afff"
+          background: "#303030"
           italic: false
         char: !textFormat
-          color: "#44ffdd"
-          background: "#1c1c1c"
+          color: "#87ffff"
+          background: "#303030"
           italic: false
         class: !textFormat
-          color: "#ffff73"
-          background: "#1c1c1c"
+          color: "#ffffaf"
+          background: "#303030"
           italic: false
         comment: !textFormat
-          color: "#323232"
-          background: "#1c1c1c"
+          color: "#875faf"
+          background: "#303030"
           italic: false
         currentLine: !textFormat
-          color: "#555555"
-          background: "#323232"
+          color: "#d7afff"
+          background: "#875faf"
           italic: false
         env-var: !textFormat
-          color: "#ff3d81"
-          background: "#1c1c1c"
+          color: "#ff005f"
+          background: "#303030"
           italic: false
         evaluatedCode: !textFormat
-          color: "#555555"
-          background: "#323232"
+          color: "#d7afff"
+          background: "#875faf"
           italic: false
         keyword: !textFormat
-          color: "#8265ff"
-          background: "#1c1c1c"
+          color: "#d7afff"
+          background: "#303030"
           bold: true
           italic: false
         lineNumbers: !textFormat
-          color: "#323232"
-          background: "#1c1c1c"
+          color: "#875faf"
+          background: "#303030"
           italic: false
         matchingBrackets: !textFormat
-          color: "#555555"
-          background: "#2c2c2c"
+          color: "#d7afff"
+          background: "#878787"
           bold: true
           italic: false
         mismatchedBrackets: !textFormat
-          color: "#555555"
-          background: "#8265ff"
+          color: "#d7afff"
+          background: "#d7afff"
           italic: false
         number: !textFormat
-          color: "#F67544"
-          background: "#1c1c1c"
+          color: "#ff00ff"
+          background: "#303030"
           italic: false
         postwindowemphasis: !textFormat
-          color: "#555555"
-          background: "#1c1c1c"
+          color: "#d7afff"
+          background: "#303030"
           bold: true
           italic: false
         postwindowerror: !textFormat
-          color: "#ff3d81"
-          background: "#1c1c1c"
+          color: "#ff005f"
+          background: "#303030"
           italic: false
         postwindowsuccess: !textFormat
-          color: "#44ffdd"
-          background: "#1c1c1c"
+          color: "#87ffff"
+          background: "#303030"
           italic: false
         postwindowtext: !textFormat
-          color: "#555555"
-          background: "#1c1c1c"
+          color: "#d7afff"
+          background: "#303030"
           italic: false
         postwindowwarning: !textFormat
-          color: "#F67544"
-          background: "#1c1c1c"
+          color: "#ff00ff"
+          background: "#303030"
           italic: false
         primitive: !textFormat
-          color: "#ffff73"
-          background: "#1c1c1c"
+          color: "#ffffaf"
+          background: "#303030"
           italic: false
         searchResult: !textFormat
-          color: "#555555"
-          background: "#282828"
+          color: "#d7afff"
+          background: "#444444"
           italic: false
         selection: !textFormat
-          color: "#555555"
-          background: "#2c2c2c"
+          color: "#d7afff"
+          background: "#878787"
           italic: false
         string: !textFormat
-          color: "#44ffdd"
-          background: "#1c1c1c"
+          color: "#87ffff"
+          background: "#303030"
           italic: false
         symbol: !textFormat
-          color: "#2fb1d4"
-          background: "#1c1c1c"
+          color: "#afffff"
+          background: "#303030"
           italic: false
         text: !textFormat
-          color: "#555555"
-          background: "#1c1c1c"
+          color: "#d7afff"
+          background: "#303030"
           italic: false
         whitespace: !textFormat
-          color: "#2c2c2c"
-          background: "#1c1c1c"
+          color: "#878787"
+          background: "#303030"
           italic: false

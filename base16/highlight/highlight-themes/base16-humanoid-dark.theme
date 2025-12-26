@@ -2,7 +2,7 @@
 -- Author: Thomas (tasmo) Friese
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Humanoid dark"
 
 Default = { Colour = "#f8f8f2" }
 Canvas = { Colour="#232629" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#60615d" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#f8f8f2" }
-LineNum      = { Color="#60615d" }
+LineNum      = { Colour="#60615d" }
 PreProcessor      = { Colour="#b27701" }
 Interpolation  = Escape
 

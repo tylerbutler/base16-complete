@@ -1,10 +1,10 @@
 # Scheme name: Darktooth
 # Scheme author: Jason Milkins (https://github.com/jasonm23)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Darktooth
+Name=-darktooth
 ColorForeground=#A89984
 ColorBackground=#1D2021
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1D2021;#FB543F;#95C085;#FAC03B;#0D6678;#8F4673;#8BA59B;#A89984;#665C54;#FB543F;#95C085;#FAC03B;#0D6678;#8F4673;#8BA59B;#FDF4C1
+ColorPalette=#1D2021;#FB543F;#95C085;#FAC03B;#0D6678;#8F4673;#8BA59B;#A89984;#504945;#;#;#;#;#;#;#FDF4C1

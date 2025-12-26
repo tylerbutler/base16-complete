@@ -2,7 +2,7 @@
 -- Author: Gabriel Avanzi (https://github.com/avanzzzi)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 darkmoss"
 
 Default = { Colour = "#c7c7a5" }
 Canvas = { Colour="#171e1f" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#555e5f" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#c7c7a5" }
-LineNum      = { Color="#555e5f" }
+LineNum      = { Colour="#555e5f" }
 PreProcessor      = { Colour="#d27b53" }
 Interpolation  = Escape
 

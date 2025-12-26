@@ -4,19 +4,19 @@ Windows Registry Editor Version 5.00
 ; Scheme: Thomas Leon Highbaugh
 
 [HKEY_CURRENT_USER\Console]
-"ColorTable00"=dword:001E1917 ; base00
+"ColorTable00"=dword:00181818 ; base00
 "ColorTable01"=dword:00ffea00 ; base0D
 "ColorTable02"=dword:00ffad0b ; base0B
 "ColorTable03"=dword:00ff6582 ; base0C
 "ColorTable04"=dword:00a829ff ; base08
 "ColorTable05"=dword:00d9f600 ; base0E
 "ColorTable06"=dword:00e0ff85 ; base09
-"ColorTable07"=dword:00be9c8b ; base05
-"ColorTable08"=dword:00473a38 ; base03
-"ColorTable09"=dword:002d2622 ; base01
-"ColorTable10"=dword:004c3f3c ; base02
-"ColorTable11"=dword:00473a38 ; base03
-"ColorTable12"=dword:00705e55 ; base04
-"ColorTable13"=dword:00be9c8b ; base05
-"ColorTable14"=dword:00D9BFB2 ; base06
-"ColorTable15"=dword:00f7f4f4 ; base07
+"ColorTable07"=dword:00818181 ; base05
+"ColorTable08"=dword:003f3f3f ; base03
+"ColorTable09"=dword:00222222 ; base01
+"ColorTable10"=dword:00323232 ; base02
+"ColorTable11"=dword:003f3f3f ; base03
+"ColorTable12"=dword:00666666 ; base04
+"ColorTable13"=dword:00818181 ; base05
+"ColorTable14"=dword:00c6c6c6 ; base06
+"ColorTable15"=dword:00e9e9e9 ; base07

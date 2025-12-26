@@ -1,10 +1,10 @@
 # Scheme name: Summerfruit Dark
 # Scheme author: Christopher Corley (http://christop.club/)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Summerfruit Dark
+Name=-summerfruit-dark
 ColorForeground=#D0D0D0
 ColorBackground=#151515
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#151515;#FF0086;#00C918;#ABA800;#3777E6;#AD00A1;#1FAAAA;#D0D0D0;#505050;#FF0086;#00C918;#ABA800;#3777E6;#AD00A1;#1FAAAA;#FFFFFF
+ColorPalette=#151515;#FF0086;#00C918;#ABA800;#3777E6;#AD00A1;#1FAAAA;#D0D0D0;#303030;#;#;#;#;#;#;#FFFFFF

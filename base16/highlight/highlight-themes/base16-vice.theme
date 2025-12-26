@@ -2,18 +2,18 @@
 -- Author: Thomas Leon Highbaugh
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Vice Dark"
 
-Default = { Colour = "#8b9cbe" }
-Canvas = { Colour="#17191E" }
+Default = { Colour = "#818181" }
+Canvas = { Colour="#181818" }
 Number = { Colour="#85ffe0" }
-Escape = { Colour="#B2BFD9" , Italic=true}
+Escape = { Colour="#c6c6c6" , Italic=true}
 String = { Colour="#0badff" }
-BlockComment = { Colour="#383a47" }
+BlockComment = { Colour="#3f3f3f" }
 StringPreProc = String
 LineComment   = BlockComment
-Operator      = { Colour="#8b9cbe" }
-LineNum      = { Color="#383a47" }
+Operator      = { Colour="#818181" }
+LineNum      = { Colour="#3f3f3f" }
 PreProcessor      = { Colour="#ff3d81" }
 Interpolation  = Escape
 

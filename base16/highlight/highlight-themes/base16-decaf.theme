@@ -2,7 +2,7 @@
 -- Author: Alex Mirrington (https://github.com/alexmirrington)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Decaf"
 
 Default = { Colour = "#cccccc" }
 Canvas = { Colour="#2d2d2d" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#777777" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#cccccc" }
-LineNum      = { Color="#777777" }
+LineNum      = { Colour="#777777" }
 PreProcessor      = { Colour="#ff93b3" }
 Interpolation  = Escape
 

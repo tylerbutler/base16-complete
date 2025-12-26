@@ -5,21 +5,21 @@
 
 local M = {}
 
-M.base00 = "#1c1c1c" -- ----
-M.base01 = "#282828" -- ---
-M.base02 = "#2c2c2c" -- --
-M.base03 = "#323232" -- -
-M.base04 = "#3c3c3c" -- +
-M.base05 = "#555555" -- ++
-M.base06 = "#b6b6b6" -- +++
-M.base07 = "#d1d1d1" -- ++++
-M.base08 = "#ff3d81" -- red
-M.base09 = "#F67544" -- orange
-M.base0A = "#ffff73" -- yellow
-M.base0B = "#44ffdd" -- green
-M.base0C = "#00caff" -- aqua/cyan
-M.base0D = "#2fb1d4" -- blue
-M.base0E = "#8265ff" -- purple
-M.base0F = "#F83D80" -- brown
+M.base00 = "#303030" -- ----
+M.base01 = "#444444" -- ---
+M.base02 = "#878787" -- --
+M.base03 = "#875faf" -- -
+M.base04 = "#afafd7" -- +
+M.base05 = "#d7afff" -- ++
+M.base06 = "#ffffff" -- +++
+M.base07 = "#afffd7" -- ++++
+M.base08 = "#ff005f" -- red
+M.base09 = "#ff00ff" -- orange
+M.base0A = "#ffffaf" -- yellow
+M.base0B = "#87ffff" -- green
+M.base0C = "#00ffaf" -- aqua/cyan
+M.base0D = "#afffff" -- blue
+M.base0E = "#d7afff" -- purple
+M.base0F = "#ff87d7" -- brown
 
 return M

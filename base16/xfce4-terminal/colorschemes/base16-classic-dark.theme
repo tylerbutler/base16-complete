@@ -1,10 +1,10 @@
 # Scheme name: Classic Dark
 # Scheme author: Jason Heeris (http://heeris.id.au)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Classic Dark
+Name=-classic-dark
 ColorForeground=#D0D0D0
 ColorBackground=#151515
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#151515;#AC4142;#90A959;#F4BF75;#6A9FB5;#AA759F;#75B5AA;#D0D0D0;#505050;#AC4142;#90A959;#F4BF75;#6A9FB5;#AA759F;#75B5AA;#F5F5F5
+ColorPalette=#151515;#AC4142;#90A959;#F4BF75;#6A9FB5;#AA759F;#75B5AA;#D0D0D0;#303030;#;#;#;#;#;#;#F5F5F5

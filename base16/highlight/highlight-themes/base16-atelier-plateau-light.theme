@@ -2,7 +2,7 @@
 -- Author: Bram de Haan (http://atelierbramdehaan.nl)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Atelier Plateau Light"
 
 Default = { Colour = "#585050" }
 Canvas = { Colour="#f4ecec" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#7e7777" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#585050" }
-LineNum      = { Color="#7e7777" }
+LineNum      = { Colour="#7e7777" }
 PreProcessor      = { Colour="#bd5187" }
 Interpolation  = Escape
 

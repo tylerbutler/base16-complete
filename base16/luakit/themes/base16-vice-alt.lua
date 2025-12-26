@@ -8,22 +8,22 @@ function hex2rgb(hex)
     return string.format("%s, %s, %s",tonumber("0x"..hex:sub(1,2)), tonumber("0x"..hex:sub(3,4)), tonumber("0x"..hex:sub(5,6)))
 end
 
-local base00 = "#1c1c1c" -- ----
-local base01 = "#282828" -- ---
-local base02 = "#2c2c2c" -- --
-local base03 = "#323232" -- -
-local base04 = "#3c3c3c" -- +
-local base05 = "#555555" -- ++
-local base06 = "#b6b6b6" -- +++
-local base07 = "#d1d1d1" -- ++++
-local base08 = "#ff3d81" -- red
-local base09 = "#F67544" -- orange
-local base0A = "#ffff73" -- yellow
-local base0B = "#44ffdd" -- green
-local base0C = "#00caff" -- aqua/cyan
-local base0D = "#2fb1d4" -- blue
-local base0E = "#8265ff" -- purple
-local base0F = "#F83D80" -- brown
+local base00 = "#303030" -- ----
+local base01 = "#444444" -- ---
+local base02 = "#878787" -- --
+local base03 = "#875faf" -- -
+local base04 = "#afafd7" -- +
+local base05 = "#d7afff" -- ++
+local base06 = "#ffffff" -- +++
+local base07 = "#afffd7" -- ++++
+local base08 = "#ff005f" -- red
+local base09 = "#ff00ff" -- orange
+local base0A = "#ffffaf" -- yellow
+local base0B = "#87ffff" -- green
+local base0C = "#00ffaf" -- aqua/cyan
+local base0D = "#afffff" -- blue
+local base0E = "#d7afff" -- purple
+local base0F = "#ff87d7" -- brown
 
 local theme = {}
 

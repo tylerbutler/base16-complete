@@ -2,7 +2,7 @@
 -- Author: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Shades of Purple"
 
 Default = { Colour = "#c7c7c7" }
 Canvas = { Colour="#1e1e3f" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#808080" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#c7c7c7" }
-LineNum      = { Color="#808080" }
+LineNum      = { Colour="#808080" }
 PreProcessor      = { Colour="#79e8fb" }
 Interpolation  = Escape
 

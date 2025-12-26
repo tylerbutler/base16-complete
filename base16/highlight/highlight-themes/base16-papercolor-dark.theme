@@ -2,7 +2,7 @@
 -- Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 PaperColor Dark"
 
 Default = { Colour = "#808080" }
 Canvas = { Colour="#1c1c1c" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#d7af5f" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#808080" }
-LineNum      = { Color="#d7af5f" }
+LineNum      = { Colour="#d7af5f" }
 PreProcessor      = { Colour="#5f8787" }
 Interpolation  = Escape
 

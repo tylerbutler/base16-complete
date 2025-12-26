@@ -6,15 +6,15 @@
 	"dark_red":     "#e33400",
 	"dark_magenta": "#f2ce00",
 	"dark_yellow":  "#b3a1e6",
-	"gray":         "#f0f1ce",
+	"gray":         "#686f9a",
 	"dark_gray":    "#5ccc96",
 	"blue":         "#00a3cc",
-	"green":        "#b3a1e6",
-	"cyan":         "#686f9a",
+	"green":        "#5ccc96",
+	"cyan":         "#7a5ccc",
 	"red":          "#e33400",
-	"magenta":      "#7a5ccc",
-	"yellow":       "#686f9a",
-	"white":        "#f2ce00",
-	"screen_colors": "white,black",
-	"popup_colors":  "dark_magenta,gray"
+	"magenta":      "#f2ce00",
+	"yellow":       "#b3a1e6",
+	"white":        "#f0f1ce",
+	"screen_colors": "gray,black",
+	"popup_colors":  "dark_magenta,white"
 }

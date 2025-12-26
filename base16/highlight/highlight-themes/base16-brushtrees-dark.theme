@@ -2,7 +2,7 @@
 -- Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Brush Trees Dark"
 
 Default = { Colour = "#B0C5C8" }
 Canvas = { Colour="#485867" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#8299A1" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#B0C5C8" }
-LineNum      = { Color="#8299A1" }
+LineNum      = { Colour="#8299A1" }
 PreProcessor      = { Colour="#b39f9f" }
 Interpolation  = Escape
 

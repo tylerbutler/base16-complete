@@ -13,17 +13,17 @@
 -menusel	$00384d/$869696
 
 -term 0 	$002635
--term 1 	$5dd7b9
+-term 1 	$14747e
 -term 2 	$7fc06e
--term 3 	$14747e
+-term 3 	$5dd7b9
 -term 4 	$f08e48
 -term 5 	$9a70a4
 -term 6 	$ffcc1b
 -term 7 	$869696
 -term 8 	$6C8B91
--term 9 	$5dd7b9
+-term 9 	$14747e
 -term 10	$7fc06e
--term 11	$14747e
+-term 11	$5dd7b9
 -term 12	$ff5a67
 -term 13	$c43060
 -term 14	$ffcc1b
@@ -31,7 +31,7 @@
 
 =Constant	$f08e48
 =String		$7fc06e
-=Escape		$14747e
+=Escape		$5dd7b9
 
 =Comment	$6C8B91
 =StorageClass	+Type
@@ -48,7 +48,7 @@
 =Structure	$9a70a4
 
 =Preproc	$ffcc1b
-=Include	$5dd7b9
+=Include	$14747e
 =Define		$9a70a4
 =TODO		$ffcc1b/$00384d
 =Precond	$9a70a4
@@ -58,4 +58,4 @@
 =diff.DelLine	$ff5a67/$00384d
 =diff.File	$ff5a67
 =diff.FileNew	$7fc06e
-=diff.Hunk	$5dd7b9
+=diff.Hunk	$14747e

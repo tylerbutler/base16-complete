@@ -6,14 +6,14 @@
 [theme]
 name = "solarized-dark"
 [theme.overrides]
-idle_bg = "#17191E"
-idle_fg = "#8b9cbe"
+idle_bg = "#181818"
+idle_fg = "#818181"
 info_bg = "#8265ff"
-info_fg = "#17191E"
+info_fg = "#181818"
 good_bg = "#0badff"
-good_fg = "#17191E"
+good_fg = "#181818"
 warning_bg = "#f0ffaa"
-warning_fg = "#17191E"
+warning_fg = "#181818"
 critical_bg = "#ff29a8"
-critical_fg = "#17191E"
+critical_fg = "#181818"
 # The rest of the theme settings are left at default.

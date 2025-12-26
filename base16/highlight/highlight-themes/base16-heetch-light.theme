@@ -2,7 +2,7 @@
 -- Author: Geoffrey Teale (tealeg@gmail.com)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Heetch Light"
 
 Default = { Colour = "#5a496e" }
 Canvas = { Colour="#feffff" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#9c92a8" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#5a496e" }
-LineNum      = { Color="#9c92a8" }
+LineNum      = { Colour="#9c92a8" }
 PreProcessor      = { Colour="#dedae2" }
 Interpolation  = Escape
 

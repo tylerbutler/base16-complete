@@ -2,7 +2,7 @@
 -- Author: Alex Meyer (https://github.com/reyemxela)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Helios"
 
 Default = { Colour = "#d5d5d5" }
 Canvas = { Colour="#1d2021" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#6f7579" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#d5d5d5" }
-LineNum      = { Color="#6f7579" }
+LineNum      = { Colour="#6f7579" }
 PreProcessor      = { Colour="#c85e0d" }
 Interpolation  = Escape
 

@@ -2,7 +2,7 @@
 -- Author: Jannik Siebert (https://github.com/janniks)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Embers"
 
 Default = { Colour = "#A39A90" }
 Canvas = { Colour="#16130F" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#5A5047" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#A39A90" }
-LineNum      = { Color="#5A5047" }
+LineNum      = { Colour="#5A5047" }
 PreProcessor      = { Colour="#825757" }
 Interpolation  = Escape
 

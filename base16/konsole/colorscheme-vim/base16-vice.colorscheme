@@ -1,14 +1,14 @@
 [Background]
-Color=23,25,30
+Color=24,24,24
 
 [BackgroundIntense]
-Color=23,25,30
+Color=24,24,24
 
 [Color0]
-Color=23,25,30
+Color=24,24,24
 
 [Color0Intense]
-Color=56,58,71
+Color=63,63,63
 
 [Color1]
 Color=255,41,168
@@ -20,25 +20,25 @@ Color=133,255,224
 Color=11,173,255
 
 [Color2Intense]
-Color=34,38,45
+Color=34,34,34
 
 [Color3]
 Color=240,255,170
 
 [Color3Intense]
-Color=60,63,76
+Color=50,50,50
 
 [Color4]
 Color=0,234,255
 
 [Color4Intense]
-Color=85,94,112
+Color=102,102,102
 
 [Color5]
 Color=0,246,217
 
 [Color5Intense]
-Color=178,191,217
+Color=198,198,198
 
 [Color6]
 Color=130,101,255
@@ -47,16 +47,16 @@ Color=130,101,255
 Color=255,61,129
 
 [Color7]
-Color=139,156,190
+Color=129,129,129
 
 [Color7Intense]
-Color=244,244,247
+Color=233,233,233
 
 [Foreground]
-Color=139,156,190
+Color=129,129,129
 
 [ForegroundIntense]
-Color=139,156,190
+Color=129,129,129
 
 [General]
 Description=Base16 Vice Dark

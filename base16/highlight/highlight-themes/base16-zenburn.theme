@@ -2,7 +2,7 @@
 -- Author: elnawe
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Zenburn"
 
 Default = { Colour = "#dcdccc" }
 Canvas = { Colour="#383838" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#6f6f6f" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#dcdccc" }
-LineNum      = { Color="#6f6f6f" }
+LineNum      = { Colour="#6f6f6f" }
 PreProcessor      = { Colour="#000000" }
 Interpolation  = Escape
 

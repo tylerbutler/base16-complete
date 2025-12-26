@@ -2,7 +2,7 @@
 -- Author: Michaël Ball (http://github.com/michael-ball/)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Synth Midnight Terminal Light"
 
 Default = { Colour = "#28292a" }
 Canvas = { Colour="#dddfe0" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#a3a5a6" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#28292a" }
-LineNum      = { Color="#a3a5a6" }
+LineNum      = { Colour="#a3a5a6" }
 PreProcessor      = { Colour="#cd6320" }
 Interpolation  = Escape
 

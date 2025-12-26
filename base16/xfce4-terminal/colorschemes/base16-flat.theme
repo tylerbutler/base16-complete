@@ -1,10 +1,10 @@
 # Scheme name: Flat
 # Scheme author: Chris Kempson (http://chriskempson.com)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Flat
+Name=-flat
 ColorForeground=#e0e0e0
 ColorBackground=#2C3E50
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2C3E50;#E74C3C;#2ECC71;#F1C40F;#3498DB;#9B59B6;#1ABC9C;#e0e0e0;#95A5A6;#E74C3C;#2ECC71;#F1C40F;#3498DB;#9B59B6;#1ABC9C;#ECF0F1
+ColorPalette=#2C3E50;#E74C3C;#2ECC71;#F1C40F;#3498DB;#9B59B6;#1ABC9C;#e0e0e0;#7F8C8D;#;#;#;#;#;#;#ECF0F1

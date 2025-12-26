@@ -2,7 +2,7 @@
 -- Author: Carter Veldhuizen
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Sagelight"
 
 Default = { Colour = "#383838" }
 Canvas = { Colour="#f8f8f8" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#b8b8b8" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#383838" }
-LineNum      = { Color="#b8b8b8" }
+LineNum      = { Colour="#b8b8b8" }
 PreProcessor      = { Colour="#d2b2a0" }
 Interpolation  = Escape
 

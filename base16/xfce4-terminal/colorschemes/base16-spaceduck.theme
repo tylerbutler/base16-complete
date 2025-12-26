@@ -1,10 +1,10 @@
 # Scheme name: Spaceduck
 # Scheme author: Guillermo Rodriguez (pineapplegiant)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Spaceduck
+Name=-spaceduck
 ColorForeground=#686f9a
 ColorBackground=#000000
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#000000;#e33400;#5ccc96;#b3a1e6;#00a3cc;#f2ce00;#7a5ccc;#686f9a;#686f9a;#e33400;#5ccc96;#b3a1e6;#00a3cc;#f2ce00;#7a5ccc;#f0f1ce
+ColorPalette=#000000;#e33400;#5ccc96;#b3a1e6;#00a3cc;#f2ce00;#7a5ccc;#686f9a;#b3a1e6;#;#;#;#;#;#;#f0f1ce

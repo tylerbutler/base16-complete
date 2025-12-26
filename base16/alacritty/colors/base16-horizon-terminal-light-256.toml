@@ -1,0 +1,58 @@
+# Base16 Horizon Light 256 - alacritty color config
+# Michaël Ball (http://github.com/michael-ball/)
+
+# Default colors
+[colors.primary]
+background = '0xFDF0ED'
+foreground = '0x403C3D'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xFDF0ED'
+cursor = '0x403C3D'
+
+# Normal colors
+[colors.normal]
+black = '0xFDF0ED'
+red = '0xE95678'
+green = '0x29D398'
+yellow = '0xFADAD1'
+blue = '0x26BBD9'
+magenta = '0xEE64AC'
+cyan = '0x59E1E3'
+white = '0x403C3D'
+
+# Bright colors
+[colors.bright]
+black = '0xBDB3B1'
+red = '0xE95678'
+green = '0x29D398'
+yellow = '0xFADAD1'
+blue = '0x26BBD9'
+magenta = '0xEE64AC'
+cyan = '0x59E1E3'
+white = '0x201C1D'
+
+[[colors.indexed_colors]]
+index = 16
+color = "0xF9CEC3"
+
+[[colors.indexed_colors]]
+index = 17
+color = "0xF9CBBE"
+
+[[colors.indexed_colors]]
+index = 18
+color = "0xFADAD1"
+
+[[colors.indexed_colors]]
+index = 19
+color = "0xF9CBBE"
+
+[[colors.indexed_colors]]
+index = 20
+color = "0x948C8A"
+
+[[colors.indexed_colors]]
+index = 21
+color = "0x302C2D"

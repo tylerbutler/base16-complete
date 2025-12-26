@@ -2,7 +2,7 @@
 -- Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 tender"
 
 Default = { Colour = "#eeeeee" }
 Canvas = { Colour="#282828" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#4c4c4c" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#eeeeee" }
-LineNum      = { Color="#4c4c4c" }
+LineNum      = { Colour="#4c4c4c" }
 PreProcessor      = { Colour="#a16946" }
 Interpolation  = Escape
 

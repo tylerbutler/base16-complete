@@ -2,7 +2,7 @@
 -- Author: Chuck Harmston (https://chuck.harmston.ch)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Solar Flare Light"
 
 Default = { Colour = "#586875" }
 Canvas = { Colour="#F5F7FA" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#85939E" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#586875" }
-LineNum      = { Color="#85939E" }
+LineNum      = { Colour="#85939E" }
 PreProcessor      = { Colour="#D73C9A" }
 Interpolation  = Escape
 

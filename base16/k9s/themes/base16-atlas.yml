@@ -7,8 +7,8 @@ cyan: &cyan "#ff5a67"
 green: &green "#f08e48"
 orange: &orange "#ffcc1b"
 blue: &blue "#7fc06e"
-magenta: &magenta "#14747e"
-red: &red "#5dd7b9"
+magenta: &magenta "#5dd7b9"
+red: &red "#14747e"
 yellow: &yellow "#9a70a4"
 
 k9s:

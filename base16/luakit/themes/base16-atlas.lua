@@ -20,8 +20,8 @@ local base08 = "#ff5a67" -- red
 local base09 = "#f08e48" -- orange
 local base0A = "#ffcc1b" -- yellow
 local base0B = "#7fc06e" -- green
-local base0C = "#14747e" -- aqua/cyan
-local base0D = "#5dd7b9" -- blue
+local base0C = "#5dd7b9" -- aqua/cyan
+local base0D = "#14747e" -- blue
 local base0E = "#9a70a4" -- purple
 local base0F = "#c43060" -- brown
 

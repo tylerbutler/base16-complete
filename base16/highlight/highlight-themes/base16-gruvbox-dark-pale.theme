@@ -2,7 +2,7 @@
 -- Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Gruvbox dark, pale"
 
 Default = { Colour = "#dab997" }
 Canvas = { Colour="#262626" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#8a8a8a" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#dab997" }
-LineNum      = { Color="#8a8a8a" }
+LineNum      = { Colour="#8a8a8a" }
 PreProcessor      = { Colour="#d65d0e" }
 Interpolation  = Escape
 

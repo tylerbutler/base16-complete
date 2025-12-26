@@ -1,23 +1,7 @@
-# Base16 Harmonic16 Dark
+# Scheme name: Harmonic16 Dark
+# Scheme system: 
 # Scheme author: Jannik Siebert (https://github.com/janniks)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#0b1c2c'
-set -l color01 '#223b54'
-set -l color02 '#405c79'
-set -l color03 '#627e99'
-set -l color04 '#aabcce'
-set -l color05 '#cbd6e2'
-set -l color06 '#e5ebf1'
-set -l color07 '#f7f9fb'
-set -l color08 '#bf8b56'
-set -l color09 '#bfbf56'
-set -l color0A '#8bbf56'
-set -l color0B '#56bf8b'
-set -l color0C '#568bbf'
-set -l color0D '#8b56bf'
-set -l color0E '#bf568b'
-set -l color0F '#bf5656'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#0b1c2c,fg:#cbd6e2,hl:#bfbf56"\
+" --color=bg+:#405c79,fg+:#,hl+:#"\
+" --color=info:#bf568b,border:#bf568b,prompt:#56bf8b"\
+" --color=pointer:#8b56bf,marker:#,spinner:#,header:#bf8b56"

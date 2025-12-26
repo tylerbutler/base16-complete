@@ -1,23 +1,7 @@
-# Base16 Tango
+# Scheme name: Tango
+# Scheme system: 
 # Scheme author: @Schnouki, based on the Tango Desktop Project
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#2e3436'
-set -l color01 '#8ae234'
-set -l color02 '#fce94f'
-set -l color03 '#555753'
-set -l color04 '#729fcf'
-set -l color05 '#d3d7cf'
-set -l color06 '#ad7fa8'
-set -l color07 '#eeeeec'
-set -l color08 '#cc0000'
-set -l color09 '#ef2929'
-set -l color0A '#c4a000'
-set -l color0B '#4e9a06'
-set -l color0C '#06989a'
-set -l color0D '#3465a4'
-set -l color0E '#75507b'
-set -l color0F '#34e2e2'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#2e3436,fg:#d3d7cf,hl:#ef2929"\
+" --color=bg+:#fce94f,fg+:#,hl+:#"\
+" --color=info:#75507b,border:#75507b,prompt:#4e9a06"\
+" --color=pointer:#3465a4,marker:#,spinner:#,header:#cc0000"

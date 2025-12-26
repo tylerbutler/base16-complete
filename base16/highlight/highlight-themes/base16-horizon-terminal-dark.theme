@@ -2,7 +2,7 @@
 -- Author: Michaël Ball (http://github.com/michael-ball/)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Horizon Dark"
 
 Default = { Colour = "#CBCED0" }
 Canvas = { Colour="#1C1E26" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#6F6F70" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#CBCED0" }
-LineNum      = { Color="#6F6F70" }
+LineNum      = { Colour="#6F6F70" }
 PreProcessor      = { Colour="#F09383" }
 Interpolation  = Escape
 

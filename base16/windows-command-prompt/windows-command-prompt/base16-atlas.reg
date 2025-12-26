@@ -5,9 +5,9 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Console]
 "ColorTable00"=dword:00352600 ; base00
-"ColorTable01"=dword:00b9d75d ; base0D
+"ColorTable01"=dword:007e7414 ; base0D
 "ColorTable02"=dword:006ec07f ; base0B
-"ColorTable03"=dword:007e7414 ; base0C
+"ColorTable03"=dword:00b9d75d ; base0C
 "ColorTable04"=dword:00675aff ; base08
 "ColorTable05"=dword:00a4709a ; base0E
 "ColorTable06"=dword:00488ef0 ; base09

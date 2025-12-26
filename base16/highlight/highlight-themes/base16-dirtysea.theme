@@ -2,7 +2,7 @@
 -- Author: Kahlil (Kal) Hodgson
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 dirtysea"
 
 Default = { Colour = "#000000" }
 Canvas = { Colour="#e0e0e0" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#707070" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#000000" }
-LineNum      = { Color="#707070" }
+LineNum      = { Colour="#707070" }
 PreProcessor      = { Colour="#755B00" }
 Interpolation  = Escape
 

@@ -17,8 +17,8 @@ M.base08 = "#ff5a67" -- red
 M.base09 = "#f08e48" -- orange
 M.base0A = "#ffcc1b" -- yellow
 M.base0B = "#7fc06e" -- green
-M.base0C = "#14747e" -- aqua/cyan
-M.base0D = "#5dd7b9" -- blue
+M.base0C = "#5dd7b9" -- aqua/cyan
+M.base0D = "#14747e" -- blue
 M.base0E = "#9a70a4" -- purple
 M.base0F = "#c43060" -- brown
 

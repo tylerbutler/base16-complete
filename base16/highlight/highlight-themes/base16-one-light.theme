@@ -2,7 +2,7 @@
 -- Author: Daniel Pfeifer (http://github.com/purpleKarrot)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 One Light"
 
 Default = { Colour = "#383a42" }
 Canvas = { Colour="#fafafa" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#a0a1a7" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#383a42" }
-LineNum      = { Color="#a0a1a7" }
+LineNum      = { Colour="#a0a1a7" }
 PreProcessor      = { Colour="#986801" }
 Interpolation  = Escape
 

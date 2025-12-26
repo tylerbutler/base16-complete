@@ -1,23 +1,7 @@
-# Base16 Colors
+# Scheme name: Colors
+# Scheme system: 
 # Scheme author: mrmrs (http://clrs.cc)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#111111'
-set -l color01 '#333333'
-set -l color02 '#555555'
-set -l color03 '#777777'
-set -l color04 '#999999'
-set -l color05 '#bbbbbb'
-set -l color06 '#dddddd'
-set -l color07 '#ffffff'
-set -l color08 '#ff4136'
-set -l color09 '#ff851b'
-set -l color0A '#ffdc00'
-set -l color0B '#2ecc40'
-set -l color0C '#7fdbff'
-set -l color0D '#0074d9'
-set -l color0E '#b10dc9'
-set -l color0F '#85144b'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#111111,fg:#bbbbbb,hl:#ff851b"\
+" --color=bg+:#555555,fg+:#,hl+:#"\
+" --color=info:#b10dc9,border:#b10dc9,prompt:#2ecc40"\
+" --color=pointer:#0074d9,marker:#,spinner:#,header:#ff4136"

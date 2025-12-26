@@ -2,7 +2,7 @@
 -- Author: Josh W Lewis (@joshwlewis)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Unikitty Light"
 
 Default = { Colour = "#6c696e" }
 Canvas = { Colour="#ffffff" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#a7a5a8" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#6c696e" }
-LineNum      = { Color="#a7a5a8" }
+LineNum      = { Colour="#a7a5a8" }
 PreProcessor      = { Colour="#e013d0" }
 Interpolation  = Escape
 

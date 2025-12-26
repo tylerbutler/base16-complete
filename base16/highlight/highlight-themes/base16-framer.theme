@@ -2,7 +2,7 @@
 -- Author: Framer (Maintained by Jesse Hoyos)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Framer"
 
 Default = { Colour = "#D0D0D0" }
 Canvas = { Colour="#181818" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#747474" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#D0D0D0" }
-LineNum      = { Color="#747474" }
+LineNum      = { Colour="#747474" }
 PreProcessor      = { Colour="#B15F4A" }
 Interpolation  = Escape
 

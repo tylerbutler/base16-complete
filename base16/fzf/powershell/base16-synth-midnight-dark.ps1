@@ -1,0 +1,11 @@
+# Scheme name: Synth Midnight Terminal Dark
+# Scheme system: 
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
+$ENV:FZF_DEFAULT_OPTS=@"
+--color=bg:#050608,fg:#c1c3c4,hl:#ea770d
+--color=bg+:#28292a,fg+:#,hl+:#
+--color=info:#ea5ce2,border:#ea5ce2,prompt:#06ea61
+--color=pointer:#03aeff,marker:#,spinner:#,header:#b53b50
+"@

@@ -1,62 +1,62 @@
 [Background]
-Color=28,28,28
+Color=48,48,48
 
 [BackgroundIntense]
-Color=50,50,50
+Color=135,95,175
 
 [Color0]
-Color=28,28,28
+Color=48,48,48
 
 [Color0Intense]
-Color=50,50,50
+Color=135,95,175
 
 [Color1]
-Color=255,61,129
+Color=255,0,95
 
 [Color1Intense]
-Color=255,61,129
+Color=255,0,95
 
 [Color2]
-Color=68,255,221
+Color=135,255,255
 
 [Color2Intense]
-Color=68,255,221
+Color=135,255,255
 
 [Color3]
-Color=255,255,115
+Color=255,255,175
 
 [Color3Intense]
-Color=255,255,115
+Color=255,255,175
 
 [Color4]
-Color=47,177,212
+Color=175,255,255
 
 [Color4Intense]
-Color=47,177,212
+Color=175,255,255
 
 [Color5]
-Color=130,101,255
+Color=215,175,255
 
 [Color5Intense]
-Color=130,101,255
+Color=215,175,255
 
 [Color6]
-Color=0,202,255
+Color=0,255,175
 
 [Color6Intense]
-Color=0,202,255
+Color=0,255,175
 
 [Color7]
-Color=85,85,85
+Color=215,175,255
 
 [Color7Intense]
-Color=209,209,209
+Color=175,255,215
 
 [Foreground]
-Color=85,85,85
+Color=215,175,255
 
 [ForegroundIntense]
-Color=209,209,209
+Color=175,255,215
 
 [General]
 Description=Base16 Vice Alt

@@ -1,10 +1,10 @@
 # Scheme name: Apathy
 # Scheme author: Jannik Siebert (https://github.com/janniks)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Apathy
+Name=-apathy
 ColorForeground=#81B5AC
 ColorBackground=#031A16
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#031A16;#3E9688;#883E96;#3E4C96;#96883E;#4C963E;#963E4C;#81B5AC;#2B685E;#3E9688;#883E96;#3E4C96;#96883E;#4C963E;#963E4C;#D2E7E4
+ColorPalette=#031A16;#3E9688;#883E96;#3E4C96;#96883E;#4C963E;#963E4C;#81B5AC;#184E45;#;#;#;#;#;#;#D2E7E4

@@ -29,10 +29,10 @@ Color=255,204,27
 Color=255,204,27
 
 [Color4]
-Color=93,215,185
+Color=20,116,126
 
 [Color4Intense]
-Color=93,215,185
+Color=20,116,126
 
 [Color5]
 Color=154,112,164
@@ -41,10 +41,10 @@ Color=154,112,164
 Color=154,112,164
 
 [Color6]
-Color=20,116,126
+Color=93,215,185
 
 [Color6Intense]
-Color=20,116,126
+Color=93,215,185
 
 [Color7]
 Color=161,161,154

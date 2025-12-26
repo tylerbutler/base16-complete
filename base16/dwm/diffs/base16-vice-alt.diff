@@ -16,12 +16,12 @@ index 1c0b587..efdbcc4 100644
 + * Base16 dwm template by Daniel Mulford
 + * Vice Alt scheme by Thomas Leon Highbaugh
 + */
-+static const char col_base00[]      = "#1c1c1c";
-+static const char col_base01[]      = "#282828";
-+static const char col_base02[]      = "#2c2c2c";
-+static const char col_base04[]      = "#3c3c3c";
-+static const char col_base0C[]      = "#00caff";
-+static const char col_base0D[]      = "#2fb1d4";
++static const char col_base00[]      = "#303030";
++static const char col_base01[]      = "#444444";
++static const char col_base02[]      = "#878787";
++static const char col_base04[]      = "#afafd7";
++static const char col_base0C[]      = "#00ffaf";
++static const char col_base0D[]      = "#afffff";
  static const char *colors[][3]      = {
 -	/*               fg         bg         border   */
 -	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },

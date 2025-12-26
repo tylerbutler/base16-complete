@@ -8,14 +8,14 @@
 #ifndef BASE16_COLORS
 #define BASE16_COLORS
 
-static const char base00[] = "#17191E";
-static const char base01[] = "#22262d";
-static const char base02[] = "#3c3f4c";
-static const char base03[] = "#383a47";
-static const char base04[] = "#555e70";
-static const char base05[] = "#8b9cbe";
-static const char base06[] = "#B2BFD9";
-static const char base07[] = "#f4f4f7";
+static const char base00[] = "#181818";
+static const char base01[] = "#222222";
+static const char base02[] = "#323232";
+static const char base03[] = "#3f3f3f";
+static const char base04[] = "#666666";
+static const char base05[] = "#818181";
+static const char base06[] = "#c6c6c6";
+static const char base07[] = "#e9e9e9";
 static const char base08[] = "#ff29a8";
 static const char base09[] = "#85ffe0";
 static const char base0A[] = "#f0ffaa";

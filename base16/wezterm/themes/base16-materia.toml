@@ -6,7 +6,7 @@ foreground    = "#CDD3DE"
 background    = "#263238"
 cursor_bg     = "#CDD3DE"
 cursor_border = "#CDD3DE"
-cursor        = "#CDD3DE"
+cursor_fg     = "#263238"
 selection_bg  = "#CDD3DE"
 selection_fg  = "#263238"
 

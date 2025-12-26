@@ -1,23 +1,7 @@
-# Base16 3024
+# Scheme name: 3024
+# Scheme system: 
 # Scheme author: Jan T. Sott (http://github.com/idleberg)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#090300'
-set -l color01 '#3a3432'
-set -l color02 '#4a4543'
-set -l color03 '#5c5855'
-set -l color04 '#807d7c'
-set -l color05 '#a5a2a2'
-set -l color06 '#d6d5d4'
-set -l color07 '#f7f7f7'
-set -l color08 '#db2d20'
-set -l color09 '#e8bbd0'
-set -l color0A '#fded02'
-set -l color0B '#01a252'
-set -l color0C '#b5e4f4'
-set -l color0D '#01a0e4'
-set -l color0E '#a16a94'
-set -l color0F '#cdab53'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#090300,fg:#a5a2a2,hl:#e8bbd0"\
+" --color=bg+:#4a4543,fg+:#,hl+:#"\
+" --color=info:#a16a94,border:#a16a94,prompt:#01a252"\
+" --color=pointer:#01a0e4,marker:#,spinner:#,header:#db2d20"

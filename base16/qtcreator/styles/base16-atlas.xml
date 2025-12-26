@@ -35,7 +35,7 @@
   <style name="String" foreground="#7fc06e"/>
   <style name="Keyword" foreground="#9a70a4"/>
   <style name="Operator" foreground="#a1a19a"/>
-  <style name="Preprocessor" foreground="#5dd7b9"/>
+  <style name="Preprocessor" foreground="#14747e"/>
   <style name="Label" foreground="#ff5a67"/>
 
   <!-- types, classes -->
@@ -43,8 +43,8 @@
   <style name="PrimitiveType" foreground="#9a70a4"/>
 
   <!-- functions, methods -->
-  <style name="Function" foreground="#5dd7b9"/>
-  <style name="VirtualMethod" foreground="#5dd7b9" italic="true"/>
+  <style name="Function" foreground="#14747e"/>
+  <style name="VirtualMethod" foreground="#14747e" italic="true"/>
 
   <!-- variables -->
   <style name="Field" foreground="#e6e6dc"/>
@@ -67,8 +67,8 @@
   <!-- QML -->
   <style name="QmlTypeId" foreground="#9a70a4"/>
   <style name="Binding" foreground="#ff5a67"/>
-  <style name="QmlExternalId" foreground="#5dd7b9" italic="true"/>
-  <style name="QmlExternalObjectProperty" foreground="#5dd7b9" italic="true"/>
+  <style name="QmlExternalId" foreground="#14747e" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#14747e" italic="true"/>
   <style name="QmlLocalId" italic="true"/>
   <style name="QmlRootObjectProperty" italic="true"/>
   <style name="QmlScopeObjectProperty" italic="true"/>
@@ -76,14 +76,14 @@
 
   <!-- inline diff -->
   <style name="DiffFile" foreground="#9a70a4"/>
-  <style name="DiffLocation" foreground="#5dd7b9"/>
+  <style name="DiffLocation" foreground="#14747e"/>
   <style name="AddedLine" foreground="#7fc06e"/>
   <style name="RemovedLine" foreground="#ffcc1b"/>
   <style name="LogChangeLine" foreground="#ff5a67"/>
 
   <!-- side-by-side diff -->
   <style name="DiffFileLine" foreground="#9a70a4"/>
-  <style name="DiffContextLine" foreground="#5dd7b9"/>
+  <style name="DiffContextLine" foreground="#14747e"/>
   <style name="DiffSourceLine" foreground="#7fc06e"/>
   <style name="DiffSourceChar" foreground="#ffcc1b" background="#00384d"/>
   <style name="DiffDestLine" foreground="#7fc06e"/>

@@ -1,10 +1,10 @@
 # Scheme name: Material
 # Scheme author: Nate Peterson
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Material
+Name=-material
 ColorForeground=#EEFFFF
 ColorBackground=#263238
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#263238;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#EEFFFF;#546E7A;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
+ColorPalette=#263238;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#EEFFFF;#314549;#;#;#;#;#;#;#FFFFFF

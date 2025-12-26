@@ -2,7 +2,7 @@
 -- Author: cjayross (https://github.com/cjayross)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Edge Light"
 
 Default = { Colour = "#5e646f" }
 Canvas = { Colour="#fafafa" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#5e646f" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#5e646f" }
-LineNum      = { Color="#5e646f" }
+LineNum      = { Colour="#5e646f" }
 PreProcessor      = { Colour="#509c93" }
 Interpolation  = Escape
 
