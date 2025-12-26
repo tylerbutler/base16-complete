@@ -33,7 +33,7 @@ base16-complete/
 ├── build.sh                   # Main build script
 ├── docker-build.sh            # Build using Docker (no local deps needed)
 ├── Dockerfile                 # Docker dev environment definition
-├── install.sh                 # Dependency installation
+├── pyproject.toml             # Python project config (uv)
 ├── sources.yaml               # External source configuration
 ├── LICENSE                    # MIT License
 └── .gitignore                 # Ignores temp build dirs
@@ -43,16 +43,8 @@ base16-complete/
 
 ### Dependencies
 
-- **Python 3.x** (required runtime)
-- **pybase16-builder** (Python package for generating color schemes)
-
-### Installation
-
-```bash
-./install.sh
-# Or manually:
-pip3 install pybase16-builder
-```
+- **[uv](https://docs.astral.sh/uv/)** (Python package manager)
+- **pybase16-builder** (Python package for generating color schemes, installed automatically by uv)
 
 ### Building
 
@@ -61,8 +53,10 @@ pip3 install pybase16-builder
 ```
 
 This runs:
-1. `pybase16 update -cv` - Downloads/updates schemes and templates from sources
-2. `pybase16 build -v -o base16` - Generates all color scheme files
+1. `uv run pybase16 update -cv` - Downloads/updates schemes and templates from sources
+2. `uv run pybase16 build -v -o base16` - Generates all color scheme files
+
+uv automatically creates a virtual environment and installs dependencies on first run.
 
 ### Docker Development
 
@@ -129,6 +123,7 @@ The following are temporary build artifacts (in .gitignore):
 - `schemes/` - Raw scheme definitions
 - `templates/` - Raw template definitions
 - `output/` - Intermediate output
+- `.venv/` - Python virtual environment (managed by uv)
 
 ## Important Notes for AI Assistants
 
