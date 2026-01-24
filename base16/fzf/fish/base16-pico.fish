@@ -1,23 +1,7 @@
-# Base16 Pico
+# Scheme name: Pico
+# Scheme system: 
 # Scheme author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#000000'
-set -l color01 '#1d2b53'
-set -l color02 '#7e2553'
-set -l color03 '#008751'
-set -l color04 '#ab5236'
-set -l color05 '#5f574f'
-set -l color06 '#c2c3c7'
-set -l color07 '#fff1e8'
-set -l color08 '#ff004d'
-set -l color09 '#ffa300'
-set -l color0A '#fff024'
-set -l color0B '#00e756'
-set -l color0C '#29adff'
-set -l color0D '#83769c'
-set -l color0E '#ff77a8'
-set -l color0F '#ffccaa'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#000000,fg:#5f574f,hl:#ffa300"\
+" --color=bg+:#7e2553,fg+:#,hl+:#"\
+" --color=info:#ff77a8,border:#ff77a8,prompt:#00e756"\
+" --color=pointer:#83769c,marker:#,spinner:#,header:#ff004d"

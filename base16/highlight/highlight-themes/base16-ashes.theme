@@ -2,7 +2,7 @@
 -- Author: Jannik Siebert (https://github.com/janniks)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Ashes"
 
 Default = { Colour = "#C7CCD1" }
 Canvas = { Colour="#1C2023" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#747C84" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#C7CCD1" }
-LineNum      = { Color="#747C84" }
+LineNum      = { Colour="#747C84" }
 PreProcessor      = { Colour="#C79595" }
 Interpolation  = Escape
 

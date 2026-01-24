@@ -2,7 +2,7 @@
 -- Author: Alex Lende (https://ajlende.com)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Atlas"
 
 Default = { Colour = "#a1a19a" }
 Canvas = { Colour="#002635" }
@@ -13,14 +13,14 @@ BlockComment = { Colour="#6C8B91" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#a1a19a" }
-LineNum      = { Color="#6C8B91" }
+LineNum      = { Colour="#6C8B91" }
 PreProcessor      = { Colour="#c43060" }
 Interpolation  = Escape
 
 Keywords = {
   { Colour="#ff5a67", Bold=true},
   { Colour="#ffcc1b"},
-  { Colour="#5dd7b9"},
+  { Colour="#14747e"},
   { Colour="#ffcc1b"},
   { Colour="#ffcc1b" }
 }

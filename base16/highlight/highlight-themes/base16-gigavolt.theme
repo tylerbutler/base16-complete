@@ -2,7 +2,7 @@
 -- Author: Aidan Swope (http://github.com/Whillikers)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Gigavolt"
 
 Default = { Colour = "#e9e7e1" }
 Canvas = { Colour="#202126" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#a1d2e6" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#e9e7e1" }
-LineNum      = { Color="#a1d2e6" }
+LineNum      = { Colour="#a1d2e6" }
 PreProcessor      = { Colour="#6187ff" }
 Interpolation  = Escape
 

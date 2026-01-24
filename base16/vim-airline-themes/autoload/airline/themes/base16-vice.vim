@@ -7,14 +7,14 @@ let s:scheme_slug = substitute("vice", "-", "_", "g")
 let g:airline#themes#base16_{s:scheme_slug}#palette = {}
 
 " GUI color definitions
-let s:gui00 = '#17191E'
-let s:gui01 = '#22262d'
-let s:gui02 = '#3c3f4c'
-let s:gui03 = '#383a47'
-let s:gui04 = '#555e70'
-let s:gui05 = '#8b9cbe'
-let s:gui06 = '#B2BFD9'
-let s:gui07 = '#f4f4f7'
+let s:gui00 = '#181818'
+let s:gui01 = '#222222'
+let s:gui02 = '#323232'
+let s:gui03 = '#3f3f3f'
+let s:gui04 = '#666666'
+let s:gui05 = '#818181'
+let s:gui06 = '#c6c6c6'
+let s:gui07 = '#e9e9e9'
 let s:gui08 = '#ff29a8'
 let s:gui09 = '#85ffe0'
 let s:gui0A = '#f0ffaa'

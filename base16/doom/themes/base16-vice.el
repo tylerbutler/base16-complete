@@ -59,23 +59,23 @@ determine the exact padding."
   :group 'doom-base16-theme
   :type '(choice integer boolean))
 
-(if (< (kurecolor-hex-get-brightness "#17191E") 0.5)
+(if (< (kurecolor-hex-get-brightness "#181818") 0.5)
     (def-doom-theme doom-base16
       "A dark theme inspired by Atom One Dark"
       ;; name        default   256       16
-      ((bg         '("#17191E" nil       nil            ))
+      ((bg         '("#181818" nil       nil            ))
        (bg-alt     `(,(doom-darken (car bg) 0.3) nil       nil            ))
        (base0      `(,(doom-darken (car bg-alt) 0.3) "black"   "black"        ))
        (base1      `(,(doom-darken (car bg-alt) 0.2) "#1e1e1e" "brightblack"  ))
        (base2      `(,(doom-darken (car bg-alt) 0.1) "#2e2e2e" "brightblack"  ))
-       (base3      '("#22262d" "#262626" "brightblack"  ))
-       (base4      '("#3c3f4c" "#3f3f3f" "brightblack"  ))
-       (base5      '("#383a47" "#525252" "brightblack"  ))
-       (base6      '("#555e70" "#6b6b6b" "brightblack"  ))
-       (base7      '("#8b9cbe" "#979797" "brightblack"  ))
-       (base8      '("#f4f4f7" "#dfdfdf" "white"        ))
-       (fg         '("#B2BFD9" "#bfbfbf" "brightwhite"  ))
-       (fg-alt     '("#383a47" "#2d2d2d" "white"        ))
+       (base3      '("#222222" "#262626" "brightblack"  ))
+       (base4      '("#323232" "#3f3f3f" "brightblack"  ))
+       (base5      '("#3f3f3f" "#525252" "brightblack"  ))
+       (base6      '("#666666" "#6b6b6b" "brightblack"  ))
+       (base7      '("#818181" "#979797" "brightblack"  ))
+       (base8      '("#e9e9e9" "#dfdfdf" "white"        ))
+       (fg         '("#c6c6c6" "#bfbfbf" "brightwhite"  ))
+       (fg-alt     '("#3f3f3f" "#2d2d2d" "white"        ))
 
        (grey       base4)
        (red        '("#ff29a8" "#ff29a8" "red"          ))
@@ -203,19 +203,19 @@ determine the exact padding."
     "A light theme inspired by Atom One"
 
     ;; name        default   256       16
-    ((bg         '("#17191E" nil       nil            ))
-     (bg-alt     '("#22262d" nil       nil            ))
-     (base0      '("#22262d" "#22262d" "white"        ))
-     (base1      '("#3c3f4c" "#3c3f4c" "brightblack"  ))
+    ((bg         '("#181818" nil       nil            ))
+     (bg-alt     '("#222222" nil       nil            ))
+     (base0      '("#222222" "#222222" "white"        ))
+     (base1      '("#323232" "#323232" "brightblack"  ))
      (base2      `(,(doom-darken (car base1) 0.1) "#dfdfdf" "brightblack"  ))
      (base3      `(,(doom-darken (car base2) 0.1) "#c6c7c7" "brightblack"  ))
-     (base4      '("#383a47" "#383a47" "brightblack"  ))
-     (base5      '("#8b9cbe" "#424242" "brightblack"  ))
-     (base6      '("#B2BFD9" "#2e2e2e" "brightblack"  ))
+     (base4      '("#3f3f3f" "#3f3f3f" "brightblack"  ))
+     (base5      '("#818181" "#424242" "brightblack"  ))
+     (base6      '("#c6c6c6" "#2e2e2e" "brightblack"  ))
      (base7      `(,(doom-darken (car base6) 0.1) "#1e1e1e" "brightblack"  ))
-     (base8      '("#f4f4f7" "black"   "black"        ))
-     (fg         '("#8b9cbe" "#424242" "black"        ))
-     (fg-alt     '("#383a47" "#c7c7c7" "brightblack"  ))
+     (base8      '("#e9e9e9" "black"   "black"        ))
+     (fg         '("#818181" "#424242" "black"        ))
+     (fg-alt     '("#3f3f3f" "#c7c7c7" "brightblack"  ))
 
      (grey       base4)
      (red        '("#ff29a8" "#ff29a8" "red"          ))

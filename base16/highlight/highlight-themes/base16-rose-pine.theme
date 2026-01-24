@@ -2,7 +2,7 @@
 -- Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Rosé Pine"
 
 Default = { Colour = "#e0def4" }
 Canvas = { Colour="#191724" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#6e6a86" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#e0def4" }
-LineNum      = { Color="#6e6a86" }
+LineNum      = { Colour="#6e6a86" }
 PreProcessor      = { Colour="#524f67" }
 Interpolation  = Escape
 

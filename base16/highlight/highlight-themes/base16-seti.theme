@@ -2,7 +2,7 @@
 -- Author: 
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Seti UI"
 
 Default = { Colour = "#d6d6d6" }
 Canvas = { Colour="#151718" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#41535B" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#d6d6d6" }
-LineNum      = { Color="#41535B" }
+LineNum      = { Colour="#41535B" }
 PreProcessor      = { Colour="#8a553f" }
 Interpolation  = Escape
 

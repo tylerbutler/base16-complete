@@ -1,0 +1,27 @@
+<idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
+<id>com..porple</id>
+<name> Porple</name>
+<version>1.0.0</version>
+<vendor>Tinted Theming</vendor>
+
+<description><![CDATA[
+  <p>Base 16 Porple for Jetbrains IDE</p>
+  <br>
+  <p>---------------</p>
+  <br>
+  <p>Colors by Niek den Breeje (https://github.com/AuditeMarlow). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
+    ]]>
+</description>
+
+<change-notes><![CDATA[
+  <p>Version 1.0.0</p>
+    ]]>
+</change-notes>
+<idea-version since-build="191.0"/>
+
+<depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="base16-porple" path="/base16-porple.theme.json"/>
+  </extensions>
+</idea-plugin>

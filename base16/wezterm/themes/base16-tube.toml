@@ -6,7 +6,7 @@ foreground    = "#d9d8d8"
 background    = "#231f20"
 cursor_bg     = "#d9d8d8"
 cursor_border = "#d9d8d8"
-cursor        = "#d9d8d8"
+cursor_fg     = "#231f20"
 selection_bg  = "#d9d8d8"
 selection_fg  = "#231f20"
 

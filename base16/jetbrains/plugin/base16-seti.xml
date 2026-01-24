@@ -1,0 +1,27 @@
+<idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
+<id>com..seti</id>
+<name> Seti UI</name>
+<version>1.0.0</version>
+<vendor>Tinted Theming</vendor>
+
+<description><![CDATA[
+  <p>Base 16 Seti UI for Jetbrains IDE</p>
+  <br>
+  <p>---------------</p>
+  <br>
+  <p>Colors by . Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
+    ]]>
+</description>
+
+<change-notes><![CDATA[
+  <p>Version 1.0.0</p>
+    ]]>
+</change-notes>
+<idea-version since-build="191.0"/>
+
+<depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="base16-seti" path="/base16-seti.theme.json"/>
+  </extensions>
+</idea-plugin>

@@ -1,15 +1,15 @@
-! Base16 Vice Dark
+!  Vice Dark
 ! Scheme author: Thomas Leon Highbaugh
 ! Template author: Tinted Theming (https://github.com/tinted-theming)
 
-#define base00 #17191E
-#define base01 #22262d
-#define base02 #3c3f4c
-#define base03 #383a47
-#define base04 #555e70
-#define base05 #8b9cbe
-#define base06 #B2BFD9
-#define base07 #f4f4f7
+#define base00 #181818
+#define base01 #222222
+#define base02 #323232
+#define base03 #3f3f3f
+#define base04 #666666
+#define base05 #818181
+#define base06 #c6c6c6
+#define base07 #e9e9e9
 #define base08 #ff29a8
 #define base09 #85ffe0
 #define base0A #f0ffaa
@@ -18,6 +18,12 @@
 #define base0D #00eaff
 #define base0E #00f6d9
 #define base0F #ff3d81
+#define base12 #
+#define base13 #
+#define base14 #
+#define base15 #
+#define base16 #
+#define base17 #
 
 *foreground:   base05
 #ifdef background_opacity
@@ -34,13 +40,22 @@
 *color4:       base0D
 *color5:       base0E
 *color6:       base0C
-*color7:       base05
+*color7:       base06
 
 *color8:       base03
-*color9:       base09
-*color10:      base01
-*color11:      base02
-*color12:      base04
-*color13:      base06
-*color14:      base0F
+*color9:       base12
+*color10:      base14
+*color11:      base13
+*color12:      base16
+*color13:      base17
+*color14:      base15
 *color15:      base07
+
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+*color16:      base09
+*color17:      base0F
+*color18:      base01
+*color19:      base02
+*color20:      base04
+*color21:      base06

@@ -1,23 +1,7 @@
-# Base16 PhD
+# Scheme name: PhD
+# Scheme system: 
 # Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#061229'
-set -l color01 '#2a3448'
-set -l color02 '#4d5666'
-set -l color03 '#717885'
-set -l color04 '#9a99a3'
-set -l color05 '#b8bbc2'
-set -l color06 '#dbdde0'
-set -l color07 '#ffffff'
-set -l color08 '#d07346'
-set -l color09 '#f0a000'
-set -l color0A '#fbd461'
-set -l color0B '#99bf52'
-set -l color0C '#72b9bf'
-set -l color0D '#5299bf'
-set -l color0E '#9989cc'
-set -l color0F '#b08060'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#061229,fg:#b8bbc2,hl:#f0a000"\
+" --color=bg+:#4d5666,fg+:#,hl+:#"\
+" --color=info:#9989cc,border:#9989cc,prompt:#99bf52"\
+" --color=pointer:#5299bf,marker:#,spinner:#,header:#d07346"

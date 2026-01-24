@@ -20,8 +20,8 @@ static const char base08[] = "#ff5a67";
 static const char base09[] = "#f08e48";
 static const char base0A[] = "#ffcc1b";
 static const char base0B[] = "#7fc06e";
-static const char base0C[] = "#14747e";
-static const char base0D[] = "#5dd7b9";
+static const char base0C[] = "#5dd7b9";
+static const char base0D[] = "#14747e";
 static const char base0E[] = "#9a70a4";
 static const char base0F[] = "#c43060";
 

@@ -8,14 +8,14 @@ function hex2rgb(hex)
     return string.format("%s, %s, %s",tonumber("0x"..hex:sub(1,2)), tonumber("0x"..hex:sub(3,4)), tonumber("0x"..hex:sub(5,6)))
 end
 
-local base00 = "#17191E" -- ----
-local base01 = "#22262d" -- ---
-local base02 = "#3c3f4c" -- --
-local base03 = "#383a47" -- -
-local base04 = "#555e70" -- +
-local base05 = "#8b9cbe" -- ++
-local base06 = "#B2BFD9" -- +++
-local base07 = "#f4f4f7" -- ++++
+local base00 = "#181818" -- ----
+local base01 = "#222222" -- ---
+local base02 = "#323232" -- --
+local base03 = "#3f3f3f" -- -
+local base04 = "#666666" -- +
+local base05 = "#818181" -- ++
+local base06 = "#c6c6c6" -- +++
+local base07 = "#e9e9e9" -- ++++
 local base08 = "#ff29a8" -- red
 local base09 = "#85ffe0" -- orange
 local base0A = "#f0ffaa" -- yellow

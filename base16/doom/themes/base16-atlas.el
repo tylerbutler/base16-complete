@@ -83,11 +83,11 @@ determine the exact padding."
        (green      '("#7fc06e" "#7fc06e" "green"        ))
        (teal       `(,(doom-lighten (car green) 0.2) "#44b9b1" "brightgreen"  ))
        (yellow     '("#c43060" "#c43060" "yellow"       ))
-       (blue       '("#5dd7b9" "#5dd7b9" "brightblue"   ))
+       (blue       '("#14747e" "#14747e" "brightblue"   ))
        (dark-blue  `(,(doom-lighten (car blue) 0.51) "#a0bcf8" "blue"         ))
        (magenta    '("#9a70a4" "#9a70a4" "magenta"      ))
        (violet     `(,(doom-lighten (car magenta) 0.2) "#b751b6" "brightmagenta"))
-       (cyan       '("#14747e" "#14747e" "brightcyan"   ))
+       (cyan       '("#5dd7b9" "#5dd7b9" "brightcyan"   ))
        (dark-cyan  `(,(doom-lighten (car cyan) 0.2) "#005478" "cyan"         ))
 
        ;; face categories -- required for all themes
@@ -223,11 +223,11 @@ determine the exact padding."
      (green      '("#7fc06e" "#7fc06e" "green"        ))
      (teal       `(,(doom-lighten (car green) 0.2) "#44b9b1" "brightgreen"  ))
      (yellow     '("#c43060" "#c43060" "yellow"       ))
-     (blue       '("#5dd7b9" "#5dd7b9" "brightblue"   ))
+     (blue       '("#14747e" "#14747e" "brightblue"   ))
      (dark-blue  `(,(doom-lighten (car blue) 0.51) "#a0bcf8" "blue"         ))
      (magenta    '("#9a70a4" "#9a70a4" "magenta"      ))
      (violet     `(,(doom-lighten (car magenta) 0.2) "#b751b6" "brightmagenta"))
-     (cyan       '("#14747e" "#14747e" "brightcyan"   ))
+     (cyan       '("#5dd7b9" "#5dd7b9" "brightcyan"   ))
      (dark-cyan  `(,(doom-lighten (car cyan) 0.2) "#005478" "cyan"         ))
 
      ;; face categories -- required for all themes

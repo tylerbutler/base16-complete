@@ -1,0 +1,27 @@
+<idea-plugin url="https://www.github.com/tinted-theming/base16-jetbrains">
+<id>com..phd</id>
+<name> PhD</name>
+<version>1.0.0</version>
+<vendor>Tinted Theming</vendor>
+
+<description><![CDATA[
+  <p>Base 16 PhD for Jetbrains IDE</p>
+  <br>
+  <p>---------------</p>
+  <br>
+  <p>Colors by Hennig Hasemann (http://leetless.de/vim.html). Theme made by Tinted Theming (https://github.com/tinted-theming/base16-jetbrains)</p>
+    ]]>
+</description>
+
+<change-notes><![CDATA[
+  <p>Version 1.0.0</p>
+    ]]>
+</change-notes>
+<idea-version since-build="191.0"/>
+
+<depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="base16-phd" path="/base16-phd.theme.json"/>
+  </extensions>
+</idea-plugin>

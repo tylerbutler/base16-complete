@@ -1,23 +1,7 @@
-# Base16 Pop
+# Scheme name: Pop
+# Scheme system: 
 # Scheme author: Chris Kempson (http://chriskempson.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#000000'
-set -l color01 '#202020'
-set -l color02 '#303030'
-set -l color03 '#505050'
-set -l color04 '#b0b0b0'
-set -l color05 '#d0d0d0'
-set -l color06 '#e0e0e0'
-set -l color07 '#ffffff'
-set -l color08 '#eb008a'
-set -l color09 '#f29333'
-set -l color0A '#f8ca12'
-set -l color0B '#37b349'
-set -l color0C '#00aabb'
-set -l color0D '#0e5a94'
-set -l color0E '#b31e8d'
-set -l color0F '#7a2d00'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#000000,fg:#d0d0d0,hl:#f29333"\
+" --color=bg+:#303030,fg+:#,hl+:#"\
+" --color=info:#b31e8d,border:#b31e8d,prompt:#37b349"\
+" --color=pointer:#0e5a94,marker:#,spinner:#,header:#eb008a"

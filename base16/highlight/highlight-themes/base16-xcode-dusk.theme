@@ -2,7 +2,7 @@
 -- Author: Elsa Gonsiorowski (https://github.com/gonsie)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 XCode Dusk"
 
 Default = { Colour = "#939599" }
 Canvas = { Colour="#282B35" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#686A71" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#939599" }
-LineNum      = { Color="#686A71" }
+LineNum      = { Colour="#686A71" }
 PreProcessor      = { Colour="#C77C48" }
 Interpolation  = Escape
 

@@ -2,7 +2,7 @@
 -- Author: Jan T. Sott
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 London Tube"
 
 Default = { Colour = "#d9d8d8" }
 Canvas = { Colour="#231f20" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#737171" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#d9d8d8" }
-LineNum      = { Color="#737171" }
+LineNum      = { Colour="#737171" }
 PreProcessor      = { Colour="#b06110" }
 Interpolation  = Escape
 

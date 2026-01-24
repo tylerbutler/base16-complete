@@ -2,7 +2,7 @@
 -- Author: Niek den Breeje (https://github.com/AuditeMarlow)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Porple"
 
 Default = { Colour = "#d8d8d8" }
 Canvas = { Colour="#292c36" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#65568a" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#d8d8d8" }
-LineNum      = { Color="#65568a" }
+LineNum      = { Colour="#65568a" }
 PreProcessor      = { Colour="#986841" }
 Interpolation  = Escape
 

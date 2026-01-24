@@ -1,10 +1,10 @@
 # Scheme name: Solar Flare Light
 # Scheme author: Chuck Harmston (https://chuck.harmston.ch)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Solar Flare Light
+Name=-solarflare-light
 ColorForeground=#586875
 ColorBackground=#F5F7FA
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#F5F7FA;#EF5253;#7CC844;#E4B51C;#33B5E1;#A363D5;#52CBB0;#586875;#85939E;#EF5253;#7CC844;#E4B51C;#33B5E1;#A363D5;#52CBB0;#18262F
+ColorPalette=#F5F7FA;#EF5253;#7CC844;#E4B51C;#33B5E1;#A363D5;#52CBB0;#586875;#A6AFB8;#;#;#;#;#;#;#18262F

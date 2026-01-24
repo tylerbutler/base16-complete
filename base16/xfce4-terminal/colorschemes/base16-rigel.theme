@@ -1,10 +1,10 @@
 # Scheme name: Rigel
 # Scheme author: Alexander Keliris
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Rigel
+Name=-rigel
 ColorForeground=#77929e
 ColorBackground=#00384d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#00384d;#c43061;#7fc06e;#f08e48;#1c8db2;#c694ff;#00cccc;#77929e;#517f8d;#c43061;#7fc06e;#f08e48;#1c8db2;#c694ff;#00cccc;#e6e6dc
+ColorPalette=#00384d;#c43061;#7fc06e;#f08e48;#1c8db2;#c694ff;#00cccc;#77929e;#ffcc1b;#;#;#;#;#;#;#e6e6dc

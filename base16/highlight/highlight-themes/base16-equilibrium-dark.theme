@@ -2,7 +2,7 @@
 -- Author: Carlo Abelli
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Equilibrium Dark"
 
 Default = { Colour = "#afaba2" }
 Canvas = { Colour="#0c1118" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#7b776e" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#afaba2" }
-LineNum      = { Color="#7b776e" }
+LineNum      = { Colour="#7b776e" }
 PreProcessor      = { Colour="#e3488e" }
 Interpolation  = Escape
 

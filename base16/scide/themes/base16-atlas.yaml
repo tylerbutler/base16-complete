@@ -90,7 +90,7 @@ IDE:
           background: "#002635"
           italic: false
         symbol: !textFormat
-          color: "#5dd7b9"
+          color: "#14747e"
           background: "#002635"
           italic: false
         text: !textFormat

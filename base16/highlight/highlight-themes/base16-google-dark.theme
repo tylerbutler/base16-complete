@@ -2,7 +2,7 @@
 -- Author: Seth Wright (http://sethawright.com)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Google Dark"
 
 Default = { Colour = "#c5c8c6" }
 Canvas = { Colour="#1d1f21" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#969896" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#c5c8c6" }
-LineNum      = { Color="#969896" }
+LineNum      = { Colour="#969896" }
 PreProcessor      = { Colour="#3971ED" }
 Interpolation  = Escape
 

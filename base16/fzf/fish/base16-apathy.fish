@@ -1,23 +1,7 @@
-# Base16 Apathy
+# Scheme name: Apathy
+# Scheme system: 
 # Scheme author: Jannik Siebert (https://github.com/janniks)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
-
-set -l color00 '#031A16'
-set -l color01 '#0B342D'
-set -l color02 '#184E45'
-set -l color03 '#2B685E'
-set -l color04 '#5F9C92'
-set -l color05 '#81B5AC'
-set -l color06 '#A7CEC8'
-set -l color07 '#D2E7E4'
-set -l color08 '#3E9688'
-set -l color09 '#3E7996'
-set -l color0A '#3E4C96'
-set -l color0B '#883E96'
-set -l color0C '#963E4C'
-set -l color0D '#96883E'
-set -l color0E '#4C963E'
-set -l color0F '#3E965B'
 
 set -l FZF_NON_COLOR_OPTS
 
@@ -28,6 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-" --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-" --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
+" --color=bg:#031A16,fg:#81B5AC,hl:#3E7996"\
+" --color=bg+:#184E45,fg+:#,hl+:#"\
+" --color=info:#4C963E,border:#4C963E,prompt:#883E96"\
+" --color=pointer:#96883E,marker:#,spinner:#,header:#3E9688"

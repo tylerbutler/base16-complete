@@ -2,7 +2,7 @@
 -- Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Dracula"
 
 Default = { Colour = "#e9e9f4" }
 Canvas = { Colour="#282936" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#626483" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#e9e9f4" }
-LineNum      = { Color="#626483" }
+LineNum      = { Colour="#626483" }
 PreProcessor      = { Colour="#00f769" }
 Interpolation  = Escape
 

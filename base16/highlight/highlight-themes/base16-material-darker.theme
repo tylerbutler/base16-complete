@@ -2,7 +2,7 @@
 -- Author: Nate Peterson
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Material Darker"
 
 Default = { Colour = "#EEFFFF" }
 Canvas = { Colour="#212121" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#4A4A4A" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#EEFFFF" }
-LineNum      = { Color="#4A4A4A" }
+LineNum      = { Colour="#4A4A4A" }
 PreProcessor      = { Colour="#FF5370" }
 Interpolation  = Escape
 

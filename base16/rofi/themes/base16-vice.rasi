@@ -9,11 +9,11 @@
 * {
     red:                         rgba ( 255, 41, 168, 100 % );
     blue:                        rgba ( 0, 234, 255, 100 % );
-    lightfg:                     rgba ( 178, 191, 217, 100 % );
-    lightbg:                     rgba ( 34, 38, 45, 100 % );
-    foreground:                  rgba ( 139, 156, 190, 100 % );
-    background:                  rgba ( 23, 25, 30, 100 % );
-    background-color:            rgba ( 23, 25, 30, 0 % );
+    lightfg:                     rgba ( 198, 198, 198, 100 % );
+    lightbg:                     rgba ( 34, 34, 34, 100 % );
+    foreground:                  rgba ( 129, 129, 129, 100 % );
+    background:                  rgba ( 24, 24, 24, 100 % );
+    background-color:            rgba ( 24, 24, 24, 0 % );
     separatorcolor:              @foreground;
     border-color:                @foreground;
     selected-normal-foreground:  @lightbg;

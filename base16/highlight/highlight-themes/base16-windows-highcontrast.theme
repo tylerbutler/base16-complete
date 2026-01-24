@@ -2,7 +2,7 @@
 -- Author: Fergus Collins (https://github.com/C-Fergus)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Windows High Contrast"
 
 Default = { Colour = "#c0c0c0" }
 Canvas = { Colour="#000000" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#545454" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#c0c0c0" }
-LineNum      = { Color="#545454" }
+LineNum      = { Colour="#545454" }
 PreProcessor      = { Colour="#008000" }
 Interpolation  = Escape
 

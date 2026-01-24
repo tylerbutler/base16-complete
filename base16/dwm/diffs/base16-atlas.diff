@@ -20,8 +20,8 @@ index 1c0b587..efdbcc4 100644
 +static const char col_base01[]      = "#00384d";
 +static const char col_base02[]      = "#517F8D";
 +static const char col_base04[]      = "#869696";
-+static const char col_base0C[]      = "#14747e";
-+static const char col_base0D[]      = "#5dd7b9";
++static const char col_base0C[]      = "#5dd7b9";
++static const char col_base0D[]      = "#14747e";
  static const char *colors[][3]      = {
 -	/*               fg         bg         border   */
 -	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },

@@ -5,14 +5,14 @@
 
 local M = {}
 
-M.base00 = "#17191E" -- ----
-M.base01 = "#22262d" -- ---
-M.base02 = "#3c3f4c" -- --
-M.base03 = "#383a47" -- -
-M.base04 = "#555e70" -- +
-M.base05 = "#8b9cbe" -- ++
-M.base06 = "#B2BFD9" -- +++
-M.base07 = "#f4f4f7" -- ++++
+M.base00 = "#181818" -- ----
+M.base01 = "#222222" -- ---
+M.base02 = "#323232" -- --
+M.base03 = "#3f3f3f" -- -
+M.base04 = "#666666" -- +
+M.base05 = "#818181" -- ++
+M.base06 = "#c6c6c6" -- +++
+M.base07 = "#e9e9e9" -- ++++
 M.base08 = "#ff29a8" -- red
 M.base09 = "#85ffe0" -- orange
 M.base0A = "#f0ffaa" -- yellow

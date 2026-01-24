@@ -2,7 +2,7 @@
 -- Author: Gabriel Fontes (https://github.com/Misterio77)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Pasque"
 
 Default = { Colour = "#DEDCDF" }
 Canvas = { Colour="#271C3A" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#5D5766" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#DEDCDF" }
-LineNum      = { Color="#5D5766" }
+LineNum      = { Colour="#5D5766" }
 PreProcessor      = { Colour="#59325C" }
 Interpolation  = Escape
 

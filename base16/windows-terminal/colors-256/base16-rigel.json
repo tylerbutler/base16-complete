@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Rigel 256",
+    "foreground": "#77929e",
+    "background": "#00384d",
+    "cursorColor": "#77929e",
+    "selectionBackground": "#ffcc1b",
+    "black": "#00384d",
+    "red": "#c43061",
+    "green": "#7fc06e",
+    "yellow": "#f08e48",
+    "blue": "#1c8db2",
+    "purple": "#c694ff",
+    "cyan": "#00cccc",
+    "white": "#77929e",
+    "brightBlack": "#517f8d",
+    "brightRed": "#c43061",
+    "brightGreen": "#7fc06e",
+    "brightYellow": "#f08e48",
+    "brightBlue": "#1c8db2",
+    "brightPurple": "#c694ff",
+    "brightCyan": "#00cccc",
+    "brightWhite": "#e6e6dc"
+}

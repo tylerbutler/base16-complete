@@ -2,7 +2,7 @@
 -- Author: zoe firi (zoefiri.github.io)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 summercamp"
 
 Default = { Colour = "#736e55" }
 Canvas = { Colour="#1c1810" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#504b38" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#736e55" }
-LineNum      = { Color="#504b38" }
+LineNum      = { Colour="#504b38" }
 PreProcessor      = { Colour="#F69BE7" }
 Interpolation  = Escape
 

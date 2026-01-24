@@ -16,10 +16,10 @@ index 1c0b587..efdbcc4 100644
 + * Base16 dwm template by Daniel Mulford
 + * Vice Dark scheme by Thomas Leon Highbaugh
 + */
-+static const char col_base00[]      = "#17191E";
-+static const char col_base01[]      = "#22262d";
-+static const char col_base02[]      = "#3c3f4c";
-+static const char col_base04[]      = "#555e70";
++static const char col_base00[]      = "#181818";
++static const char col_base01[]      = "#222222";
++static const char col_base02[]      = "#323232";
++static const char col_base04[]      = "#666666";
 +static const char col_base0C[]      = "#8265ff";
 +static const char col_base0D[]      = "#00eaff";
  static const char *colors[][3]      = {

@@ -1,10 +1,10 @@
 # Scheme name: Material Darker
 # Scheme author: Nate Peterson
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Material Darker
+Name=-material-darker
 ColorForeground=#EEFFFF
 ColorBackground=#212121
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#212121;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#EEFFFF;#4A4A4A;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
+ColorPalette=#212121;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#EEFFFF;#353535;#;#;#;#;#;#;#FFFFFF

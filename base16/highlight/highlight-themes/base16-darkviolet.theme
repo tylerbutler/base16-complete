@@ -2,7 +2,7 @@
 -- Author: ruler501 (https://github.com/ruler501/base16-darkviolet)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Dark Violet"
 
 Default = { Colour = "#b08ae6" }
 Canvas = { Colour="#000000" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#593380" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#b08ae6" }
-LineNum      = { Color="#593380" }
+LineNum      = { Colour="#593380" }
 PreProcessor      = { Colour="#a886bf" }
 Interpolation  = Escape
 

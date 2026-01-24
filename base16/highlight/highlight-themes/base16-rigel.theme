@@ -2,7 +2,7 @@
 -- Author: Alexander Keliris
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Rigel"
 
 Default = { Colour = "#77929e" }
 Canvas = { Colour="#00384d" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#517f8d" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#77929e" }
-LineNum      = { Color="#517f8d" }
+LineNum      = { Colour="#517f8d" }
 PreProcessor      = { Colour="#00ffff" }
 Interpolation  = Escape
 

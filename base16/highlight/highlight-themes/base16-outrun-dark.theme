@@ -2,7 +2,7 @@
 -- Author: Hugo Delahousse (http://github.com/hugodelahousse/)
 -- Template by Bez Hermoso <bezalelhermoso@gmail.com>
 
-Description = "Base16 "
+Description = "Base16 Outrun Dark"
 
 Default = { Colour = "#D0D0FA" }
 Canvas = { Colour="#00002A" }
@@ -13,7 +13,7 @@ BlockComment = { Colour="#50507A" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#D0D0FA" }
-LineNum      = { Color="#50507A" }
+LineNum      = { Colour="#50507A" }
 PreProcessor      = { Colour="#F003EF" }
 Interpolation  = Escape
 

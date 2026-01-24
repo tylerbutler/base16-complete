@@ -17,8 +17,8 @@ class Base16Style(Style):
     base09 = '#f08e48'
     base0a = '#ffcc1b'
     base0b = '#7fc06e'
-    base0c = '#14747e'
-    base0d = '#5dd7b9'
+    base0c = '#5dd7b9'
+    base0d = '#14747e'
     base0e = '#9a70a4'
     base0f = '#c43060'
 

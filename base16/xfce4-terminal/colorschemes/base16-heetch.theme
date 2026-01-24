@@ -1,10 +1,10 @@
 # Scheme name: Heetch Dark
 # Scheme author: Geoffrey Teale (tealeg@gmail.com)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Heetch Dark
+Name=-heetch
 ColorForeground=#BDB6C5
 ColorBackground=#190134
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#190134;#27D9D5;#C33678;#8F6C97;#BD0152;#82034C;#F80059;#BDB6C5;#7B6D8B;#27D9D5;#C33678;#8F6C97;#BD0152;#82034C;#F80059;#FEFFFF
+ColorPalette=#190134;#27D9D5;#C33678;#8F6C97;#BD0152;#82034C;#F80059;#BDB6C5;#5A496E;#;#;#;#;#;#;#FEFFFF
