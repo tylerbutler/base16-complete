@@ -1,9 +1,10 @@
-# -Atelier Dune Light
+# Scheme name: Atelier Dune Light
+# Scheme system: 
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
- --color=bg:#fefbec,fg:#6e6b5e,hl:#b65611\
- --color=bg+:#a6a28c,fg+:#6e6b5e,hl+:#\
- --color=info:#,border:#6684e1,prompt:#60ac39\
- --color=pointer:#fefbec,marker:#,spinner:#,header:#d73737"
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
+" --color=bg:#fefbec,fg:#6e6b5e,hl:#b65611"\
+" --color=bg+:#a6a28c,fg+:#6e6b5e,hl+:#"\
+" --color=info:#,border:#6684e1,prompt:#60ac39"\
+" --color=pointer:#fefbec,marker:#,spinner:#,header:#d73737"
